@@ -1,0 +1,388 @@
+{
+  "116": {
+    "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
+    "retrieved_pmids": [
+      "22014867",
+      "37532368",
+      "36088151",
+      "15162258",
+      "12973373",
+      "21603432",
+      "16493160",
+      "18651518",
+      "30709524",
+      "17028491"
+    ],
+    "reference_sentences": [
+      {
+        "pmid": "22014867",
+        "sentence": "This purpose of this case study is to describe a natural method to help in management of obstructive sleep apnea syndrome (OSAS), which is known to be a common and debilitating condition.",
+        "score": 0.498772531747818
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "score": 0.5058627724647522
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
+        "score": 0.5040990710258484
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "score": 0.45416295528411865
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "score": 0.5058627724647522
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
+        "score": 0.5040990710258484
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "score": 0.45416295528411865
+      },
+      {
+        "pmid": "15162258",
+        "sentence": "Different nonprescription therapies are available (internal and external nasal dilators, nasal and oral lubricants, dietary supplements, magnetic pillows and matresses) but their usefulness for the treatment has not been demonstrated.",
+        "score": 0.5008842349052429
+      },
+      {
+        "pmid": "15162258",
+        "sentence": "The treatment of choice for sleep-related obstructive breathing disorders is nCPAP.",
+        "score": 0.494102418422699
+      },
+      {
+        "pmid": "15162258",
+        "sentence": "There is a good relief in snoring but the reduction in apnea rate is less successful.",
+        "score": 0.4893149435520172
+      },
+      {
+        "pmid": "12973373",
+        "sentence": "Obstructive sleep apnea is characterized by the repetitive collapse of the upper airway during sleep.",
+        "score": 0.49534839391708374
+      },
+      {
+        "pmid": "12973373",
+        "sentence": "Presently, CPAP is considered the first-line treatment for moderate to severe sleep apnea and one of the first-line treatments for mild disease.",
+        "score": 0.49163225293159485
+      },
+      {
+        "pmid": "12973373",
+        "sentence": "A variety of nonsurgical treatments for obstructive sleep apnea have been developed, including behavioral therapies, continuous positive airway pressure (CPAP) devices, oral appliances and medications.",
+        "score": 0.4871656596660614
+      },
+      {
+        "pmid": "21603432",
+        "sentence": "However, conservative approaches, such as weight loss and alcohol and tobacco cessation, are also strongly encouraged in the patient with obstructive sleep apnea.",
+        "score": 0.5103548169136047
+      },
+      {
+        "pmid": "21603432",
+        "sentence": "Undetected obstructive sleep apnea can lead to hypertension, heart disease, depression, and even death.",
+        "score": 0.5074352025985718
+      },
+      {
+        "pmid": "21603432",
+        "sentence": "Symptoms include daytime sleepiness, loud snoring, and restless sleep.",
+        "score": 0.5054358243942261
+      },
+      {
+        "pmid": "16493160",
+        "sentence": "The consequences of sleep apnea fall into two domains: (1) neurocognitive dysfunction (sleepiness and decreased quality of life) resulting from sleep fragmentation and (2) cardiovascular disease (hypertension, stroke, myocardial infarction, and heart failure) likely resulting from the intermittent hypoxia.",
+        "score": 0.5209109783172607
+      },
+      {
+        "pmid": "16493160",
+        "sentence": "Thus, therapy must be individualized to the patient's desires and the severity of the apnea.",
+        "score": 0.5119959712028503
+      },
+      {
+        "pmid": "16493160",
+        "sentence": "Obstructive sleep apnea is a common disorder characterized by repetitive collapse of the pharyngeal airway during sleep.",
+        "score": 0.4920068085193634
+      },
+      {
+        "pmid": "18651518",
+        "sentence": "Obstructive sleep apnea (OSA) is a common medical condition that occurs in approximately 5% to 15% of the population.",
+        "score": 0.4999615550041199
+      },
+      {
+        "pmid": "18651518",
+        "sentence": "In addition to continous positive airway pressure therapy, precautions such as weight loss, avoidance of central nervous system depressants, treatment of nasal congestion and sleeping in the lateral position may help to treat OSA.",
+        "score": 0.4903406798839569
+      },
+      {
+        "pmid": "18651518",
+        "sentence": "Diagnosis of OSA is based on polysomnography, and its severity is measured with an apnea-hypopnea index.",
+        "score": 0.47615450620651245
+      },
+      {
+        "pmid": "30709524",
+        "sentence": "A holistic approach is pertinent in managing obstructive sleep apnea (OSA).",
+        "score": 0.5111280679702759
+      },
+      {
+        "pmid": "30709524",
+        "sentence": "It goes beyond integrated multidisciplinary assessment and management in the hospital setting.",
+        "score": 0.47050946950912476
+      },
+      {
+        "pmid": "30709524",
+        "sentence": "It involves active screening of patients with OSA and treating them and identifying patients with OSA with high risk of preventable serious morbidity and death and intervening early to prevent these from happening.",
+        "score": 0.46470266580581665
+      },
+      {
+        "pmid": "17028491",
+        "sentence": "Daytime sleepiness, snoring, and breathing pauses are important symptoms to elicit from the patient or sleep partner.",
+        "score": 0.5090498328208923
+      },
+      {
+        "pmid": "17028491",
+        "sentence": "Obstructive sleep apnea syndrome is caused by upper airway collapse during inspiration, causing intermittent hypoxemia, hypercapnia, acidosis, sympathetic nervous system activation, and arousal from sleep.",
+        "score": 0.4944699704647064
+      },
+      {
+        "pmid": "17028491",
+        "sentence": "Weight loss, avoidance of nocturnal sedatives, cessation of evening alcohol ingestion, and avoidance of the supine position during sleep are initial therapeutic actions in mild obstructive sleep apnea syndrome.",
+        "score": 0.487811416387558
+      }
+    ],
+    "context": "[1] PMID 16493160: The consequences of sleep apnea fall into two domains: (1) neurocognitive dysfunction (sleepiness and decreased quality of life) resulting from sleep fragmentation and (2) cardiovascular disease (hypertension, stroke, myocardial infarction, and heart failure) likely resulting from the intermittent hypoxia.\n[2] PMID 16493160: Thus, therapy must be individualized to the patient's desires and the severity of the apnea.\n[3] PMID 30709524: A holistic approach is pertinent in managing obstructive sleep apnea (OSA).\n[4] PMID 21603432: However, conservative approaches, such as weight loss and alcohol and tobacco cessation, are also strongly encouraged in the patient with obstructive sleep apnea.\n[5] PMID 17028491: Daytime sleepiness, snoring, and breathing pauses are important symptoms to elicit from the patient or sleep partner.\n[6] PMID 21603432: Undetected obstructive sleep apnea can lead to hypertension, heart disease, depression, and even death.\n[7] PMID 37532368: Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.\n[8] PMID 36088151: Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.\n[9] PMID 21603432: Symptoms include daytime sleepiness, loud snoring, and restless sleep.\n[10] PMID 37532368: Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.\n[11] PMID 36088151: Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.\n[12] PMID 15162258: Different nonprescription therapies are available (internal and external nasal dilators, nasal and oral lubricants, dietary supplements, magnetic pillows and matresses) but their usefulness for the treatment has not been demonstrated.\n[13] PMID 18651518: Obstructive sleep apnea (OSA) is a common medical condition that occurs in approximately 5% to 15% of the population.\n[14] PMID 22014867: This purpose of this case study is to describe a natural method to help in management of obstructive sleep apnea syndrome (OSAS), which is known to be a common and debilitating condition.\n[15] PMID 12973373: Obstructive sleep apnea is characterized by the repetitive collapse of the upper airway during sleep.\n[16] PMID 17028491: Obstructive sleep apnea syndrome is caused by upper airway collapse during inspiration, causing intermittent hypoxemia, hypercapnia, acidosis, sympathetic nervous system activation, and arousal from sleep.\n[17] PMID 15162258: The treatment of choice for sleep-related obstructive breathing disorders is nCPAP.\n[18] PMID 16493160: Obstructive sleep apnea is a common disorder characterized by repetitive collapse of the pharyngeal airway during sleep.\n[19] PMID 12973373: Presently, CPAP is considered the first-line treatment for moderate to severe sleep apnea and one of the first-line treatments for mild disease.\n[20] PMID 18651518: In addition to continous positive airway pressure therapy, precautions such as weight loss, avoidance of central nervous system depressants, treatment of nasal congestion and sleeping in the lateral position may help to treat OSA.",
+    "answer": "Natural approaches to prevent and manage obstructive sleep apnea (OSA) include weight loss, avoiding central nervous system depressants, treating nasal congestion, and sleeping in the lateral position [PMID: 18651518, PMID: 21603432]. Conservative measures such as alcohol and tobacco cessation are also strongly encouraged [PMID: 21603432]. \n\nComplementary and integrative approaches, when combined with conventional methods, may offer some reduction in the apnea-hypopnea index, but their effectiveness as standalone treatments is not well established [PMID: 37532368, PMID: 36088151]. Nonprescription therapies, such as nasal dilators, oral lubricants, dietary supplements, and magnetic pillows, are available but lack sufficient evidence to support their utility in treating OSA [PMID: 15162258]. \n\nOverall, while natural remedies may help manage mild OSA, conventional therapies like CPAP remain the most effective treatment options [PMID: 37532368, PMID: 12973373].",
+    "validation": {
+      "word_count": 127,
+      "under_250_words": true,
+      "used_pmids": [
+        "12973373",
+        "15162258",
+        "18651518",
+        "21603432",
+        "36088151",
+        "37532368"
+      ],
+      "invalid_pmids": [],
+      "all_pmids_valid": true
+    },
+    "sentence_alignment": [
+      {
+        "sentence": "Natural approaches to prevent and manage obstructive sleep apnea (OSA) include weight loss, avoiding central nervous system depressants, treating nasal congestion, and sleeping in the lateral position [PMID: 18651518, PMID: 21603432].",
+        "label": "Required",
+        "raw_output": "Required"
+      },
+      {
+        "sentence": "Conservative measures such as alcohol and tobacco cessation are also strongly encouraged [PMID: 21603432].",
+        "label": "Required",
+        "raw_output": "Required"
+      },
+      {
+        "sentence": "Complementary and integrative approaches, when combined with conventional methods, may offer some reduction in the apnea-hypopnea index, but their effectiveness as standalone treatments is not well established [PMID: 37532368, PMID: 36088151].",
+        "label": "Required",
+        "raw_output": "Required"
+      },
+      {
+        "sentence": "Nonprescription therapies, such as nasal dilators, oral lubricants, dietary supplements, and magnetic pillows, are available but lack sufficient evidence to support their utility in treating OSA [PMID: 15162258].",
+        "label": "UNKNOWN",
+        "raw_output": "Rate limit reached (429)"
+      },
+      {
+        "sentence": "Overall, while natural remedies may help manage mild OSA, conventional therapies like CPAP remain the most effective treatment options [PMID: 37532368, PMID: 12973373].",
+        "label": "Borderline",
+        "raw_output": "Borderline"
+      }
+    ],
+    "answer_entailment": {
+      "label": "UNKNOWN",
+      "raw_output": "Rate limit reached (429)"
+    }
+  },
+  "118": {
+    "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
+    "retrieved_pmids": [
+      "25140844",
+      "31598519",
+      "29355667",
+      "15259527",
+      "23652196",
+      "27119941",
+      "33200044",
+      "29217021",
+      "32037876",
+      "23317075"
+    ],
+    "reference_sentences": [
+      {
+        "pmid": "25140844",
+        "sentence": "A focused history and physical exam can identify patients with corneal abrasions and improve intervention time.",
+        "score": 0.5371188521385193
+      },
+      {
+        "pmid": "25140844",
+        "sentence": "Minor corneal abrasions usually heal within 48 hours without complications or eye damage.",
+        "score": 0.5353898406028748
+      },
+      {
+        "pmid": "25140844",
+        "sentence": "Corneal abrasion is a common eye injury that occurs in all age-groups.",
+        "score": 0.5329091548919678
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss.",
+        "score": 0.5334785580635071
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment.",
+        "score": 0.5281267166137695
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Recently-developed medical treatments can target the re-epithelialization process by facilitating access to growth factors and anti-inflammatory agents, and novel surgical techniques can provide re-innervation to the cornea.",
+        "score": 0.5111106038093567
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "After trauma, the cornea typically re-epithelializes promptly thereby minimizing the risk of infection, opacification or perforation.",
+        "score": 0.5525380969047546
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "Although significant progress has been made in recent years, pharmaco-therapeutic agents that promote corneal healing remain limited.",
+        "score": 0.5488313436508179
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "In the case of deeper corneal injury and corneal pathology the wound healing cascade can also extend to the corneal stroma, the layer below the epithelium.",
+        "score": 0.5434677004814148
+      },
+      {
+        "pmid": "15259527",
+        "sentence": "Most corneal abrasions heal in 24 to 72 hours and rarely progress to corneal erosion or infection.",
+        "score": 0.5517295598983765
+      },
+      {
+        "pmid": "15259527",
+        "sentence": "Corneal abrasions can be avoided through the use of protective eyewear.",
+        "score": 0.5488117933273315
+      },
+      {
+        "pmid": "15259527",
+        "sentence": "Although eye patching traditionally has been recommended in the treatment of corneal abrasions, multiple well-designed studies show that patching does not help and may hinder healing.",
+        "score": 0.5301793217658997
+      },
+      {
+        "pmid": "23652196",
+        "sentence": "To compare three different treatment modalities for traumatic corneal abrasions.",
+        "score": 0.541037380695343
+      },
+      {
+        "pmid": "27119941",
+        "sentence": "Persistent, worsening, or new symptoms warrant immediate specialist consultation.",
+        "score": 0.47377875447273254
+      },
+      {
+        "pmid": "27119941",
+        "sentence": "Treatment requires pain control, antimicrobial prophylaxis, and close monitoring.",
+        "score": 0.45182156562805176
+      },
+      {
+        "pmid": "27119941",
+        "sentence": "Pain improves significantly after 24 hours and should be resolved by 48 hours.",
+        "score": 0.44738465547561646
+      },
+      {
+        "pmid": "33200044",
+        "sentence": "Corneal injury activates a carefully orchestrated series of repair processes capable of resolving minor lesions over time, but it often fails to overcome the menace of moderate, severe, and chronic injuries and secondary pathophysiologies that permanently impair vision.",
+        "score": 0.5454921722412109
+      },
+      {
+        "pmid": "33200044",
+        "sentence": "Cornea, a highly specialized transparent tissue, is the major refractive element of the eye.",
+        "score": 0.5162348747253418
+      },
+      {
+        "pmid": "33200044",
+        "sentence": "The cornea is highly susceptible to chemotoxic injury through topical exposure to vapors, microparticles, and aqueous drops, as well as through systemically absorbed chemicals that access the cornea via tear film, aqueous humor, and limbal vasculature.",
+        "score": 0.4800972044467926
+      },
+      {
+        "pmid": "29217021",
+        "sentence": "To characterize the treatment and follow-up patterns of corneal abrasions at an academic health centre.",
+        "score": 0.49154093861579895
+      },
+      {
+        "pmid": "32037876",
+        "sentence": "There is no agreement about or understanding of what rehabilitation is; those who pay for it, those who provide it, and those who receive it all have different interpretations.",
+        "score": 0.4876701831817627
+      },
+      {
+        "pmid": "32037876",
+        "sentence": "Definitions based on authority or on theory also vary and do not give a clear description of what someone buying, providing, or receiving rehabilitation can actually expect.",
+        "score": 0.48098433017730713
+      },
+      {
+        "pmid": "32037876",
+        "sentence": "Furthermore, within each group, there will be a variety of opinions.",
+        "score": 0.45936521887779236
+      },
+      {
+        "pmid": "23317075",
+        "sentence": "Referral is indicated for any patient with symptoms that do not improve or that worsen, a corneal infiltrate or ulcer, significant vision loss, or a penetrating eye injury.",
+        "score": 0.5312404036521912
+      },
+      {
+        "pmid": "23317075",
+        "sentence": "History and physical examination should exclude serious causes of eye pain, including penetrating injury, infective keratitis, and corneal ulcers.",
+        "score": 0.5205544233322144
+      },
+      {
+        "pmid": "23317075",
+        "sentence": "After fluorescein staining of the cornea, an abrasion will appear yellow under normal light and green in cobalt blue light.",
+        "score": 0.5161303281784058
+      }
+    ],
+    "context": "[1] PMID 29355667: After trauma, the cornea typically re-epithelializes promptly thereby minimizing the risk of infection, opacification or perforation.\n[2] PMID 15259527: Most corneal abrasions heal in 24 to 72 hours and rarely progress to corneal erosion or infection.\n[3] PMID 29355667: Although significant progress has been made in recent years, pharmaco-therapeutic agents that promote corneal healing remain limited.\n[4] PMID 15259527: Corneal abrasions can be avoided through the use of protective eyewear.\n[5] PMID 33200044: Corneal injury activates a carefully orchestrated series of repair processes capable of resolving minor lesions over time, but it often fails to overcome the menace of moderate, severe, and chronic injuries and secondary pathophysiologies that permanently impair vision.\n[6] PMID 29355667: In the case of deeper corneal injury and corneal pathology the wound healing cascade can also extend to the corneal stroma, the layer below the epithelium.\n[7] PMID 23652196: To compare three different treatment modalities for traumatic corneal abrasions.\n[8] PMID 25140844: A focused history and physical exam can identify patients with corneal abrasions and improve intervention time.\n[9] PMID 25140844: Minor corneal abrasions usually heal within 48 hours without complications or eye damage.\n[10] PMID 31598519: Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss.\n[11] PMID 25140844: Corneal abrasion is a common eye injury that occurs in all age-groups.\n[12] PMID 23317075: Referral is indicated for any patient with symptoms that do not improve or that worsen, a corneal infiltrate or ulcer, significant vision loss, or a penetrating eye injury.\n[13] PMID 15259527: Although eye patching traditionally has been recommended in the treatment of corneal abrasions, multiple well-designed studies show that patching does not help and may hinder healing.\n[14] PMID 31598519: Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment.\n[15] PMID 23317075: History and physical examination should exclude serious causes of eye pain, including penetrating injury, infective keratitis, and corneal ulcers.\n[16] PMID 33200044: Cornea, a highly specialized transparent tissue, is the major refractive element of the eye.\n[17] PMID 23317075: After fluorescein staining of the cornea, an abrasion will appear yellow under normal light and green in cobalt blue light.\n[18] PMID 31598519: Recently-developed medical treatments can target the re-epithelialization process by facilitating access to growth factors and anti-inflammatory agents, and novel surgical techniques can provide re-innervation to the cornea.\n[19] PMID 29217021: To characterize the treatment and follow-up patterns of corneal abrasions at an academic health centre.\n[20] PMID 32037876: There is no agreement about or understanding of what rehabilitation is; those who pay for it, those who provide it, and those who receive it all have different interpretations.",
+    "answer": "Minor corneal abrasions usually heal within 48 hours without complications or eye damage [PMID: 25140844]. Most corneal abrasions heal in 24 to 72 hours and rarely progress to corneal erosion or infection [PMID: 15259527]. However, if symptoms do not improve or worsen, medical attention should be sought to prevent complications such as infection, scarring, or vision loss [PMID: 31598519, PMID: 23317075].",
+    "validation": {
+      "word_count": 61,
+      "under_250_words": true,
+      "used_pmids": [
+        "15259527",
+        "23317075",
+        "25140844",
+        "31598519"
+      ],
+      "invalid_pmids": [],
+      "all_pmids_valid": true
+    },
+    "sentence_alignment": [
+      {
+        "sentence": "Minor corneal abrasions usually heal within 48 hours without complications or eye damage [PMID: 25140844].",
+        "label": "Required",
+        "raw_output": "Required"
+      },
+      {
+        "sentence": "Most corneal abrasions heal in 24 to 72 hours and rarely progress to corneal erosion or infection [PMID: 15259527].",
+        "label": "Required",
+        "raw_output": "Required"
+      },
+      {
+        "sentence": "However, if symptoms do not improve or worsen, medical attention should be sought to prevent complications such as infection, scarring, or vision loss [PMID: 31598519, PMID: 23317075].",
+        "label": "UNKNOWN",
+        "raw_output": "Rate limit reached (429)"
+      }
+    ],
+    "answer_entailment": {
+      "label": "UNKNOWN",
+      "raw_output": "Rate limit reached (429)"
+    }
+  }
+}
