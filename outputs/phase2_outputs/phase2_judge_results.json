@@ -1,0 +1,114 @@
+{
+  "116": {
+    "qid": "116",
+    "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
+    "answer": "There are natural ways to help manage sleep apnea [PMID:22014867]. Some complementary and integrative approaches, like lifestyle programs, may help reduce sleep apnea [PMID:37532368]. Weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies [PMID:37532368]. Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact [PMID:3753",
+    "sentence_judgments": [
+      {
+        "pmid": "22014867",
+        "sentence": "This purpose of this case study is to describe a natural method to help in management of obstructive sleep apnea syndrome (OSAS), which is known to be a common and debilitating condition.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
+        "cross_encoder_score": 0.9999762773513794,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "cross_encoder_score": 0.9989560842514038,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "cross_encoder_score": 0.5001987218856812,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
+        "cross_encoder_score": 0.9999762773513794,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "cross_encoder_score": 0.9989560842514038,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36088151",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "cross_encoder_score": 0.5001987218856812,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "118": {
+    "qid": "118",
+    "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
+    "answer": "A minor cornea injury usually heals within 48 hours without complications [PMID:25140844]. A focused history and physical exam can identify patients with corneal abrasions and improve intervention time [PMID:25140844]. Corneal abrasion is a common eye injury that occurs in all age-groups [PMID:25140844]. Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss [PMID:",
+    "sentence_judgments": [
+      {
+        "pmid": "25140844",
+        "sentence": "Minor corneal abrasions usually heal within 48 hours without complications or eye damage.",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "25140844",
+        "sentence": "A focused history and physical exam can identify patients with corneal abrasions and improve intervention time.",
+        "cross_encoder_score": 0.999993085861206,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25140844",
+        "sentence": "Corneal abrasion is a common eye injury that occurs in all age-groups.",
+        "cross_encoder_score": 0.9999316930770874,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss.",
+        "cross_encoder_score": 0.9982814788818359,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment.",
+        "cross_encoder_score": 0.990475594997406,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "31598519",
+        "sentence": "Recently-developed medical treatments can target the re-epithelialization process by facilitating access to growth factors and anti-inflammatory agents, and novel surgical techniques can provide re-innervation to the cornea.",
+        "cross_encoder_score": 0.9891891479492188,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "After trauma, the cornea typically re-epithelializes promptly thereby minimizing the risk of infection, opacification or perforation.",
+        "cross_encoder_score": 0.9999926090240479,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "In the case of deeper corneal injury and corneal pathology the wound healing cascade can also extend to the corneal stroma, the layer below the epithelium.",
+        "cross_encoder_score": 0.9999905824661255,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "29355667",
+        "sentence": "Although significant progress has been made in recent years, pharmaco-therapeutic agents that promote corneal healing remain limited.",
+        "cross_encoder_score": 0.9986188411712646,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  }
+}
