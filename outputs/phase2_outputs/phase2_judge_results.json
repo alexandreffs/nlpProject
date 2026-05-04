@@ -2,97 +2,49 @@
   "116": {
     "qid": "116",
     "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
-    "answer": "There are natural ways to help manage obstructive sleep apnea (OSAS) [PMID:22014867]. Identifying and preventing OSA is important [PMID:30709524]. A holistic approach is pertinent in managing OSA [PMID:30709524]. Conservative approaches, such as weight loss and alcohol and tobacco cessation, are also strongly encouraged [PMID:21603432]. Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in",
+    "answer": "There are natural ways to help manage sleep apnea [PMID:22014867]. Some complementary and integrative approaches, like lifestyle programs, may help reduce sleep apnea [PMID:37532368]. Weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies [PMID:37532368]. Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact [PMID:3753",
     "sentence_judgments": [
       {
         "pmid": "22014867",
         "sentence": "This purpose of this case study is to describe a natural method to help in management of obstructive sleep apnea syndrome (OSAS), which is known to be a common and debilitating condition.",
-        "cross_encoder_score": 0.999997615814209,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "30709524",
-        "sentence": "The future of OSA management lies in identifying patients at risk of developing OSA and developing strategy to prevent OSA from taking root.",
-        "cross_encoder_score": 0.9999834299087524,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "30709524",
-        "sentence": "It involves active screening of patients with OSA and treating them and identifying patients with OSA with high risk of preventable serious morbidity and death and intervening early to prevent these from happening.",
-        "cross_encoder_score": 0.9998856782913208,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "30709524",
-        "sentence": "A holistic approach is pertinent in managing obstructive sleep apnea (OSA).",
-        "cross_encoder_score": 0.9977571368217468,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "30709524",
-        "sentence": "Although clinicians should be aware of different treatment modalities and adjunctive measures, proactive management of OSA is as important.",
-        "cross_encoder_score": 0.9825214743614197,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "15162258",
-        "sentence": "The are no data that support the use of drugs as a therapy for obstructive sleep apnea.",
-        "cross_encoder_score": 0.9996776580810547,
-        "judge_label": "Required"
-      },
-      {
-        "pmid": "15162258",
-        "sentence": "There is a good relief in snoring but the reduction in apnea rate is less successful.",
-        "cross_encoder_score": 0.9989628791809082,
-        "judge_label": "Borderline"
-      },
-      {
-        "pmid": "15162258",
-        "sentence": "The treatment of choice for sleep-related obstructive breathing disorders is nCPAP.",
-        "cross_encoder_score": 0.9545642733573914,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "12973373",
-        "sentence": "Medications have thus far been unsuccessful as a treatment option for sleep apnea.",
-        "cross_encoder_score": 0.999606192111969,
-        "judge_label": "Required"
-      },
-      {
-        "pmid": "12973373",
-        "sentence": "Presently, CPAP is considered the first-line treatment for moderate to severe sleep apnea and one of the first-line treatments for mild disease.",
-        "cross_encoder_score": 0.9937236905097961,
+        "cross_encoder_score": 0.9999997615814209,
         "judge_label": "Unnecessary"
       },
       {
         "pmid": "37532368",
         "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
-        "cross_encoder_score": 0.9983105659484863,
+        "cross_encoder_score": 0.9999762773513794,
         "judge_label": "Borderline"
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "cross_encoder_score": 0.9989560842514038,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "37532368",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "cross_encoder_score": 0.5001987218856812,
+        "judge_label": "Required"
       },
       {
         "pmid": "36088151",
         "sentence": "Complementary and integrative approaches to OSA management are varied and, in conjunction with conventional methods, may offer some reduction in the apnea-hypopnea index.",
-        "cross_encoder_score": 0.9983105659484863,
+        "cross_encoder_score": 0.9999762773513794,
         "judge_label": "Borderline"
       },
       {
-        "pmid": "16493160",
-        "sentence": "Thus, therapy must be individualized to the patient's desires and the severity of the apnea.",
-        "cross_encoder_score": 0.9969622492790222,
+        "pmid": "36088151",
+        "sentence": "Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact.",
+        "cross_encoder_score": 0.9989560842514038,
         "judge_label": "Unnecessary"
       },
       {
-        "pmid": "21603432",
-        "sentence": "However, conservative approaches, such as weight loss and alcohol and tobacco cessation, are also strongly encouraged in the patient with obstructive sleep apnea.",
-        "cross_encoder_score": 0.9956377148628235,
+        "pmid": "36088151",
+        "sentence": "With rising obesity rates, weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies.",
+        "cross_encoder_score": 0.5001987218856812,
         "judge_label": "Required"
-      },
-      {
-        "pmid": "21603432",
-        "sentence": "Obstructive sleep apnea is an underrecognized and underdiagnosed medical condition, with a myriad of negative consequences on patients' health and society as a whole.",
-        "cross_encoder_score": 0.977933406829834,
-        "judge_label": "Unnecessary"
       }
     ],
     "entailment_label": "Partially Supported"
@@ -100,97 +52,61 @@
   "118": {
     "qid": "118",
     "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
-    "answer": "Minor corneal injuries usually heal within 48 hours [PMID:25140844]. A focused history and physical exam can help identify these injuries [PMID:25140844]. Most corneal abrasions heal in 24 to 72 hours [PMID:15259527]. Corneal injury activates a carefully orchestrated series of repair processes capable of resolving minor lesions over time [PMID:33200044]. The cornea typically re-epithelializes promptly after trauma [PMID:",
+    "answer": "A minor cornea injury usually heals within 48 hours without complications [PMID:25140844]. A focused history and physical exam can identify patients with corneal abrasions and improve intervention time [PMID:25140844]. Corneal abrasion is a common eye injury that occurs in all age-groups [PMID:25140844]. Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss [PMID:",
     "sentence_judgments": [
-      {
-        "pmid": "33200044",
-        "sentence": "Corneal injury activates a carefully orchestrated series of repair processes capable of resolving minor lesions over time, but it often fails to overcome the menace of moderate, severe, and chronic injuries and secondary pathophysiologies that permanently impair vision.",
-        "cross_encoder_score": 0.9999998807907104,
-        "judge_label": "Borderline"
-      },
-      {
-        "pmid": "33200044",
-        "sentence": "The most serious complications of chemical injuries-persistent corneal edema, neovascularization, scarring/haze, limbal stem cell deficiency, and corneal melting-often manifest over months to years, suggesting that a better understanding of endogenous regenerative mechanisms of corneal repair can lead to the development of improved treatments that may attenuate or prevent corneal defects and protect vision.",
-        "cross_encoder_score": 0.9993164539337158,
-        "judge_label": "Unnecessary"
-      },
       {
         "pmid": "25140844",
         "sentence": "Minor corneal abrasions usually heal within 48 hours without complications or eye damage.",
-        "cross_encoder_score": 0.9999996423721313,
+        "cross_encoder_score": 0.9999995231628418,
         "judge_label": "Required"
       },
       {
         "pmid": "25140844",
         "sentence": "A focused history and physical exam can identify patients with corneal abrasions and improve intervention time.",
-        "cross_encoder_score": 0.9996275901794434,
+        "cross_encoder_score": 0.999993085861206,
         "judge_label": "Unnecessary"
       },
       {
         "pmid": "25140844",
         "sentence": "Corneal abrasion is a common eye injury that occurs in all age-groups.",
-        "cross_encoder_score": 0.9979331493377686,
+        "cross_encoder_score": 0.9999316930770874,
         "judge_label": "Unnecessary"
       },
       {
-        "pmid": "15259527",
-        "sentence": "Most corneal abrasions heal in 24 to 72 hours and rarely progress to corneal erosion or infection.",
-        "cross_encoder_score": 0.9999805688858032,
-        "judge_label": "Required"
+        "pmid": "31598519",
+        "sentence": "Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss.",
+        "cross_encoder_score": 0.9982814788818359,
+        "judge_label": "Inappropriate"
       },
       {
-        "pmid": "15259527",
-        "sentence": "Although eye patching traditionally has been recommended in the treatment of corneal abrasions, multiple well-designed studies show that patching does not help and may hinder healing.",
-        "cross_encoder_score": 0.9717181921005249,
-        "judge_label": "Borderline"
+        "pmid": "31598519",
+        "sentence": "Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment.",
+        "cross_encoder_score": 0.990475594997406,
+        "judge_label": "Inappropriate"
       },
       {
-        "pmid": "23317075",
-        "sentence": "Referral is indicated for any patient with symptoms that do not improve or that worsen, a corneal infiltrate or ulcer, significant vision loss, or a penetrating eye injury.",
-        "cross_encoder_score": 0.999968409538269,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "23317075",
-        "sentence": "History and physical examination should exclude serious causes of eye pain, including penetrating injury, infective keratitis, and corneal ulcers.",
-        "cross_encoder_score": 0.999383807182312,
+        "pmid": "31598519",
+        "sentence": "Recently-developed medical treatments can target the re-epithelialization process by facilitating access to growth factors and anti-inflammatory agents, and novel surgical techniques can provide re-innervation to the cornea.",
+        "cross_encoder_score": 0.9891891479492188,
         "judge_label": "Unnecessary"
       },
       {
         "pmid": "29355667",
         "sentence": "After trauma, the cornea typically re-epithelializes promptly thereby minimizing the risk of infection, opacification or perforation.",
-        "cross_encoder_score": 0.9999630451202393,
+        "cross_encoder_score": 0.9999926090240479,
         "judge_label": "Borderline"
       },
       {
         "pmid": "29355667",
         "sentence": "In the case of deeper corneal injury and corneal pathology the wound healing cascade can also extend to the corneal stroma, the layer below the epithelium.",
-        "cross_encoder_score": 0.9997325539588928,
+        "cross_encoder_score": 0.9999905824661255,
         "judge_label": "Unnecessary"
       },
       {
         "pmid": "29355667",
         "sentence": "Although significant progress has been made in recent years, pharmaco-therapeutic agents that promote corneal healing remain limited.",
-        "cross_encoder_score": 0.9631442427635193,
+        "cross_encoder_score": 0.9986188411712646,
         "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "27119941",
-        "sentence": "The authors review the pathophysiology of perioperative corneal abrasion, and propose updated evidence-based guidelines for improved patient care.",
-        "cross_encoder_score": 0.9992988109588623,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "31598519",
-        "sentence": "Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment.",
-        "cross_encoder_score": 0.9968512654304504,
-        "judge_label": "Inappropriate"
-      },
-      {
-        "pmid": "31598519",
-        "sentence": "Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss.",
-        "cross_encoder_score": 0.9766777753829956,
-        "judge_label": "Inappropriate"
       }
     ],
     "entailment_label": "Partially Supported"
@@ -198,97 +114,1687 @@
   "120": {
     "qid": "120",
     "question": "causes of facial numbness What causes left sided facial numbness? This patient is feeling the left side of his face is numb. He did not have any injuries or procedures, and feels well otherwise. He is concerned this might be a sign of a problem and wants to know if the causes need medical attention.",
-    "answer": "Left-sided facial numbness can have several causes [PMID:17549061, PMID:16940363, PMID:16264857, PMID:16264857, PMID:30798276, PMID:30798276, PMID:18280947, PMID:18280947, PMID:17305614]. It could be due to a problem with the trig",
+    "answer": "Facial numbness can have several causes, and it's understandable to be concerned [PMID:31471563]. One possibility is numb chin syndrome, which is an uncommon but recognized symptom in medical oncology [PMID:18280947]. This syndrome can manifest as numbness in the lip and chin, sometimes accompanied by warmth in the ear [PMID:18280947]. A case series of 14 patients with facial numbness primarily presented to the ophthalmology clinic [PMID:3147156",
     "sentence_judgments": [
       {
-        "pmid": "17549061",
-        "sentence": "A 37-year-old woman without important previous medical history presented to an emergency room with acute onset of left-sided weakness and numbness.",
-        "cross_encoder_score": 0.9999997615814209,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "16940363",
-        "sentence": "We report a case of congenital absence of the left internal carotid artery (ICA) that presented with left-sided facial numbness.",
-        "cross_encoder_score": 0.9999991655349731,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "16264857",
-        "sentence": "A 37-year-old Brazilian man was admitted to Massachusetts General Hospital for evaluation of left-sided facial numbness, left-sided ataxia, dizziness, and vertigo.",
-        "cross_encoder_score": 0.9999990463256836,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "16264857",
-        "sentence": "Seven weeks prior to admission, he reported numbness of the left oral cavity and tongue after a dental procedure.",
-        "cross_encoder_score": 0.12603256106376648,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "30798276",
-        "sentence": "This 37-year-old man presented with left sided facial warmth and numbness associated with new sudden-onset right hemiparesis.",
-        "cross_encoder_score": 0.9999963045120239,
-        "judge_label": "Inappropriate"
-      },
-      {
-        "pmid": "30798276",
-        "sentence": "The patient first developed sudden numbness of his left lip and warmth in left ear which travelled to the rest of left face.",
-        "cross_encoder_score": 0.9999927282333374,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "18280947",
-        "sentence": "We report a case of a 79-year-old woman with widespread metastatic disease secondary to breast carcinoma who presented with a left-sided numb lip and chin.",
-        "cross_encoder_score": 0.9999727010726929,
+        "pmid": "31471563",
+        "sentence": "To report a case series of 14 patients presenting with facial numbness primarily to the ophthalmology clinic.",
+        "cross_encoder_score": 0.9999860525131226,
         "judge_label": "Unnecessary"
       },
       {
         "pmid": "18280947",
         "sentence": "Numb chin syndrome is almost unknown within the dental and oral and maxillofacial community, despite being well reported in the medical literature.",
-        "cross_encoder_score": 0.20514675974845886,
+        "cross_encoder_score": 0.9999947547912598,
         "judge_label": "Unnecessary"
       },
       {
-        "pmid": "17305614",
-        "sentence": "Facial numbness indicates trigeminal sensory alteration affecting the trigeminal system.",
-        "cross_encoder_score": 0.996065080165863,
-        "judge_label": "Required"
-      },
-      {
-        "pmid": "32445717",
-        "sentence": "The diagnosis of idiopathic facial paralysis is made after a thorough history and physical examination to exclude alternative etiologies and follow-up to ensure recovery of facial function.",
-        "cross_encoder_score": 0.9804543852806091,
-        "judge_label": "Unnecessary"
-      },
-      {
-        "pmid": "32445717",
-        "sentence": "Atypical presentation, recurrent paralysis, additional neurologic deficits, lack of facial recovery in 2-3 months, or a history of head and neck or cutaneous malignancy are concerning for alternative causes of facial paralysis requiring workup.",
-        "cross_encoder_score": 0.8615614175796509,
+        "pmid": "18280947",
+        "sentence": "Numb chin syndrome, sometimes called numb lip syndrome, is an uncommon but well-recognized symptom in medical oncology.",
+        "cross_encoder_score": 0.9999862909317017,
         "judge_label": "Borderline"
       },
       {
-        "pmid": "32445717",
-        "sentence": "Facial paralysis is the most common cranial nerve paralysis and the majority of these are idiopathic.",
-        "cross_encoder_score": 0.12969766557216644,
+        "pmid": "18280947",
+        "sentence": "We report a case of a 79-year-old woman with widespread metastatic disease secondary to breast carcinoma who presented with a left-sided numb lip and chin.",
+        "cross_encoder_score": 0.9977315068244934,
         "judge_label": "Unnecessary"
       },
       {
-        "pmid": "31471563",
-        "sentence": "To report a case series of 14 patients presenting with facial numbness primarily to the ophthalmology clinic.",
-        "cross_encoder_score": 0.968572199344635,
+        "pmid": "30798276",
+        "sentence": "The patient first developed sudden numbness of his left lip and warmth in left ear which travelled to the rest of left face.",
+        "cross_encoder_score": 0.9999996423721313,
         "judge_label": "Unnecessary"
       },
       {
-        "pmid": "31783736",
-        "sentence": "Numb Chin Syndrome (NCS), which is also characterized as sensory neuropathy of the mental nerve, describes a mostly unilateral numbness of the chin and lower lip.",
-        "cross_encoder_score": 0.9681232571601868,
+        "pmid": "30798276",
+        "sentence": "This 37-year-old man presented with left sided facial warmth and numbness associated with new sudden-onset right hemiparesis.",
+        "cross_encoder_score": 0.9999977350234985,
+        "judge_label": "Inappropriate"
+      },
+      {
+        "pmid": "30798276",
+        "sentence": "No acute infarcts were found on MRI.",
+        "cross_encoder_score": 0.1962735950946808,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "122": {
+    "qid": "122",
+    "question": "t wave abnormality What is a t wave abnormality? This patient had an ECG test. She was told some t wave abnormalities were seen in the test. She is looking for a definition of t wave abnormalities and an explanation of their meaning.",
+    "answer": "A T wave abnormality is when the T wave on your ECG looks unusual [PMID:11728347]. The causes of abnormal T waves on electrocardiography are multiple and varied [PMID:24276094]. Careful clinical history taking and physical examination are necessary for accurate identification of the cause of such abnormalities [PMID:24276094]. ST segment and T wave changes are the most common ECG abnormalities [PMID:4054634]. Notched or bifid T waves have been reported in a",
+    "sentence_judgments": [
+      {
+        "pmid": "24276094",
+        "sentence": "The causes of abnormal T waves on electrocardiography are multiple and varied.",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24276094",
+        "sentence": "We present two cases of T wave inversions with markedly different aetiologies.",
+        "cross_encoder_score": 0.9999840259552002,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24276094",
+        "sentence": "Careful clinical history taking and physical examination are necessary for accurate identification of the cause of such abnormalities.",
+        "cross_encoder_score": 0.9958122372627258,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "4054634",
+        "sentence": "ST segment and T wave changes are the most common ECG abnormalities.",
+        "cross_encoder_score": 0.9999959468841553,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "4054634",
+        "sentence": "Notched or bifid T waves have been reported in a variety of syndromes.",
+        "cross_encoder_score": 0.998812198638916,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "4054634",
+        "sentence": "Interpretation must be correlated with other clinical and laboratory information to avoid overestimating or underestimating their significance.",
+        "cross_encoder_score": 0.9583984613418579,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "11728347",
+        "sentence": "The T-wave abnormality criterion was based on a new set of normal T-wave amplitude limits differentiated by gender, age, electrocardiographic lead, and QRS axis.",
+        "cross_encoder_score": 0.9999985694885254,
         "judge_label": "Required"
       },
       {
-        "pmid": "35719795",
-        "sentence": "Conclusions Bilateral facial nerve palsy is an extremely rare condition with a varied etiology.",
-        "cross_encoder_score": 0.572532594203949,
+        "pmid": "11728347",
+        "sentence": "Thirteen categories of T-wave abnormalities were tested prospectively.",
+        "cross_encoder_score": 0.9999973773956299,
         "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "11728347",
+        "sentence": "Quantitative T-wave analysis in an electrocardiographic core laboratory revealed 6 of 13 prespecified categories of T-wave abnormalities that were significantly associated with an adverse outcome.",
+        "cross_encoder_score": 0.9999939203262329,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "124": {
+    "qid": "124",
+    "question": "cad without angina What does cad without angina mean? This patient was diagnosed with coronary heart disease without angina pectoris. He would like to know more about this condition.",
+    "answer": "CAD without angina means that a patient has coronary heart disease, but they don't experience chest pain (angina pectoris) [PMID:14963655]. This is common, but the prognosis is still being studied [PMID:34487597]. Some patients with CAD and no angina may have a different outcome than those with significant CAD and angina [PMID:17873528]. The absence of obstructive CAD in patients with angina is common, but its prognosis is debated [PMID:3448",
+    "sentence_judgments": [
+      {
+        "pmid": "14963655",
+        "sentence": "Coronary artery disease (CAD) is one of the most common diseases that accounts for a considerable part of health care reimbursement.",
+        "cross_encoder_score": 0.9966651797294617,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "14963655",
+        "sentence": "Thus, noninvasive diagnosis of CAD is likewise of pivotal importance for medical care today.",
+        "cross_encoder_score": 0.9966452717781067,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34487597",
+        "sentence": "The absence of obstructive coronary artery disease (CAD) in patients with angina is common, but its prognosis is debated.",
+        "cross_encoder_score": 0.9999948740005493,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "34487597",
+        "sentence": "We investigated outcomes of such patients to identify predictors of cardiovascular events.",
+        "cross_encoder_score": 0.23198732733726501,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "17873528",
+        "sentence": "Limited information is available comparing the clinical characteristics and prognosis for patients with coronary vasospastic angina in the absence of hemodynamically significant coronary artery disease (CAD) (defined as >50% stenosis) versus patients with significant fixed CAD presenting with either stable angina pectoris (SAP) or acute coronary syndromes (ACS).",
+        "cross_encoder_score": 0.9780195951461792,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "126": {
+    "qid": "126",
+    "question": "nondisjunction What is nondisjunction and what causes it? A family that is considering IVF has heard about nondisjunction. They would like to know more about non-disjunction and its causes.",
+    "answer": "Nondisjunction is when chromosomes don't separate properly during cell division [PMID:9801867]. This can happen in the egg or sperm cells [PMID:9801867]. It's a complex issue, and the exact causes are still being researched [PMID:9801867]. Most cases of aneuploidy, like trisomy 8, are thought to be caused by nondisjunction in the maternal germ line [PMID:19828553]. Linkage studies suggest that abnormal",
+    "sentence_judgments": [
+      {
+        "pmid": "9801867",
+        "sentence": "Causes of chromosomal nondisjunction is one of the remaining unanswered questions in human genetics.",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "9801867",
+        "sentence": "Only two cases from spontaneous abortions were due to maternal meiotic nondisjunction.",
+        "cross_encoder_score": 0.9997441172599792,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "9801867",
+        "sentence": "In order to increase our understanding of the mechanisms underlying nondisjunction we have performed a molecular study on trisomy 8 and trisomy 8 mosaicism.",
+        "cross_encoder_score": 0.9991247057914734,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "19828553",
+        "sentence": "It is known that most aneuploidies are due to non-disjunction events occurring in the maternal germ line.",
+        "cross_encoder_score": 0.9999912977218628,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "19828553",
+        "sentence": "Linkage studies have associated abnormal patterns of meiotic recombination to the origin of the non-disjunction event in many aneuploid conditions.",
+        "cross_encoder_score": 0.9990739822387695,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "19828553",
+        "sentence": "However, to date, little information on aneuploidy frequency in oocytes from donors is available.",
+        "cross_encoder_score": 0.8972219228744507,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "19548080",
+        "sentence": "To investigate whether the success rate of ICSI is (1) related to the etiology of infertility or (2) adversely affected by a family history of potential genetic disorders.",
+        "cross_encoder_score": 0.9532588124275208,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "128": {
+    "qid": "128",
+    "question": "cbd effect on liver enzymes How does CBD effect liver enzymes? This patient would like to know if cannabidiol (CBD) may damage his liver and if the liver enzyme tests will show the effect of CBD on the liver.",
+    "answer": "CBD may affect liver enzymes, and some studies have shown liver enzyme elevations [PMID:36912195]. This could indicate potential liver damage [PMID:36912195]. CBD can cause hepatotoxicity, possibly of a cholestatic nature [PMID:31052254]. The involvement of multiple pathways raises concerns about drug interactions and safety [PMID:31052254]. CBD was rapidly absorbed in all groups, regardless of hepatic function [PMID:30921490",
+    "sentence_judgments": [
+      {
+        "pmid": "36912195",
+        "sentence": "Findings of liver enzyme elevations in recent cannabidiol studies have raised concerns over liver safety.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "36912195",
+        "sentence": "This study aimed to determine the association between cannabidiol use, liver enzyme elevation, and drug-induced liver injury (DILI).",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31052254",
+        "sentence": "The involvement of numerous pathways associated with lipid and xenobiotic metabolism raises serious concerns about potential drug interactions as well as the safety of CBD.",
+        "cross_encoder_score": 0.9999990463256836,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "31052254",
+        "sentence": "In conclusion, CBD exhibited clear signs of hepatotoxicity, possibly of a cholestatic nature.",
+        "cross_encoder_score": 0.9999935626983643,
+        "judge_label": "Inappropriate"
+      },
+      {
+        "pmid": "31052254",
+        "sentence": "The goal of this study was to investigate Cannabidiol (CBD) hepatotoxicity in 8-week-old male B6C3F1 mice.",
+        "cross_encoder_score": 0.9999561309814453,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "30921490",
+        "sentence": "The pharmacokinetics and safety of a single oral dose of 200-mg plant-derived pharmaceutical formulation of highly purified cannabidiol (CBD) in oral solution (Epidiolex in the United States; 100 mg/mL) were assessed in subjects with mild to severe hepatic impairment (n = 8 each for mild and moderate, n = 6 for severe) relative to matched subjects with normal hepatic function (n = 8).",
+        "cross_encoder_score": 0.9999991655349731,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "30921490",
+        "sentence": "Exposure to the CBD metabolites (6-hydroxy-CBD and 7-hydroxy-CBD) also increased in subjects with moderate and severe hepatic impairment, but to a lesser extent than the parent drug.",
+        "cross_encoder_score": 0.999998927116394,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "30921490",
+        "sentence": "CBD was rapidly absorbed in all groups independent of hepatic function (median time to maximum plasma concentration, 2-2.8 hours).",
+        "cross_encoder_score": 0.9999366998672485,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "130": {
+    "qid": "130",
+    "question": "pcos and oxidative stress Is pcos linked to oxidative stress? The patient with polycystic ovary syndrome has heard the condition is linked to oxidative stress. She would like to know how oxidative stress effects pcos.",
+    "answer": "Polycystic ovary syndrome (PCOS) is often linked to increased oxidative stress [PMID:37337194]. Oxidative stress is now recognized to play a central role in the pathophysiology of many different disorders, including PCOS [PMID:31198521]. A genetic, epigenetic, and environmental association exists between oxidative stress (OS) and polycystic ovary syndrome (PCOS), expressed in a multifaceted clinical profile [PMID:36279177]. This review summarizes and discusses the role of OS in the pathogenesis of",
+    "sentence_judgments": [
+      {
+        "pmid": "37337194",
+        "sentence": "Polycystic ovary syndrome (PCOS) is often accompanied by increased oxidative stress levels; however, it is still unclear whether PCOS itself is causally related to oxidative stress (OS), whether OS can increase the occurrence of PCOS, and which characteristics of PCOS increase OS levels.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "37337194",
+        "sentence": "Therefore, this study explored the causal relationship between PCOS, its characteristics, and OS.",
+        "cross_encoder_score": 0.999843955039978,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36279177",
+        "sentence": "A genetic, epigenetic, and environmental association exists between oxidative stress (OS) and polycystic ovary syndrome (PCOS), expressed in a multifaceted clinical profile.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "36279177",
+        "sentence": "This review summarizes and discusses the role of OS in the pathogenesis of PCOS syndrome, focusing on metabolic, reproductive, and cancer complications.",
+        "cross_encoder_score": 0.9999983310699463,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31198521",
+        "sentence": "Oxidative stress is now recognized to play a central role in the pathophysiology of many different disorders, including PCOS.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "31198521",
+        "sentence": "This article reviews the literature data related to the mechanisms of oxidative stress in PCOS.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31198521",
+        "sentence": "Although intracellular reactive oxygen species (ROS) production and propagation are controlled by highly complex antioxidant enzymatic and non-enzymatic systems, understanding of mechanisms that oxidative stress is important to develop strategies for prevention and therapy of PCOS.",
+        "cross_encoder_score": 0.9999994039535522,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "132": {
+    "qid": "132",
+    "question": "low vitamin D What is the effect of low vitamin D? The patient diagnosed with vitamin D deficiency would like to know how the problem affects his health.",
+    "answer": "Vitamin D deficiency can affect your health in many ways [PMID:23542507]. It can increase your risk for a wide range of illnesses [PMID:23542507]. Low vitamin D can cause bone pain, muscle weakness, falls, and fractures [PMID:21984863]. It can also lead to osteomalacia, a softening of the bones [PMID:21984863]. Vitamin D deficiency can be caused by medications like anticonvulsants [PMID:2",
+    "sentence_judgments": [
+      {
+        "pmid": "23542507",
+        "sentence": "Vitamin D deficiency and insufficiency as a global health problem are likely to be a risk for wide spectrum of acute and chronic illnesses.",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "23542507",
+        "sentence": "Optimal vitamin D intake and its status are important not only for bone and calcium-phosphate metabolism, but also for overall health and well-being.",
+        "cross_encoder_score": 0.9997801184654236,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "21984863",
+        "sentence": "A disruption in any part of the vitamin D physiological pathway can result in vitamin D deficiency, which may lead to bone pain, muscle weakness, falls, low bone mass, and fractures.",
+        "cross_encoder_score": 0.9999631643295288,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "21984863",
+        "sentence": "Physicians should suspect osteomalacia in patients who have prolonged vitamin D deficiency, a low serum calcium level, or a low serum phosphorus level.",
+        "cross_encoder_score": 0.9995970129966736,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "21984863",
+        "sentence": "Patients may experience abnormal vitamin D metabolism as a result of taking anticonvulsants and other medications.",
+        "cross_encoder_score": 0.9488658308982849,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "22525842",
+        "sentence": "It is possible or even likely that low vitamin D status increases risk for a multitude of other conditions.",
+        "cross_encoder_score": 0.9999903440475464,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "22525842",
+        "sentence": "Low vitamin D status is extremely common worldwide due to low dietary intake and low skin production.",
+        "cross_encoder_score": 0.9999594688415527,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "22525842",
+        "sentence": "Suboptimal vitamin D status contributes to many conditions, including osteomalacia/rickets, osteoporosis, falls, and fractures.",
+        "cross_encoder_score": 0.9999574422836304,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "134": {
+    "qid": "134",
+    "question": "ibs symptoms and treatments What are the symptoms and treatments for IBS? The patient believes his symptoms may be related to irritable bowel syndrome (IBS). He would like to know more about the symptoms and treatment options.",
+    "answer": "Irritable bowel syndrome (IBS) is a complex functional bowel disorder [PMID:28224836]. Symptoms can include chronic abdominal pain and altered bowel habits [PMID:30466670]. The Rome IV classification groups patients based on predominant stool pattern [PMID:30466670]. There is no definitive treatment for IBS, and recommended treatments focus on symptom relief and improved quality of life [PMID:34128613]. Targeted symptomatic relief for the patient's predominant symptoms provides relief [",
+    "sentence_judgments": [
+      {
+        "pmid": "30466670",
+        "sentence": "Irritable bowel syndrome (IBS) is present in patients with symptoms of chronic abdominal pain and altered bowel habits but no identifiable organic etiology.",
+        "cross_encoder_score": 0.9999961853027344,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "30466670",
+        "sentence": "Targeted symptomatic relief for the patient's predominant symptoms provides relief in addition to effective older medications that are inexpensive and reliable.",
+        "cross_encoder_score": 0.9982494711875916,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "30466670",
+        "sentence": "Rome IV classification groups patients based on predominant stool pattern.",
+        "cross_encoder_score": 0.9665197730064392,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "28224836",
+        "sentence": "This article aims to inform readers about the symptoms and sub-classifications of IBS and the range of pharmacological and non-pharmacological treatments available, to enable nurses to understand and manage symptoms of the condition in this group of patients.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "28224836",
+        "sentence": "Irritable bowel syndrome (IBS) is a complex functional bowel disorder.",
+        "cross_encoder_score": 0.9999951124191284,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "28224836",
+        "sentence": "IBS is often misdiagnosed, and is not always managed effectively, despite the guidance available to clinicians.",
+        "cross_encoder_score": 0.9999277591705322,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34128613",
+        "sentence": "There is no definitive treatment for IBS, and recommended treatments focus on symptom relief and improved quality of life.",
+        "cross_encoder_score": 0.9999991655349731,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "34128613",
+        "sentence": "Irritable bowel syndrome (IBS) is a heterogeneous group of conditions related to specific biologic and cellular abnormalities that are not fully understood.",
+        "cross_encoder_score": 0.9999970197677612,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34128613",
+        "sentence": "Trusting patient-physician interactions are essential to help patients understand and accept an IBS diagnosis and to actively engage in effective self-management.",
+        "cross_encoder_score": 0.9999843835830688,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "136": {
+    "qid": "136",
+    "question": "treatment for elbow pain What can be done for severe elbow pain? The patient's elbow started hurting after playing tennis. The pain was not relieved by Aleve. The patient would like to know what else could be done.",
+    "answer": "Severe elbow pain after playing tennis can be frustrating, especially when over-the-counter pain relievers like Aleve don't help [PMID:1419555]. It's important to get a proper diagnosis from a doctor or physical therapist to rule out other possible causes of your pain [PMID:1419555].\n\nPhysical therapy can be very helpful for tennis elbow [PMID:36975037]. A physical therapist can guide you through exercises to strengthen the muscles in your wrist and forearm [PMID:3",
+    "sentence_judgments": [
+      {
+        "pmid": "1419555",
+        "sentence": "There are still many open questions surrounding the syndrome of tennis elbow.",
+        "cross_encoder_score": 0.9999611377716064,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "1419555",
+        "sentence": "Tennis elbow is a common overuse syndrome.",
+        "cross_encoder_score": 0.9997643828392029,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "1419555",
+        "sentence": "It may be best diagnosed clinically by eliminating other possible causes of lateral elbow pain.",
+        "cross_encoder_score": 0.990809440612793,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36975037",
+        "sentence": "Here, we explain what the guidelines say about how to diagnose tennis elbow (sometimes called lateral elbow pain or lateral elbow tendinopathy), the specific treatments your physical therapist might offer you to help manage pain and improve the mobility of your elbow, and the types of exercises you could do to strengthen the muscles in your wrist and forearm.",
+        "cross_encoder_score": 0.9999966621398926,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "36975037",
+        "sentence": "Experts in managing elbow pain developed a guideline for rehabilitation clinicians to use to help you understand more about tennis elbow.",
+        "cross_encoder_score": 0.9999963045120239,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36975037",
+        "sentence": "Most people with tennis elbow feel pain on the outside of their elbow and upper forearm.",
+        "cross_encoder_score": 0.9999752044677734,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "2180031",
+        "sentence": "Tennis elbow is largely a self-limiting condition.",
+        "cross_encoder_score": 0.999981164932251,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "2180031",
+        "sentence": "The principles of therapy for tennis elbow are to relieve pain, microbleeding and inflammation, promote healing, rehabilitate the injured arm and try to prevent recurrence.",
+        "cross_encoder_score": 0.999823272228241,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "2180031",
+        "sentence": "Making sense of the literature on the treatment of tennis elbow is difficult because there are few studies that have used the acceptable epidemiological techniques of the prospective randomised controlled trial or case-controlled study.",
+        "cross_encoder_score": 0.9997968077659607,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "138": {
+    "qid": "138",
+    "question": "Sudafed Afrin interaction Can I use Sudafed after using Afrin for nasal congestion? Afrin did not relieve nasal congestion in the patient who is now wondering if taking Sudafed will help. The patient would like to know if it is safe to take the two medications together.",
+    "answer": "It's understandable that you're looking for relief from nasal congestion [PMID:34607935]. Afrin, or oxymetazoline, can cause rebound congestion if used for more than 3 days [PMID:32628388]. Therefore, it's best to limit your use of Afrin to 3 days [PMID:32628388]. Using Afrin for more than 3 days can lead to rhinitis medicamentosa, a condition where your nose becomes congested from the medication itself [",
+    "sentence_judgments": [
+      {
+        "pmid": "32628388",
+        "sentence": "To prevent the development of rebound nasal congestion caused by topical decongestants, it is important to limit the frequency of their use.",
+        "cross_encoder_score": 0.99946528673172,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "32628388",
+        "sentence": "However, in patients who have had a history of episodes of rebound nasal congestion, which develops including the previously indicated periods, the duration of decongestant therapy should be limited to 3 days.",
+        "cross_encoder_score": 0.9990849494934082,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "32628388",
+        "sentence": "The most common rebound nasal congestion associated with the use of topical decongestants.",
+        "cross_encoder_score": 0.9792935252189636,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24608651",
+        "sentence": "Long-term use of decongestant nasal spray (alpha adrenergic agonist) causes nasal congestion by rhinitis medicamentosa.",
+        "cross_encoder_score": 0.9768531322479248,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "34607935",
+        "sentence": "The over-the-counter nasal decongestant oxymetazoline (eg, Afrin) is used in the pediatric population for a variety of conditions in the operating room setting.",
+        "cross_encoder_score": 0.999901294708252,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34607935",
+        "sentence": "Current US Food and Drug Administration approval for oxymetazoline is for patients ≥6 years of age, but medical professionals may elect to use it short-term and off label for younger children in particular clinical scenarios in which the potential benefit may outweigh risks (eg, active bleeding, acute respiratory distress from nasal obstruction, acute complicated sinusitis, improved surgical visualization, nasal decongestion for scope examination, other conditions, etc).",
+        "cross_encoder_score": 0.6521560549736023,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34607935",
+        "sentence": "In the urgent care setting, emergency department, or inpatient setting, to avoid excessive administration of the medication, medical professionals should use the spray bottle in an upright position with the child upright.",
+        "cross_encoder_score": 0.632964551448822,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "140": {
+    "qid": "140",
+    "question": "spontaneous hand fractures What can cause acute fractures in both of your hands when there hasn’t been injury or trauma? A patient felt pain in his hands after vigorous exercise. In the ER, he was told he has fractures. He is wondering what could have caused the fractures: he did not have any injuries during exercise.",
+    "answer": "Spontaneous hand fractures can occur without any apparent injury [PMID:19275452]. These fractures can happen in seemingly normal bone [PMID:19275452]. Some possible causes include vigorous exercise [PMID:19275452]. Seizures, whether epileptic or non-epileptic, can also lead to fractures [PMID:20205769]. Metabolic conditions that decrease bone mineral density can also cause fractures [PMID:20205769]. In some",
+    "sentence_judgments": [
+      {
+        "pmid": "19275452",
+        "sentence": "Spontaneous fracture occurs primarily in two distinct groups of patients: the very active young and the elderly.",
+        "cross_encoder_score": 0.9999508857727051,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "19275452",
+        "sentence": "Spontaneous fractures occur in seemingly normal bone with no apparent blunt-force trauma.",
+        "cross_encoder_score": 0.9999146461486816,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "19275452",
+        "sentence": "Researchers and clinicians have used several terms interchangeably for spontaneous fracture, including pathologic fracture, fragility fracture, compression fracture, or fatigue or insufficiency fracture.",
+        "cross_encoder_score": 0.9913990497589111,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "20205769",
+        "sentence": "Seizures with or without trauma may cause fractures that occur commonly in epileptic seizures.",
+        "cross_encoder_score": 0.43783605098724365,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "20205769",
+        "sentence": "Fracture risk is less reported in non-epileptic seizures.",
+        "cross_encoder_score": 0.1720678061246872,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "20205769",
+        "sentence": "Some metabolic conditions leading to a decrease in bone mineral density may cause fractures secondary to non-epileptic seizure.",
+        "cross_encoder_score": 0.021284064278006554,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "16741479",
+        "sentence": "Workup revealed no underlying explanation for the fractures.",
+        "cross_encoder_score": 0.9855162501335144,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16741479",
+        "sentence": "To our knowledge, this has not been reported.",
+        "cross_encoder_score": 0.48820069432258606,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16741479",
+        "sentence": "An appropriate workup should identify most of these underlying conditions.",
+        "cross_encoder_score": 0.30425986647605896,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "142": {
+    "qid": "142",
+    "question": "Medications that raise blood pressure What medication has a drug interaction with high blood pressure? The hypertensive patient is concerned that some of the medications he is taking may elevate his blood pressure and interact with his antihypertensive medications.",
+    "answer": "Hypertensive patients often take multiple medications for other health conditions [PMID:2182265]. This can lead to drug interactions that raise blood pressure [PMID:2182265]. Clinicians need to be aware of these interactions to avoid unwanted side effects [PMID:2182265]. The use of antihypertensive medications combined with polypharmacy increases the risk of drug interactions [PMID:33666764]. If a patient's blood pressure rises suddenly, it's important to consider medications that could",
+    "sentence_judgments": [
+      {
+        "pmid": "2182265",
+        "sentence": "Hypertensive patients may have other medical illnesses for which they receive medications, and interactions between antihypertensive agents and other drugs is likely.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "2182265",
+        "sentence": "Clinicians should be aware of the mechanisms and the consequences of the different types of interaction in hypertensive patients, so that a desired pharmacological response can be achieved with the fewest side effects in the patients.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "2182265",
+        "sentence": "Some of these interactions may lead to undesirable effects or even loss of blood pressure control.",
+        "cross_encoder_score": 0.9999990463256836,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "33666764",
+        "sentence": "The pervasive use of antihypertensive medications combined with the presence of polypharmacy in many hypertensive patients results in significant risk of drug interactions.",
+        "cross_encoder_score": 0.9999994039535522,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "33666764",
+        "sentence": "This review will summarize the relevant literature to assist clinicians in mitigating drug interaction risks when prescribing antihypertensives.",
+        "cross_encoder_score": 0.9999990463256836,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33666764",
+        "sentence": "It often requires the use of multi-drug regimens and is commonly associated with a myriad of other comorbidities which increase medication use.",
+        "cross_encoder_score": 0.954539954662323,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26096556",
+        "sentence": "When a patient with well controlled hypertension is presented with acute blood pressure elevation, use of drug or chemical substance which increases blood pressure should be suspected.",
+        "cross_encoder_score": 0.9999980926513672,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "26096556",
+        "sentence": "We summarize the therapeutic agents or chemical substances that elevate blood pressure and their mechanisms of action.",
+        "cross_encoder_score": 0.999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26096556",
+        "sentence": "Drug-induced blood pressure increases are usually minor and short-lived, although rare hypertensive emergencies associated with use of certain drugs have been reported.",
+        "cross_encoder_score": 0.9999728202819824,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "144": {
+    "qid": "144",
+    "question": "starting hypertension treatment When should I treat high blood pressure? The patient has high blood pressure, but otherwise is healthy and fit. She is wondering if she should talk to her doctor about treatment options.",
+    "answer": "It's good that you're thinking about managing your high blood pressure [PMID:16463797]. The general recommendation is to treat high blood pressure if it's consistently high, like 140/190 mmHg [PMID:16463797]. Hypertension is a common condition that can lead to serious problems like heart attack and stroke [PMID:17269288]. If you have diabetes or kidney disease, you might need treatment sooner [PMID:1646379",
+    "sentence_judgments": [
+      {
+        "pmid": "16463797",
+        "sentence": "Having blood pressures 140/190 mmHg repeatedly at the doctor's office is associated with an increased cardiovascular risk and requires drug treatment if non-pharmacological measures do not allow blood pressure normalization.",
+        "cross_encoder_score": 0.9998389482498169,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "16463797",
+        "sentence": "There is no doubt today that hypertensive therapy is effective in preventing cardiovascular complications.",
+        "cross_encoder_score": 0.8859513998031616,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16463797",
+        "sentence": "Antihypertensive therapy might already be required in patients exhibiting simultaneously blood pressure > or = 130/180 mmHg and diabetes and/or renal disease.",
+        "cross_encoder_score": 0.2940077781677246,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "17269288",
+        "sentence": "Specific treatment recommendations include limiting dental care in patients with severe hypertension, reducing stress, and periodically monitoring blood pressure.",
+        "cross_encoder_score": 0.6902941465377808,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "17269288",
+        "sentence": "Dentists must also be cognizant of the implications high blood pressure has for dental practice.",
+        "cross_encoder_score": 0.5827521681785583,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "17269288",
+        "sentence": "Hypertension is a common malady and a harbinger of such diseases as heart attack and stroke.",
+        "cross_encoder_score": 0.4191090166568756,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "20148501",
+        "sentence": "High blood pressure should be treated gradually.",
+        "cross_encoder_score": 0.9999912977218628,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "20148501",
+        "sentence": "However, physicians should confirm blood pressure readings and appropriately classify the hypertensive state.",
+        "cross_encoder_score": 0.9973737001419067,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "20148501",
+        "sentence": "When patients present with severely elevated blood pressure (i.e., systolic blood pressure of 180 mm Hg or greater, or diastolic blood pressure of 110 mm Hg or greater), physicians need to differentiate hypertensive emergency from severely elevated blood pressure without signs or symptoms of end-organ damage (severe asymptomatic hypertension).",
+        "cross_encoder_score": 0.9950525164604187,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "146": {
+    "qid": "146",
+    "question": "Management of PTSD How can PTSD be treated/managed? A war veteran is seeking help for PTSD.",
+    "answer": "Posttraumatic stress disorder (PTSD) is an uncomfortable response that can follow exposure to 1 or more dangerous or frighteningly traumatic circumstances [PMID:34000134]. Most combat veterans with PTSD at Veterans Administration medical centers in the United States are prescribed pharmacotherapy [PMID:34000134]. This narrative review describes psychotherapeutic and pharmacologic approaches to treat PTSD [PMID:34000134]. Trauma-focused psychological therapies should be offered as the first line of treatment for post-traumatic stress disorder [PMID",
+    "sentence_judgments": [
+      {
+        "pmid": "34000134",
+        "sentence": "Posttraumatic stress disorder (PTSD) is an uncomfortable response that can follow exposure to 1 or more dangerous or frighteningly traumatic circumstances.",
+        "cross_encoder_score": 0.9997839331626892,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34000134",
+        "sentence": "Most combat veterans with PTSD at Veterans Administration medical centers in the United States are prescribed pharmacotherapy.",
+        "cross_encoder_score": 0.997911274433136,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "34000134",
+        "sentence": "This narrative review describes psychotherapeutic and pharmacologic approaches to treat PTSD.",
+        "cross_encoder_score": 0.9945268034934998,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "14705759",
+        "sentence": "Before a diagnosis of PTSD can be made, the patient's symptoms must significantly disrupt normal activities and last for more than one month.",
+        "cross_encoder_score": 0.9998928308486938,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "14705759",
+        "sentence": "The lifetime prevalence of PTSD in the United States is 8 to 9 percent, and approximately 25 to 30 percent of victims of significant trauma develop PTSD.",
+        "cross_encoder_score": 0.9985814094543457,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "14705759",
+        "sentence": "Although post-traumatic stress disorder (PTSD) is a debilitating anxiety disorder that may cause significant distress and increased use of health resources, the condition often goes undiagnosed.",
+        "cross_encoder_score": 0.9972074627876282,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26648617",
+        "sentence": "Trauma-focused psychological therapies should be offered as the first line of treatment for post-traumatic stress disorder.",
+        "cross_encoder_score": 0.9824891090393066,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "26648617",
+        "sentence": "Post-traumatic stress disorder occurs in people exposed to life-threatening trauma.",
+        "cross_encoder_score": 0.9631731510162354,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26648617",
+        "sentence": "GPs may be seeing more patients with post-traumatic stress disorder as military personnel return from overseas deployments.",
+        "cross_encoder_score": 0.9462924599647522,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "148": {
+    "qid": "148",
+    "question": "easy bruising Why do I bruise so easily? A 59-year-old woman noticed multiple spontaneous bruises in the past several weeks. She would like to know what causes this bruising.",
+    "answer": "Many people experience easy bruising, and it's often nothing to worry about [PMID:16634245]. However, it's important to understand why you might be bruising more easily [PMID:16634245]. A detailed history can often provide enough information [PMID:16634245]. The history should determine whether or not a bleeding disorder exists and help elucidate possible causes [PMID:7950480]. The physical examination should evaluate evidence of bleeding and identify systemic illness [PMID",
+    "sentence_judgments": [
+      {
+        "pmid": "16634245",
+        "sentence": "Physicians often see patients who complain of \"easy bruising.\" The skill of the clinician is to identify those patients likely to have a potentially serious underlying disorder from those who do not.",
+        "cross_encoder_score": 0.999998927116394,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16634245",
+        "sentence": "These tools should permit the clinician to decide if the patient is either basically normal, may have simple contributing factors that lead to bruising, or is at significant risk of bleeding due to the presence of an underlying disorder.",
+        "cross_encoder_score": 0.9996765851974487,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16634245",
+        "sentence": "A detailed history often provides sufficient information.",
+        "cross_encoder_score": 0.5324442386627197,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16078959",
+        "sentence": "The systematic documentation of accidentally occurring bruises in older adults could provide a foundation for comparison when considering suspicious bruising in older adults.",
+        "cross_encoder_score": 0.9999884366989136,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16078959",
+        "sentence": "To summarize the occurrence, progression, and resolution of accidentally acquired bruises in a sample of adults aged 65 and older.",
+        "cross_encoder_score": 0.9994961023330688,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "7950480",
+        "sentence": "The diagnostic approach to easy bruising or a suspected mild bleeding disorder includes a careful history and physical examination as well as laboratory investigations.",
+        "cross_encoder_score": 0.9999992847442627,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "7950480",
+        "sentence": "The history should determine whether or not a bleeding disorder exists and help elucidate possible causes.",
+        "cross_encoder_score": 0.9985526204109192,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "7950480",
+        "sentence": "The physical examination should evaluate evidence of bleeding and identify systemic illness.",
+        "cross_encoder_score": 0.6210472583770752,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "150": {
+    "qid": "150",
+    "question": "effectiveness of physical therapy for lumbar disc herniation What are the effectiveness of physical therapy interventions in reducing pain in patients with lumbar disc herniation? A 52-year-old with lumbar disc herniation was referred to physical therapy. He would like to know if this treatment will effectively reduce his pain.",
+    "answer": "Many people with lumbar disc herniation seek physical therapy [PMID:27765714]. It is unclear whether physical therapy is effective for this population [PMID:27765714]. Physiotherapy is the treatment of choice in patients with symptoms caused by a lumbar disc herniation [PMID:11552355]. A broad range of physiotherapeutic modalities has been revealed to be helpful [PMID:11552355]. Pain reducing physical therapies such as cold or electrotherapy and non-steroidal anti-",
+    "sentence_judgments": [
+      {
+        "pmid": "27765714",
+        "sentence": "Physical therapy is commonly sought by people with lumbar disc herniation and associated radiculopathy.",
+        "cross_encoder_score": 0.9999966621398926,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "27765714",
+        "sentence": "It is unclear whether physical therapy is effective for this population.",
+        "cross_encoder_score": 0.99998939037323,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "11552355",
+        "sentence": "Physiotherapy is the treatment of choice in patients with symptoms caused by a lumbar disc herniation.",
+        "cross_encoder_score": 0.9999985694885254,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "11552355",
+        "sentence": "In clinical practice a broad range of physiotherapeutic modalities has been revealed to be helpful.",
+        "cross_encoder_score": 0.926021158695221,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "11552355",
+        "sentence": "In addition, pain reducing physical therapies such as cold or electrotherapy and non-steroidal anti-inflammatory drugs, analgesics and/or muscle relaxants are sensible initial accompanying treatments.",
+        "cross_encoder_score": 0.9124330878257751,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "28045705",
+        "sentence": "The objectives of this study were to (1) evaluate differences between patients with lumbar intervertebral disc herniation who received physical therapy (PT) and those who did not; (2) identify factors associated with receiving PT; and (3) examine the influence of PT on clinical outcomes over the course of 1 yr.",
+        "cross_encoder_score": 0.9999947547912598,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "152": {
+    "qid": "152",
+    "question": "quitting amlodipine Is it possible to quit taking amlodipine after taking for many years? The patient has been taking amlodipine for many years. She would like to know if it is safe to stop taking it.",
+    "answer": "It is possible to stop taking amlodipine after taking it for many years [PMID:8292466]. Over 85% of patients chose to continue amlodipine therapy after the study [PMID:8292466]. The mean final dose was 6.8 mg/day [PMID:8292466]. Amlodipine has a slow onset of action and long half-life, which may help avoid withdrawal effects [PMID:11850645]. One hundred seventy-two",
+    "sentence_judgments": [
+      {
+        "pmid": "8292466",
+        "sentence": "Adverse experiences possibly related to amlodipine were reported by 19.3% of patients, and overall adverse events led to withdrawal in 6.7% of patients.",
+        "cross_encoder_score": 0.9991151690483093,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "8292466",
+        "sentence": "Over 85% of patients elected to continue on amlodipine therapy after completion of the study.",
+        "cross_encoder_score": 0.9941123127937317,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "8292466",
+        "sentence": "The mean final dose of amlodipine was 6.8 mg/day.",
+        "cross_encoder_score": 0.9619576334953308,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "11850645",
+        "sentence": "BACKGROUND: The slow onset of action and long half-life of amlodipine may help avoid withdrawal effects such as the exacerbation of angina and precipitation of myocardial seen with beta-blockers.",
+        "cross_encoder_score": 0.9996022582054138,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "11850645",
+        "sentence": "One hundred seventy-two responders (greater-than-or-equal7% improvement in symptom-limited exercise time) entered a 4-week double-blind withdrawal phase and randomly received continued treatment with amlodipine (n = 91) or placebo (n = 81).",
+        "cross_encoder_score": 0.9923221468925476,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "11850645",
+        "sentence": "OBJECTIVES: To assess the antianginal and antiischemic efficacy, safety, and the potential for tolerance or withdrawal effects of amlodipine.",
+        "cross_encoder_score": 0.977501630783081,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "34854616",
+        "sentence": "Therefore, it is important to evaluate on a regular basis the possibility to stop medication.",
+        "cross_encoder_score": 0.9971653819084167,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "34854616",
+        "sentence": "Moreover, it is important to realize that stopping medication can also introduce interactions.",
+        "cross_encoder_score": 0.9916772842407227,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "34854616",
+        "sentence": "Not all drugs can be stopped abruptly, since this can result in a rebound-effect or withdrawal symptoms Especially drugs that act on the central nervous system (e.g.",
+        "cross_encoder_score": 0.9230462312698364,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "154": {
+    "qid": "154",
+    "question": "breathing techniques for managing shortness of breath How to breathe when you are short of breath? The patient is constantly out of breath and wants to improve breathing using breathing techniques and exercise.",
+    "answer": "Breathing techniques can help manage shortness of breath [PMID:18686398]. These techniques aim to improve breathing control and quality of life [PMID:18686398]. Breathing exercises can be used to control asthma symptoms [PMID:32212422]. Breathing exercises include tidal and minute volume training, relaxation, and modification of breathing patterns [PMID:32212422]. Breathing exercises can be performed as the Papworth Method, the Buteyko breathing technique, yogic breathing, or",
+    "sentence_judgments": [
+      {
+        "pmid": "18686398",
+        "sentence": "Living with breathlessness can have a considerable impact on a person's quality of life, but even slight improvements in breathing control have significant benefits for patients.",
+        "cross_encoder_score": 0.9999994039535522,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18686398",
+        "sentence": "This article explores different breathing control techniques which can help clinicians working in primary care to support these patients.",
+        "cross_encoder_score": 0.9999994039535522,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18686398",
+        "sentence": "Breathlessness is a common but complex symptom which has a wide range of causes and presentations.",
+        "cross_encoder_score": 0.9981196522712708,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "32212422",
+        "sentence": "The training of breathing usually focuses on tidal and minute volume and encourages relaxation, exercise at home, the modification of breathing pattern, nasal breathing, holding of breath, lower rib cage and abdominal breathing.",
+        "cross_encoder_score": 0.9999984502792358,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "32212422",
+        "sentence": "Breathing exercises have been widely used worldwide as a non-pharmacological therapy to treat people with asthma.",
+        "cross_encoder_score": 0.9999748468399048,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "32212422",
+        "sentence": "Breathing exercises aim to control the symptoms of asthma and can be performed as the Papworth Method, the Buteyko breathing technique, yogic breathing, deep diaphragmatic breathing or any other similar intervention that manipulates the breathing pattern.",
+        "cross_encoder_score": 0.9999399185180664,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "16281658",
+        "sentence": "The efficacy of breathing techniques aiming at improving symptoms of dyspnea and eliciting physiological effects is discussed in this paper.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16281658",
+        "sentence": "Breathing techniques are included in the rehabilitation program of patients with chronic obstructive pulmonary disease (COPD).",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "16281658",
+        "sentence": "Do breathing techniques have to be practiced during activities of daily living?",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "156": {
+    "qid": "156",
+    "question": "golfer's elbow What are some non-surgical treatments recommended for Golfer's elbow? A family doctor is looking for the best conservative treatments for his patient.",
+    "answer": "For Golfer's elbow, a family doctor might recommend initial immobilization [PMID:1419555]. Ultrasound therapy has also been shown to be effective [PMID:1419555]. Low-energy laser therapy can also reduce symptoms [PMID:1419555]. If these treatments don't work, a more thorough evaluation by an elbow surgeon is recommended [PMID:16713868]. Surgery is considered if conservative treatments fail [PMID:15011112].",
+    "sentence_judgments": [
+      {
+        "pmid": "16713868",
+        "sentence": "Poor response to conservative means should lead to a more thorough evaluation by an experienced elbow surgeon as these injuries can often be career ending.",
+        "cross_encoder_score": 0.9995630383491516,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "16713868",
+        "sentence": "The spectrum of commonly seen lesions in the athlete's elbow is described here, as are conservative care measures, operative treatments, and postoperative management.",
+        "cross_encoder_score": 0.9965103268623352,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "16713868",
+        "sentence": "Sports-related injuries about the elbow occur commonly and are often managed by a wide variety of health care providers.",
+        "cross_encoder_score": 0.9749647974967957,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "1419555",
+        "sentence": "There are still many open questions surrounding the syndrome of tennis elbow.",
+        "cross_encoder_score": 0.8847965002059937,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "1419555",
+        "sentence": "It may be best diagnosed clinically by eliminating other possible causes of lateral elbow pain.",
+        "cross_encoder_score": 0.841441810131073,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "1419555",
+        "sentence": "Immobilisation is the initial advice that most doctors give: ultrasound has been shown to be effective in a placebo-controlled, double-blind trial, and low energy laser has been found to reduce objective but not subjective symptoms.",
+        "cross_encoder_score": 0.8131023049354553,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "15011112",
+        "sentence": "In refractory cases operation is indicated after conservative treatment.",
+        "cross_encoder_score": 0.29975664615631104,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15011112",
+        "sentence": "Tennis elbow is one of the most common stress induced pathological findings in patients consulting an orthopaedic surgeon.",
+        "cross_encoder_score": 0.09806185215711594,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15011112",
+        "sentence": "Aim of this study is to show long- term results of operative therapy of the tennis elbow using this technique.",
+        "cross_encoder_score": 0.08822540193796158,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "158": {
+    "qid": "158",
+    "question": "klippel trenaunay What genetic mutation is most commonly associated with the development of Klippel-Trenaunay syndrome (KTS)? A healthcare provider looks for specific genetic testing for a patient with a capillary stain.",
+    "answer": "Klippel-Trenaunay syndrome (KTS) is a rare congenital disorder [PMID:15279746, PMID:18564129]. It's characterized by capillary malformations, venous malformations, and tissue/bone hypertrophy [PMID:15279746, PMID:18564129]. KTS is now considered part of the PIK3CA-related overgrowth spectrum (PROS) disorders [PMID:37628420]. Genetic testing",
+    "sentence_judgments": [
+      {
+        "pmid": "37628420",
+        "sentence": "Klippel-Trenaunay syndrome is an uncommon, infrequent, congenital disorder characterized by a triad of capillary malformation, varicosities, and tissue and bone hypertrophy.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "37628420",
+        "sentence": "Recently, Klippel-Trenaunay syndrome has been included in the group of PIK3CA-related overgrowth spectrum (PROS) disorders.",
+        "cross_encoder_score": 0.9999978542327881,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "37628420",
+        "sentence": "We report here a review of the recent genetic findings, the main clinical characteristics and related severe complications, differential diagnoses with a similar disorder, and the management of patients with this complex and uncommon syndrome.",
+        "cross_encoder_score": 0.997261643409729,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15279746",
+        "sentence": "Klippel-Trenaunay syndrome (KTS) is a congenital vascular disorder of unknown cause, characterized by port wine stain (capillary malformations), venous malformation and limb hypertrophy.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15279746",
+        "sentence": "We present a case of this rare syndrome in a young girl.",
+        "cross_encoder_score": 0.3475709855556488,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18564129",
+        "sentence": "Klippel-Trenaunay syndrome (KTS) is a severe congenital disorder characterized by capillary malformations, venous malformations or varicose veins, and hypertrophy of the affected tissues.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18564129",
+        "sentence": "The angiogenic factor gene AGGF1 was previously identified as a candidate susceptibility gene for KTS, but further genetic studies are needed to firmly establish the genetic relationship between AGGF1 and KTS.",
+        "cross_encoder_score": 0.9832459688186646,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "18564129",
+        "sentence": "The two SNPs were genotyped in 173 Caucasian KTS patients and 477 Caucasian non-KTS controls, and both significantly associated with susceptibility for KTS (P= 0.004 and 0.013, respectively).",
+        "cross_encoder_score": 0.9534995555877686,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "160": {
+    "qid": "160",
+    "question": "toxic hepatitis What is the recommended first-line treatment for liver damage caused by an overdose of acetaminophen? The emergency physician is looking for treatments for a patient admitted with acetaminophen overdose.",
+    "answer": "The most common cause of acute liver failure in the United States is acetaminophen overdose [PMID:31753245]. In the setting of acetaminophen toxicity, N-acetylcysteine remains the standard of care [PMID:31753245]. During acetaminophen overdose, with or without hepatitis or ALF, intravenous N-acetylcysteine must be administered as soon as possible [PMID:23683460]. N-acetylcysteine is the most effective drug to prevent progression to liver failure with acetaminophen hepatotoxicity [PMID:1",
+    "sentence_judgments": [
+      {
+        "pmid": "31753245",
+        "sentence": "Acetaminophen overdose is the most common cause of acute liver failure in the United States.",
+        "cross_encoder_score": 0.9999934434890747,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31753245",
+        "sentence": "No professional society has created guidelines to aid clinicians in the management of analgesics in the setting of hepatic injury.",
+        "cross_encoder_score": 0.9999927282333374,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "31753245",
+        "sentence": "In the setting of acetaminophen toxicity, N-acetylcysteine remains the standard of care.",
+        "cross_encoder_score": 0.9997559189796448,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "23683460",
+        "sentence": "During acetaminophen overdose, with or without hepatitis or ALF, intravenous N-acetylcysteine must be administered as soon as possible.",
+        "cross_encoder_score": 0.9999986886978149,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "23683460",
+        "sentence": "Nevertheless, toxic etiology, except when that is obvious like in acetaminophen overdose, is a diagnosis of elimination.",
+        "cross_encoder_score": 0.999911904335022,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "23683460",
+        "sentence": "Many substances, drugs or not, can be responsible for acute hepatitis.",
+        "cross_encoder_score": 0.9910337328910828,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "19169150",
+        "sentence": "This communication reviews current information regarding causes and management of acetaminophen-induced hepatotoxicity and ALF.",
+        "cross_encoder_score": 0.9999960660934448,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "19169150",
+        "sentence": "Acetaminophen-induced hepatotoxicity is a common consequence of acetaminophen overdose and may lead to acute liver failure (ALF).",
+        "cross_encoder_score": 0.9999945163726807,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "19169150",
+        "sentence": "N-acetylcysteine is the most effective drug to prevent progression to liver failure with acetaminophen hepatotoxicity.",
+        "cross_encoder_score": 0.9997065663337708,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "162": {
+    "qid": "162",
+    "question": "wilsons disease What is the typical age range for the diagnosis of Wilson's disease? A 62-year-old patient has signs of liver and brain damage. Her PCP wonders if Wilson's disease can be diagnosed at this age.",
+    "answer": "Wilson's disease (WD) is typically diagnosed in children and young adults [PMID:36573661]. However, the age of onset can vary significantly [PMID:17433323]. The clinical symptoms and age at onset of WD are highly variable [PMID:17433323]. Late-onset forms of WD are rare [PMID:36573661].\n\nThe PCP should consider Wilson's disease in the patient, especially given the signs of liver and brain damage [PM",
+    "sentence_judgments": [
+      {
+        "pmid": "36573661",
+        "sentence": "Wilson's disease (WD) is usually diagnosed in children and young adults; limited data exist on late-onset forms.",
+        "cross_encoder_score": 0.9999871253967285,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "17433323",
+        "sentence": "The clinical symptoms and age at onset of Wilson's disease (WD) are highly variable.",
+        "cross_encoder_score": 0.9999958276748657,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "17433323",
+        "sentence": "This study investigated patients who became symptomatic at >40 years of age.",
+        "cross_encoder_score": 0.2743460237979889,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "877627",
+        "sentence": "Wilson's disease should be actively considered in patients with chronic active hepatitis or cirrhosis, even in older age groups and despite the absence of central nervous system manifestations.",
+        "cross_encoder_score": 0.9999908208847046,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "877627",
+        "sentence": "This case demonstrates that Wilson's disease may manifest itself as chronic active hepatitis as late as the fourth decade of life without neurologic symptoms or findings.",
+        "cross_encoder_score": 0.9999825954437256,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "877627",
+        "sentence": "Subsequent investigation confirmed the diagnosis of Wilson's disease.",
+        "cross_encoder_score": 0.9998711347579956,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "164": {
+    "qid": "164",
+    "question": "vocal cord paralysis What is a potential complication associated with bilateral vocal cord paralysis? A laryngologist conducts a comprehensive assessment of a singer considering the patient's quantity-of-life and perspective.",
+    "answer": "Bilateral vocal cord paralysis can cause severe airway obstruction, potentially leading to acute respiratory failure [PMID:23988139]. This can be a life-threatening condition, depending on the position of the paralyzed vocal cords [PMID:37404428]. The immobile vocal cords can cause respiratory distress, inspiratory stridor, aspiration, and minimal phonation deficits [PMID:37404428]. A laryngologist will assess the patient's quantity-of-life and perspective [PMID:37404",
+    "sentence_judgments": [
+      {
+        "pmid": "23988139",
+        "sentence": "Bilateral vocal cord paralysis can produce severe airway obstruction, leading to acute respiratory failure.",
+        "cross_encoder_score": 0.9998787641525269,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "23988139",
+        "sentence": "Discriminating the pathology of the upper airway from chronic obstructive diseases of the lower airways often presents a challenge for clinicians in the Emergency Department.",
+        "cross_encoder_score": 7.962735980981961e-05,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "32791228",
+        "sentence": "Acute bilateral vocal fold paralysis is a life-threatening complication that can occur during spinal surgery but has almost exclusively occurred with anterior approaches.",
+        "cross_encoder_score": 0.9979115128517151,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "32791228",
+        "sentence": "Bilateral vocal fold paralysis after posterior spinal surgery has been exceedingly rare.",
+        "cross_encoder_score": 0.9431560039520264,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "37404428",
+        "sentence": "Bilateral vocal cord paralysis is a potentially life-threatening condition, depending on the position in which the vocal cords are paralyzed.",
+        "cross_encoder_score": 0.9999986886978149,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "37404428",
+        "sentence": "Laryngoscopy revealed immobile bilateral vocal cords fixed in the paramedian position, resulting in severe airway obstruction that warranted an emergency tracheostomy.",
+        "cross_encoder_score": 0.7758969068527222,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "37404428",
+        "sentence": "When the vocal cords are fixed in adduction, patients develop respiratory distress, inspiratory stridor, aspiration, and minimal phonation deficits.",
+        "cross_encoder_score": 0.7025700211524963,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "166": {
+    "qid": "166",
+    "question": "multiple myeloma What are the different tests and procedures used to diagnose multiple myeloma? The provider is looking for the best workup for the patient with suspected multiple myeloma.",
+    "answer": "To diagnose multiple myeloma, doctors use several tests and procedures [PMID:15921017]. These include recognizing the signs and symptoms [PMID:15921017]. Imaging techniques like computed tomography, magnetic resonance, and positron emission tomography are also used [PMID:15921017]. The International Myeloma Working Group (IMWG) criteria are used to diagnose multiple myeloma [PMID:25626297]. The IMWG criteria are detailed in this review [PMID:256",
+    "sentence_judgments": [
+      {
+        "pmid": "15921017",
+        "sentence": "Discuss the process used to confirm a multiple myeloma diagnosis.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15921017",
+        "sentence": "After completing this article, readers should be able to: Recognize the signs and symptoms of multiple myeloma.",
+        "cross_encoder_score": 0.9999889135360718,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "15921017",
+        "sentence": "Explain the use of computed tomography, magnetic resonance and positron emission tomography in imaging of multiple myeloma.",
+        "cross_encoder_score": 0.9996612071990967,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "25626297",
+        "sentence": "In this review, detailed IMWG criteria for diagnosis of multiple myeloma are described.",
+        "cross_encoder_score": 0.9999552965164185,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "25626297",
+        "sentence": "Multiple myeloma is a disease showing heterogeneous symptoms and varieties of laboratory findings.",
+        "cross_encoder_score": 0.9999274015426636,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25626297",
+        "sentence": "Although there have been many efforts trying to diagnose this disease in a simple way, no simple criteria was available until International Myeloma Working Group (IMWG) criteria has proposed.",
+        "cross_encoder_score": 0.9977853298187256,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "17870425",
+        "sentence": "This case study describes a patient diagnosed with early manifestations of multiple myeloma and illustrates relevant aspects of differential diagnosis and the use of laboratory, radiologic, and advanced imaging techniques to aid in establishing the diagnosis and issues of management.",
+        "cross_encoder_score": 0.9999951124191284,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "168": {
+    "qid": "168",
+    "question": "intermittent explosive disorder What treatment options are suggested for managing intermittent explosive disorder? The provider is looking for the best treatment for intermittent explosive disorder.",
+    "answer": "Intermittent explosive disorder (IED) is characterized by discrete episodes of aggressive impulses that result in serious assaultive acts towards people or destruction of property [PMID:12096933]. A structured or semi-structured diagnostic interview is helpful to ensure that comorbid and pre-existing conditions are considered [PMID:12096933]. Behavioural interventions may be valuable as part of the overall treatment of IED [PMID:12096933]. The present study examined potential treatment outcome predictors of a multicomponent cognitive behavioral intervention for intermittent",
+    "sentence_judgments": [
+      {
+        "pmid": "12096933",
+        "sentence": "Intermittent explosive disorder (IED) is characterised by discrete episodes of aggressive impulses that result in serious assaultive acts towards people or destruction of property.",
+        "cross_encoder_score": 0.9999946355819702,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "12096933",
+        "sentence": "A structured or semi-structured diagnostic interview is helpful to ensure that comorbid and pre-existing conditions are considered.",
+        "cross_encoder_score": 0.4785694181919098,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "12096933",
+        "sentence": "Behavioural interventions may be valuable as part of the overall treatment of IED.",
+        "cross_encoder_score": 0.09660317003726959,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "37856378",
+        "sentence": "The present study examined potential treatment outcome predictors of a multicomponent cognitive behavioral intervention for intermittent explosive disorder (IED).",
+        "cross_encoder_score": 0.9999454021453857,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18837604",
+        "sentence": "No randomized clinical trials have evaluated the efficacy of psychotherapy for intermittent explosive disorder (IED).",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "18837604",
+        "sentence": "Posttreatment effect sizes were large.",
+        "cross_encoder_score": 0.06459670513868332,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "18837604",
+        "sentence": "In the present study, the authors tested the efficacy of 12-week group and individual cognitive-behavioral therapies (adapted from J.",
+        "cross_encoder_score": 0.053800247609615326,
+        "judge_label": "Required"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "170": {
+    "qid": "170",
+    "question": "isoniazid hepatotoxicity What is the prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis, and what is the associated mortality rate for these cases? The provider is concerned with hepatotoxicity due to isoniazid monotherapy for tuberculosis and wants to know the mortality rate associated with liver damage due to INH.",
+    "answer": "The prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis is not well-defined [PMID:26377643]. However, concerns exist about INH hepatotoxicity [PMID:25786447]. The mortality rate associated with INH hepatitis is not clearly established [PMID:25786447]. Studies have shown that hepatobiliary abnormalities, alcohol consumption, and abnormal liver enzyme levels before INH treatment are associated with an increased risk of severe liver dysfunction [PMID:3064",
+    "sentence_judgments": [
+      {
+        "pmid": "26377643",
+        "sentence": "We aimed to determine overall incidence of severe and mild isoniazid (INH) hepatotoxicity and outcome of hepatotoxicity in children who were receiving INH for latent tuberculosis.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25786447",
+        "sentence": "Treating latent tuberculosis infection is a strategy for eliminating tuberculosis, and isoniazid is recommended as preventive therapy.",
+        "cross_encoder_score": 0.9999994039535522,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25786447",
+        "sentence": "However, concerns have been raised regarding the application of isoniazid due to its toxicity, particularly hepatotoxicity; however, biochemical monitoring is not routinely performed during treatment.",
+        "cross_encoder_score": 0.9999988079071045,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "25786447",
+        "sentence": "It is essential to consider the potential toxicities of isoniazid and establish strategies to prevent acute liver failure.",
+        "cross_encoder_score": 0.9999475479125977,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "30646464",
+        "sentence": "[Purpose] To investigate the frequency and risk factors of severe liver dysfunction in patients receiving isoniazid (INH) mono-therapy for latent tuberculosis infection (LTBI).",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "30646464",
+        "sentence": "[Objectives and Methods] A retrospective study of patients receiving INH mono-therapy for LTBI in the single medical institute in Japan.",
+        "cross_encoder_score": 0.9945694804191589,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "30646464",
+        "sentence": "The following factors were associated with an increased risk of severe liver dysfunction: hepatobiliary abnormalities, consumption of alcohol 5 times or more per week before commencing INH, and abnormal high values of ALP before commencing INH.",
+        "cross_encoder_score": 0.9945600628852844,
+        "judge_label": "Borderline"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "172": {
+    "qid": "172",
+    "question": "ankle fractures in adults What are the major indications for operative fixation of an ankle fracture? The provider is considering referring a patient with an ankle fracture to an orthopedic surgeon, and needs information on the major indications for surgery.",
+    "answer": "Ankle fractures in adults are common, with an incidence of up to 174 cases per 100,000 adults per year [PMID:24939377]. The major indications for operative fixation of an ankle fracture include a high complication rate, despite a high complication rate, open reduction and internal fixation is the gold standard for operative care [PMID:36705613]. Individual patient-based treatment decision considering the soft-tissue status, the fracture pattern, as well as the patient's mobility and comorbidities is mandatory",
+    "sentence_judgments": [
+      {
+        "pmid": "36705613",
+        "sentence": "The present narrative review provides a summary of current concepts for the treatment of ankle fractures in elderly patients.",
+        "cross_encoder_score": 0.9999980926513672,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36705613",
+        "sentence": "However, individual patient-based treatment decision considering the soft-tissue status, the fracture pattern, as well as the patient's mobility and comorbidities is mandatory to achieve sufficient patient outcomes.",
+        "cross_encoder_score": 0.9819314479827881,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "36705613",
+        "sentence": "Despite a high complication rate, open reduction and internal fixation is the gold standard for operative care.",
+        "cross_encoder_score": 0.7926541566848755,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "24939377",
+        "sentence": "Ankle fractures are common, with an incidence of up to 174 cases per 100 000 adults per year.",
+        "cross_encoder_score": 0.9999958276748657,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24939377",
+        "sentence": "Their correct classification and treatment are of decisive importance for clinical outcome.",
+        "cross_encoder_score": 0.12495171278715134,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "36316934",
+        "sentence": "Although ankle fractures are one of the most common injuries seen by orthopedic trauma surgeons, there is no uniform protocol for the diagnosis and treatment of ankle fractures in the elderly, and there are many controversial indications for surgery.",
+        "cross_encoder_score": 0.9999998807907104,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "36316934",
+        "sentence": "An ankle fracture is a fracture of the distal tibia or fibula that forms the ankle joint, usually associated with ligament and soft tissue injury, and is a common type of lower limb fracture and one of the most common types of fracture in the elderly.",
+        "cross_encoder_score": 0.9999510049819946,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36316934",
+        "sentence": "A retrospective analysis was performed on 68 cases of patients who suffered an ankle fracture and were treated with different internal fixation methods according to the fracture types and individual differences in distal fibula fractures.",
+        "cross_encoder_score": 0.9022172689437866,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "174": {
+    "qid": "174",
+    "question": "metabolic bone disease in inflammatory bowel disease What are the risk factors for osteoporosis and fracture in patients with inflammatory bowel disease (IBD)? The provider is looking for management of IBD that includes prevention of osteopenia, osteoporosis, and bone fractures.",
+    "answer": "Patients with inflammatory bowel disease (IBD) are at increased risk of decreased bone mineral density, leading to osteoporosis and an increased risk of disabling fractures [PMID:26503868, PMID:24139749, PMID:25618799]. Metabolic bone diseases such as osteopenia and osteoporosis increase the risk of bone fracture that negatively affects quality of life of individuals [PMID:26503868]. Inflammatory bowel disease (IBD) is commonly believed to increase the risk of bone mineral loss,",
+    "sentence_judgments": [
+      {
+        "pmid": "26503868",
+        "sentence": "Patients with inflammatory bowel disease(IBD), including ulcerative colitis(UC)and Crohn's disease(CD), have been shown to be at increased risk of decreased bone mineral density, however frequency of metabolic bone disease in IBD and identified risk factors are varied among reports.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "26503868",
+        "sentence": "Metabolic bone diseases such as osteopenia and osteoporosis increase the risk of bone fracture that negatively affects quality of life of individuals.",
+        "cross_encoder_score": 0.9999990463256836,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24139749",
+        "sentence": "We will explore the epidemiology of metabolic bone disease in IBD, focusing on the prevalence and both the general and IBD-specific risk factors for the development of osteoporosis and of fracture in persons with IBD.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24139749",
+        "sentence": "Last, we will discuss our recommendation for: screening for osteoporosis in IBD patients, the use of preventative strategies, and therapeutic interventions for treating osteoporosis in persons with IBD.",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24139749",
+        "sentence": "Inflammatory bowel disease (IBD) is commonly believed to increase the risk of bone mineral loss, leading to osteoporosis and an increased risk of disabling fractures.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "25618799",
+        "sentence": "Although inflammatory bowel disease (IBD) patients are at risk for metabolic bone disease, studies analyzing this correlation have identified various risk factors, including disease phenotype, age, sex and steroid therapy.",
+        "cross_encoder_score": 0.9999996423721313,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "25618799",
+        "sentence": "This study analyzed risk factors for metabolic bone disease in Japanese IBD patients.",
+        "cross_encoder_score": 0.9998894929885864,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25618799",
+        "sentence": "Furthermore, few studies have assessed risk factors for bone loss in Japanese IBD patients.",
+        "cross_encoder_score": 0.9973908066749573,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Supported"
+  },
+  "176": {
+    "qid": "176",
+    "question": "rectal microbiota for prophylaxis of C. diff. What is the appropriate dosing volume for fecal microbiota rectal suspension used as Clostridioides difficile infection prophylaxis in adults? Hospital staff are looking for information on dosing of fecal microbiota rectal suspension to prevent Clostridioides difficile infection.",
+    "answer": "Fecal microbiota transplantation (FMT) is a treatment for recurrent *Clostridioides difficile* infection (CDI) [PMID:26565008]. The appropriate dosing volume for fecal microbiota rectal suspension used as *Clostridioides difficile* infection prophylaxis in adults is 100 mL [PMID:36342653]. The study showed that the microbiota-based live biotherapeutic product RBX2660 was safe and effective for long-term treatment [PMID:36342653]. The",
+    "sentence_judgments": [
+      {
+        "pmid": "26565008",
+        "sentence": "Managing recurrent Clostridium difficile infection (CDI) presents a significant challenge for clinicians and patients.",
+        "cross_encoder_score": 0.9964633584022522,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26565008",
+        "sentence": "Fecal microbiota transplantation (FMT) is a highly effective therapy for recurrent CDI, yet availability of a standardized, safe, and effective product has been lacking.",
+        "cross_encoder_score": 0.9844954609870911,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "26565008",
+        "sentence": "Our aim in this study was to assess the safety and effectiveness of RBX2660 (microbiota suspension), a commercially prepared FMT drug manufactured using standardized processes and available in a ready-to-use format.",
+        "cross_encoder_score": 0.9551324248313904,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36342653",
+        "sentence": "A recently published manuscript described findings from a phase 2 open label study of the microbiota-based live biotherapeutic product RBX2660 in patients with two or more previous recurrent Clostridioides difficile infection (rCDI) episodes, and described long-term safety and sustained treatment success through 24 months.",
+        "cross_encoder_score": 0.9994449019432068,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36342653",
+        "sentence": "The role of microbiome-based therapeutics in 47 Clostridioides difficile infection: Durable, long-term results of RBX2660 (MP4 511833 KB).",
+        "cross_encoder_score": 0.997902512550354,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "36342653",
+        "sentence": "Microbiota-based live biotherapeutic products (LBPs) represent an emerging approach to the management of CDI and perhaps other gastrointestinal and medical conditions whose pathogenesis is defined by microbial dysbiosis.",
+        "cross_encoder_score": 0.9975972771644592,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33864273",
+        "sentence": "Clostridioides difficile is a major cause of health-care related infections and antibiotic-associated diarrhea.",
+        "cross_encoder_score": 0.9999911785125732,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33864273",
+        "sentence": "difficile infections.",
+        "cross_encoder_score": 0.99941086769104,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33864273",
+        "sentence": "FMT provides an effective and safe treatment for C.",
+        "cross_encoder_score": 0.9888779520988464,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Unsupported"
+  },
+  "178": {
+    "qid": "178",
+    "question": "preparticipation physical evaluation What is the most sensitive and specific component of the Preparticipation Physical Evaluation (PPE) for detecting conditions that might preclude participation in sports? The athlete’s primary care provider is looking for information on PPE in children and adolescents to keep the athlete safe and healthy while participating in sports.",
+    "answer": "The preparticipation physical evaluation (PPE) is a common reason for young athletes to see a primary care physician [PMID:33929170]. An annual PPE is required by most state high school athletic associations for participation in school-based sports, although there is limited evidence to support its effectiveness for detecting conditions that predispose athletes to injury or illness [PMID:33929170]. To present athletic trainers with recommendations for the content and administration of the preparticipation physical examination (PPE) as well as considerations for determining safe participation in sports and identifying disqual",
+    "sentence_judgments": [
+      {
+        "pmid": "24499039",
+        "sentence": "To present athletic trainers with recommendations for the content and administration of the preparticipation physical examination (PPE) as well as considerations for determining safe participation in sports and identifying disqualifying conditions.",
+        "cross_encoder_score": 0.9999998807907104,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33929170",
+        "sentence": "The preparticipation physical evaluation (PPE) is a common reason for young athletes to see a primary care physician.",
+        "cross_encoder_score": 0.9999998807907104,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "33929170",
+        "sentence": "An annual PPE is required by most state high school athletic associations for participation in school-based sports, although there is limited evidence to support its effectiveness for detecting conditions that predispose athletes to injury or illness.",
+        "cross_encoder_score": 0.9999998807907104,
+        "judge_label": "Borderline"
+      },
+      {
+        "pmid": "33929170",
+        "sentence": "In 2019, the American Academy of Pediatrics, with representatives from the American Academy of Family Physicians and other organizations, published updated PPE recommendations (PPE5).",
+        "cross_encoder_score": 0.9999997615814209,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25076682",
+        "sentence": "Participation in youth sports is on the rise in America, and discourse exists regarding frequency and content of the preparticipation examination (PPE) to best identify risk factors and prevent injury.",
+        "cross_encoder_score": 0.9999998807907104,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "25076682",
+        "sentence": "Our objective was to review current recommendations for PPEs proposed by the specialties that most commonly perform PPEs: the American Academy of Family Physicians, the American Academy of Pediatrics, the American College of Sports Medicine, and the National Athletic Trainers' Association.",
+        "cross_encoder_score": 0.9999991655349731,
+        "judge_label": "Unnecessary"
+      }
+    ],
+    "entailment_label": "Partially Supported"
+  },
+  "180": {
+    "qid": "180",
+    "question": "adverse muscle events due to statins What factors contribute to a higher risk of statin-associated adverse muscle events and what specific statins are recommended for patients at increased risk due to concurrent therapy with a strong inhibitor of CYP3A4? A PCP is looking for the most appropriate statin for a patient that is on diltiazem, specifically to avoid adverse muscle events.",
+    "answer": "Statin-associated muscle events can be influenced by several factors [PMID:21545622]. Diltiazem, a medication you are taking, can interact with statins, potentially increasing the risk of muscle problems [PMID:21545622]. This risk is higher if you have other genetic or clinical factors [PMID:21545622]. The risk of muscle toxicity, renal dysfunction, and hepatic dysfunction associated with statins and CYP3A4 inhibitors is compared in the literature [PMID:22",
+    "sentence_judgments": [
+      {
+        "pmid": "21545622",
+        "sentence": "Diltiazem shows a pharmacokinetic interaction with statins that are CYP3A substrates but this may not result in myopathy unless additional genetic or clinical factors are present.",
+        "cross_encoder_score": 0.9999995231628418,
+        "judge_label": "Required"
+      },
+      {
+        "pmid": "21545622",
+        "sentence": "Our objective is to report on two cases of statin-induced myopathy associated with concomitant use of diltiazem and other contributing factors, and to briefly review the related literature.",
+        "cross_encoder_score": 0.9999991655349731,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "21545622",
+        "sentence": "Subsequent changes in treatment or underlying disease may result in a delayed onset of this adverse affect.",
+        "cross_encoder_score": 0.41922473907470703,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "22422642",
+        "sentence": "To compare the relative hazard of muscle toxicity, renal dysfunction, and hepatic dysfunction associated with the drug interaction between statins and concomitant medications that inhibit the CYP3A4 isoenzyme.",
+        "cross_encoder_score": 0.9999991655349731,
+        "judge_label": "Unnecessary"
+      },
+      {
+        "pmid": "24528687",
+        "sentence": "Drug interactions have been identified as a risk factor for muscle-related side effects in statin users.",
+        "cross_encoder_score": 0.999997615814209,
+        "judge_label": "Required"
       }
     ],
     "entailment_label": "Partially Supported"
