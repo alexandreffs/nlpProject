@@ -144,7 +144,7 @@ pipe = pipeline(
     tokenizer=DECODER_MODEL
 )
 
-def generate_answer(question, reference_docs, max_new_tokens=120):
+def generate_answer(question, reference_docs, max_new_tokens=400):
     reference_context = build_reference_context(reference_docs)
     prompt = build_answer_prompt(question, reference_context)
 
