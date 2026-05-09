@@ -2,7 +2,7 @@
   "116": {
     "qid": "116",
     "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
-    "answer": "There are natural ways to help manage sleep apnea [PMID:22014867]. Some complementary and integrative approaches, like lifestyle programs, may help reduce sleep apnea [PMID:37532368]. Weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies [PMID:37532368]. Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact [PMID:3753",
+    "answer": "There are natural ways to help manage sleep apnea [PMID:22014867]. Some complementary and integrative approaches, like lifestyle programs, may help reduce sleep apnea [PMID:37532368]. Weight loss and lifestyle programs seem to be the most favorable integrative methods to combine with conventional OSA therapies [PMID:37532368]. Conventional therapies for obstructive sleep apnea (OSA), including CPAP and oral appliances, offer the best opportunity for symptomatic improvement and reduction in OSA overall health impact [PMID:37532368].",
     "sentence_judgments": [
       {
         "pmid": "22014867",
@@ -52,7 +52,7 @@
   "118": {
     "qid": "118",
     "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
-    "answer": "A minor cornea injury usually heals within 48 hours without complications [PMID:25140844]. A focused history and physical exam can identify patients with corneal abrasions and improve intervention time [PMID:25140844]. Corneal abrasion is a common eye injury that occurs in all age-groups [PMID:25140844]. Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss [PMID:",
+    "answer": "A minor cornea injury usually heals within 48 hours without complications [PMID:25140844]. A focused history and physical exam can identify patients with corneal abrasions and improve intervention time [PMID:25140844]. Corneal abrasion is a common eye injury that occurs in all age-groups [PMID:25140844]. Disruptions in the protective epithelial and stromal layers of the cornea can render the eye susceptible to infection, stromal ulceration, perforation, scarring, and significant vision loss [PMID:31598519]. Persistent corneal epithelial defects (PEDs or PCEDs) result from the failure of rapid re-epithelialization and closure within 10-14 days after a corneal injury, even with standard supportive treatment [PMID:31598519]. After trauma, the cornea typically re-epithelializes promptly thereby minimizing the risk of infection, opacification or perforation [PMID:29355667]. In the case of deeper corneal injury and corneal pathology the wound healing cascade can also extend to the corneal stroma, the layer below the epithelium [PMID:29355667]. Although significant progress has been made in recent years, pharmaco-therapeutic agents that promote corneal healing remain limited [PMID:29355667].",
     "sentence_judgments": [
       {
         "pmid": "25140844",
@@ -114,7 +114,7 @@
   "120": {
     "qid": "120",
     "question": "causes of facial numbness What causes left sided facial numbness? This patient is feeling the left side of his face is numb. He did not have any injuries or procedures, and feels well otherwise. He is concerned this might be a sign of a problem and wants to know if the causes need medical attention.",
-    "answer": "Facial numbness can have several causes, and it's understandable to be concerned [PMID:31471563]. One possibility is numb chin syndrome, which is an uncommon but recognized symptom in medical oncology [PMID:18280947]. This syndrome can manifest as numbness in the lip and chin, sometimes accompanied by warmth in the ear [PMID:18280947]. A case series of 14 patients with facial numbness primarily presented to the ophthalmology clinic [PMID:3147156",
+    "answer": "Facial numbness can have several causes, and it's understandable to be concerned [PMID:31471563]. One possibility is numb chin syndrome, which is an uncommon but recognized symptom in medical oncology [PMID:18280947]. This syndrome can manifest as numbness in the lip and chin, sometimes accompanied by warmth in the ear [PMID:18280947]. A case series of 14 patients with facial numbness primarily presented to the ophthalmology clinic [PMID:31471563]. Some patients experienced sudden numbness of their lip and ear, which spread to the rest of their face [PMID:30798276]. In some cases, facial numbness can be associated with other symptoms like warmth or hemiparesis [PMID:30798276]. If you are concerned about your left-sided facial numbness, it's best to consult a doctor to determine the underlying cause [PMID:30798276].",
     "sentence_judgments": [
       {
         "pmid": "31471563",
@@ -164,7 +164,7 @@
   "122": {
     "qid": "122",
     "question": "t wave abnormality What is a t wave abnormality? This patient had an ECG test. She was told some t wave abnormalities were seen in the test. She is looking for a definition of t wave abnormalities and an explanation of their meaning.",
-    "answer": "A T wave abnormality is when the T wave on your ECG looks unusual [PMID:11728347]. The causes of abnormal T waves on electrocardiography are multiple and varied [PMID:24276094]. Careful clinical history taking and physical examination are necessary for accurate identification of the cause of such abnormalities [PMID:24276094]. ST segment and T wave changes are the most common ECG abnormalities [PMID:4054634]. Notched or bifid T waves have been reported in a",
+    "answer": "A T wave abnormality is when the T wave on your ECG looks unusual [PMID:11728347]. The causes of abnormal T waves on electrocardiography are multiple and varied [PMID:24276094]. Careful clinical history taking and physical examination are necessary for accurate identification of the cause of such abnormalities [PMID:24276094]. ST segment and T wave changes are the most common ECG abnormalities [PMID:4054634]. Notched or bifid T waves have been reported in a variety of syndromes [PMID:4054634]. Interpretation must be correlated with other clinical and laboratory information to avoid overestimating or underestimating their significance [PMID:4054634]. The T-wave abnormality criterion was based on a new set of normal T-wave amplitude limits differentiated by gender, age, electrocardiographic lead, and QRS axis [PMID:11728347]. Thirteen categories of T-wave abnormalities were tested prospectively [PMID:11728347]. Quantitative T-wave analysis in an electrocardiographic core laboratory revealed 6 of 13 prespecified categories of T-wave abnormalities that were significantly associated with an adverse outcome [PMID:11728347].",
     "sentence_judgments": [
       {
         "pmid": "24276094",
@@ -226,7 +226,7 @@
   "124": {
     "qid": "124",
     "question": "cad without angina What does cad without angina mean? This patient was diagnosed with coronary heart disease without angina pectoris. He would like to know more about this condition.",
-    "answer": "CAD without angina means that a patient has coronary heart disease, but they don't experience chest pain (angina pectoris) [PMID:14963655]. This is common, but the prognosis is still being studied [PMID:34487597]. Some patients with CAD and no angina may have a different outcome than those with significant CAD and angina [PMID:17873528]. The absence of obstructive CAD in patients with angina is common, but its prognosis is debated [PMID:3448",
+    "answer": "CAD without angina means that a patient has coronary heart disease, but they don't experience chest pain (angina pectoris) [PMID:14963655]. This is common, but the prognosis is still being studied [PMID:34487597]. Some patients with CAD and no angina may have a different outcome than those with significant CAD and angina [PMID:17873528]. The absence of obstructive CAD in patients with angina is common, but its prognosis is debated [PMID:34487597].",
     "sentence_judgments": [
       {
         "pmid": "14963655",
@@ -264,7 +264,7 @@
   "126": {
     "qid": "126",
     "question": "nondisjunction What is nondisjunction and what causes it? A family that is considering IVF has heard about nondisjunction. They would like to know more about non-disjunction and its causes.",
-    "answer": "Nondisjunction is when chromosomes don't separate properly during cell division [PMID:9801867]. This can happen in the egg or sperm cells [PMID:9801867]. It's a complex issue, and the exact causes are still being researched [PMID:9801867]. Most cases of aneuploidy, like trisomy 8, are thought to be caused by nondisjunction in the maternal germ line [PMID:19828553]. Linkage studies suggest that abnormal",
+    "answer": "Nondisjunction is when chromosomes don't separate properly during cell division [PMID:9801867]. This can happen in the egg or sperm cells [PMID:9801867]. It's a complex issue, and the exact causes are still being researched [PMID:9801867]. Most cases of aneuploidy, like trisomy 8, are thought to be caused by nondisjunction in the maternal germ line [PMID:19828553]. Linkage studies suggest that abnormal meiotic recombination patterns can lead to nondisjunction [PMID:19828553]. However, we know relatively little about aneuploidy frequency in oocytes from donors [PMID:19828553].",
     "sentence_judgments": [
       {
         "pmid": "9801867",
@@ -314,7 +314,7 @@
   "128": {
     "qid": "128",
     "question": "cbd effect on liver enzymes How does CBD effect liver enzymes? This patient would like to know if cannabidiol (CBD) may damage his liver and if the liver enzyme tests will show the effect of CBD on the liver.",
-    "answer": "CBD may affect liver enzymes, and some studies have shown liver enzyme elevations [PMID:36912195]. This could indicate potential liver damage [PMID:36912195]. CBD can cause hepatotoxicity, possibly of a cholestatic nature [PMID:31052254]. The involvement of multiple pathways raises concerns about drug interactions and safety [PMID:31052254]. CBD was rapidly absorbed in all groups, regardless of hepatic function [PMID:30921490",
+    "answer": "CBD may affect liver enzymes, and some studies have shown liver enzyme elevations [PMID:36912195]. This could indicate potential liver damage [PMID:36912195]. CBD can cause hepatotoxicity, possibly of a cholestatic nature [PMID:31052254]. The involvement of multiple pathways raises concerns about drug interactions and safety [PMID:31052254]. CBD was rapidly absorbed in all groups, regardless of hepatic function [PMID:30921490]. CBD metabolites were also increased in subjects with moderate and severe hepatic impairment [PMID:30921490].",
     "sentence_judgments": [
       {
         "pmid": "36912195",
@@ -370,7 +370,7 @@
   "130": {
     "qid": "130",
     "question": "pcos and oxidative stress Is pcos linked to oxidative stress? The patient with polycystic ovary syndrome has heard the condition is linked to oxidative stress. She would like to know how oxidative stress effects pcos.",
-    "answer": "Polycystic ovary syndrome (PCOS) is often linked to increased oxidative stress [PMID:37337194]. Oxidative stress is now recognized to play a central role in the pathophysiology of many different disorders, including PCOS [PMID:31198521]. A genetic, epigenetic, and environmental association exists between oxidative stress (OS) and polycystic ovary syndrome (PCOS), expressed in a multifaceted clinical profile [PMID:36279177]. This review summarizes and discusses the role of OS in the pathogenesis of",
+    "answer": "Polycystic ovary syndrome (PCOS) is often linked to increased oxidative stress [PMID:37337194]. Oxidative stress is now recognized to play a central role in the pathophysiology of many different disorders, including PCOS [PMID:31198521]. A genetic, epigenetic, and environmental association exists between oxidative stress (OS) and polycystic ovary syndrome (PCOS), expressed in a multifaceted clinical profile [PMID:36279177]. This review summarizes and discusses the role of OS in the pathogenesis of PCOS syndrome, focusing on metabolic, reproductive, and cancer complications [PMID:36279177]. Therefore, this study explored the causal relationship between PCOS, its characteristics, and OS [PMID:37337194]. Understanding of mechanisms that oxidative stress is important to develop strategies for prevention and therapy of PCOS [PMID:31198521].",
     "sentence_judgments": [
       {
         "pmid": "37337194",
@@ -420,7 +420,7 @@
   "132": {
     "qid": "132",
     "question": "low vitamin D What is the effect of low vitamin D? The patient diagnosed with vitamin D deficiency would like to know how the problem affects his health.",
-    "answer": "Vitamin D deficiency can affect your health in many ways [PMID:23542507]. It can increase your risk for a wide range of illnesses [PMID:23542507]. Low vitamin D can cause bone pain, muscle weakness, falls, and fractures [PMID:21984863]. It can also lead to osteomalacia, a softening of the bones [PMID:21984863]. Vitamin D deficiency can be caused by medications like anticonvulsants [PMID:2",
+    "answer": "Vitamin D deficiency can affect your health in many ways [PMID:23542507]. It can increase your risk for a wide range of illnesses [PMID:23542507]. Low vitamin D can cause bone pain, muscle weakness, falls, and fractures [PMID:21984863]. It can also lead to osteomalacia, a softening of the bones [PMID:21984863]. Vitamin D deficiency can be caused by medications like anticonvulsants [PMID:21984863]. Low vitamin D status is extremely common worldwide [PMID:22525842]. It contributes to conditions like osteomalacia/rickets, osteoporosis, falls, and fractures [PMID:22525842]. Optimal vitamin D intake is important for overall health and well-being [PMID:23542507].",
     "sentence_judgments": [
       {
         "pmid": "23542507",
@@ -476,7 +476,7 @@
   "134": {
     "qid": "134",
     "question": "ibs symptoms and treatments What are the symptoms and treatments for IBS? The patient believes his symptoms may be related to irritable bowel syndrome (IBS). He would like to know more about the symptoms and treatment options.",
-    "answer": "Irritable bowel syndrome (IBS) is a complex functional bowel disorder [PMID:28224836]. Symptoms can include chronic abdominal pain and altered bowel habits [PMID:30466670]. The Rome IV classification groups patients based on predominant stool pattern [PMID:30466670]. There is no definitive treatment for IBS, and recommended treatments focus on symptom relief and improved quality of life [PMID:34128613]. Targeted symptomatic relief for the patient's predominant symptoms provides relief [",
+    "answer": "Irritable bowel syndrome (IBS) is a complex functional bowel disorder [PMID:28224836]. Symptoms can include chronic abdominal pain and altered bowel habits [PMID:30466670]. The Rome IV classification groups patients based on predominant stool pattern [PMID:30466670]. There is no definitive treatment for IBS, and recommended treatments focus on symptom relief and improved quality of life [PMID:34128613]. Targeted symptomatic relief for the patient's predominant symptoms provides relief [PMID:30466670]. IBS is often misdiagnosed, and is not always managed effectively [PMID:28224836]. Trusting patient-physician interactions are essential to help patients understand and accept an IBS diagnosis and to actively engage in effective self-management [PMID:34128613].",
     "sentence_judgments": [
       {
         "pmid": "30466670",
@@ -538,7 +538,7 @@
   "136": {
     "qid": "136",
     "question": "treatment for elbow pain What can be done for severe elbow pain? The patient's elbow started hurting after playing tennis. The pain was not relieved by Aleve. The patient would like to know what else could be done.",
-    "answer": "Severe elbow pain after playing tennis can be frustrating, especially when over-the-counter pain relievers like Aleve don't help [PMID:1419555]. It's important to get a proper diagnosis from a doctor or physical therapist to rule out other possible causes of your pain [PMID:1419555].\n\nPhysical therapy can be very helpful for tennis elbow [PMID:36975037]. A physical therapist can guide you through exercises to strengthen the muscles in your wrist and forearm [PMID:3",
+    "answer": "Severe elbow pain after playing tennis can be frustrating, especially when over-the-counter pain relievers like Aleve don't help [PMID:1419555]. It's important to get a proper diagnosis from a doctor or physical therapist to rule out other possible causes of your pain [PMID:1419555].\n\nPhysical therapy can be very helpful for tennis elbow [PMID:36975037]. A physical therapist can guide you through exercises to strengthen the muscles in your wrist and forearm [PMID:36975037].\n\nTennis elbow is often a self-limiting condition [PMID:2180031], meaning it will eventually get better on its own [PMID:2180031]. Treatment focuses on relieving pain, reducing inflammation, and promoting healing [PMID:2180031].\n\nThe goal of treatment is to relieve pain, reduce inflammation, promote healing, and rehabilitate the injured arm [PMID:2180031]. Preventing recurrence is also important [PMID:2180031].",
     "sentence_judgments": [
       {
         "pmid": "1419555",
@@ -600,7 +600,7 @@
   "138": {
     "qid": "138",
     "question": "Sudafed Afrin interaction Can I use Sudafed after using Afrin for nasal congestion? Afrin did not relieve nasal congestion in the patient who is now wondering if taking Sudafed will help. The patient would like to know if it is safe to take the two medications together.",
-    "answer": "It's understandable that you're looking for relief from nasal congestion [PMID:34607935]. Afrin, or oxymetazoline, can cause rebound congestion if used for more than 3 days [PMID:32628388]. Therefore, it's best to limit your use of Afrin to 3 days [PMID:32628388]. Using Afrin for more than 3 days can lead to rhinitis medicamentosa, a condition where your nose becomes congested from the medication itself [",
+    "answer": "It's understandable that you're looking for relief from nasal congestion [PMID:34607935]. Afrin, or oxymetazoline, can cause rebound congestion if used for more than 3 days [PMID:32628388]. Therefore, it's best to limit your use of Afrin to 3 days [PMID:32628388]. Using Afrin for more than 3 days can lead to rhinitis medicamentosa, a condition where your nose becomes congested from the medication itself [PMID:24608651]. Using Sudafed after Afrin is generally safe, but it's important to limit the use of Afrin to prevent rebound congestion [PMID:32628388].",
     "sentence_judgments": [
       {
         "pmid": "32628388",
@@ -650,7 +650,7 @@
   "140": {
     "qid": "140",
     "question": "spontaneous hand fractures What can cause acute fractures in both of your hands when there hasn’t been injury or trauma? A patient felt pain in his hands after vigorous exercise. In the ER, he was told he has fractures. He is wondering what could have caused the fractures: he did not have any injuries during exercise.",
-    "answer": "Spontaneous hand fractures can occur without any apparent injury [PMID:19275452]. These fractures can happen in seemingly normal bone [PMID:19275452]. Some possible causes include vigorous exercise [PMID:19275452]. Seizures, whether epileptic or non-epileptic, can also lead to fractures [PMID:20205769]. Metabolic conditions that decrease bone mineral density can also cause fractures [PMID:20205769]. In some",
+    "answer": "Spontaneous hand fractures can occur without any apparent injury [PMID:19275452]. These fractures can happen in seemingly normal bone [PMID:19275452]. Some possible causes include vigorous exercise [PMID:19275452]. Seizures, whether epileptic or non-epileptic, can also lead to fractures [PMID:20205769]. Metabolic conditions that decrease bone mineral density can also cause fractures [PMID:20205769]. In some cases, the cause of the fractures cannot be identified [PMID:16741479]. An appropriate workup should identify these underlying conditions [PMID:16741479].",
     "sentence_judgments": [
       {
         "pmid": "19275452",
@@ -712,7 +712,7 @@
   "142": {
     "qid": "142",
     "question": "Medications that raise blood pressure What medication has a drug interaction with high blood pressure? The hypertensive patient is concerned that some of the medications he is taking may elevate his blood pressure and interact with his antihypertensive medications.",
-    "answer": "Hypertensive patients often take multiple medications for other health conditions [PMID:2182265]. This can lead to drug interactions that raise blood pressure [PMID:2182265]. Clinicians need to be aware of these interactions to avoid unwanted side effects [PMID:2182265]. The use of antihypertensive medications combined with polypharmacy increases the risk of drug interactions [PMID:33666764]. If a patient's blood pressure rises suddenly, it's important to consider medications that could",
+    "answer": "Hypertensive patients often take multiple medications for other health conditions [PMID:2182265]. This can lead to drug interactions that raise blood pressure [PMID:2182265]. Clinicians need to be aware of these interactions to avoid unwanted side effects [PMID:2182265]. The use of antihypertensive medications combined with polypharmacy increases the risk of drug interactions [PMID:33666764]. If a patient's blood pressure rises suddenly, it's important to consider medications that could be causing this [PMID:26096556]. Some drugs can increase blood pressure, and this can be dangerous [PMID:26096556].",
     "sentence_judgments": [
       {
         "pmid": "2182265",
@@ -774,7 +774,7 @@
   "144": {
     "qid": "144",
     "question": "starting hypertension treatment When should I treat high blood pressure? The patient has high blood pressure, but otherwise is healthy and fit. She is wondering if she should talk to her doctor about treatment options.",
-    "answer": "It's good that you're thinking about managing your high blood pressure [PMID:16463797]. The general recommendation is to treat high blood pressure if it's consistently high, like 140/190 mmHg [PMID:16463797]. Hypertension is a common condition that can lead to serious problems like heart attack and stroke [PMID:17269288]. If you have diabetes or kidney disease, you might need treatment sooner [PMID:1646379",
+    "answer": "It's good that you're thinking about managing your high blood pressure [PMID:16463797]. The general recommendation is to treat high blood pressure if it's consistently high, like 140/190 mmHg [PMID:16463797]. Hypertension is a common condition that can lead to serious problems like heart attack and stroke [PMID:17269288]. If you have diabetes or kidney disease, you might need treatment sooner [PMID:16463797]. It's important to talk to your doctor about the best approach for you [PMID:20148501]. They can help you understand your risk factors and create a plan to manage your blood pressure [PMID:20148501].",
     "sentence_judgments": [
       {
         "pmid": "16463797",
@@ -836,7 +836,7 @@
   "146": {
     "qid": "146",
     "question": "Management of PTSD How can PTSD be treated/managed? A war veteran is seeking help for PTSD.",
-    "answer": "Posttraumatic stress disorder (PTSD) is an uncomfortable response that can follow exposure to 1 or more dangerous or frighteningly traumatic circumstances [PMID:34000134]. Most combat veterans with PTSD at Veterans Administration medical centers in the United States are prescribed pharmacotherapy [PMID:34000134]. This narrative review describes psychotherapeutic and pharmacologic approaches to treat PTSD [PMID:34000134]. Trauma-focused psychological therapies should be offered as the first line of treatment for post-traumatic stress disorder [PMID",
+    "answer": "Posttraumatic stress disorder (PTSD) is an uncomfortable response that can follow exposure to 1 or more dangerous or frighteningly traumatic circumstances [PMID:34000134]. Most combat veterans with PTSD at Veterans Administration medical centers in the United States are prescribed pharmacotherapy [PMID:34000134]. This narrative review describes psychotherapeutic and pharmacologic approaches to treat PTSD [PMID:34000134]. Trauma-focused psychological therapies should be offered as the first line of treatment for post-traumatic stress disorder [PMID:26648617]. Post-traumatic stress disorder occurs in people exposed to life-threatening trauma [PMID:26648617]. GPs may be seeing more patients with post-traumatic stress disorder as military personnel return from overseas deployments [PMID:26648617].",
     "sentence_judgments": [
       {
         "pmid": "34000134",
@@ -898,7 +898,7 @@
   "148": {
     "qid": "148",
     "question": "easy bruising Why do I bruise so easily? A 59-year-old woman noticed multiple spontaneous bruises in the past several weeks. She would like to know what causes this bruising.",
-    "answer": "Many people experience easy bruising, and it's often nothing to worry about [PMID:16634245]. However, it's important to understand why you might be bruising more easily [PMID:16634245]. A detailed history can often provide enough information [PMID:16634245]. The history should determine whether or not a bleeding disorder exists and help elucidate possible causes [PMID:7950480]. The physical examination should evaluate evidence of bleeding and identify systemic illness [PMID",
+    "answer": "Many people experience easy bruising, and it's often nothing to worry about [PMID:16634245]. However, it's important to understand why you might be bruising more easily [PMID:16634245]. A detailed history can often provide enough information [PMID:16634245]. The history should determine whether or not a bleeding disorder exists and help elucidate possible causes [PMID:7950480]. The physical examination should evaluate evidence of bleeding and identify systemic illness [PMID:7950480]. If you are concerned, a doctor can help determine the cause [PMID:7950480].",
     "sentence_judgments": [
       {
         "pmid": "16634245",
@@ -954,7 +954,7 @@
   "150": {
     "qid": "150",
     "question": "effectiveness of physical therapy for lumbar disc herniation What are the effectiveness of physical therapy interventions in reducing pain in patients with lumbar disc herniation? A 52-year-old with lumbar disc herniation was referred to physical therapy. He would like to know if this treatment will effectively reduce his pain.",
-    "answer": "Many people with lumbar disc herniation seek physical therapy [PMID:27765714]. It is unclear whether physical therapy is effective for this population [PMID:27765714]. Physiotherapy is the treatment of choice in patients with symptoms caused by a lumbar disc herniation [PMID:11552355]. A broad range of physiotherapeutic modalities has been revealed to be helpful [PMID:11552355]. Pain reducing physical therapies such as cold or electrotherapy and non-steroidal anti-",
+    "answer": "Many people with lumbar disc herniation seek physical therapy [PMID:27765714]. It is unclear whether physical therapy is effective for this population [PMID:27765714]. Physiotherapy is the treatment of choice in patients with symptoms caused by a lumbar disc herniation [PMID:11552355]. A broad range of physiotherapeutic modalities has been revealed to be helpful [PMID:11552355]. Pain reducing physical therapies such as cold or electrotherapy and non-steroidal anti-inflammatory drugs, analgesics and/or muscle relaxants are sensible initial accompanying treatments [PMID:11552355]. The objectives of this study were to (1) evaluate differences between patients with lumbar intervertebral disc herniation who received physical therapy (PT) and those who did not; (2) identify factors associated with receiving PT; and (3) examine the influence of PT on clinical outcomes over the course of 1 yr [PMID:28045705].",
     "sentence_judgments": [
       {
         "pmid": "27765714",
@@ -998,7 +998,7 @@
   "152": {
     "qid": "152",
     "question": "quitting amlodipine Is it possible to quit taking amlodipine after taking for many years? The patient has been taking amlodipine for many years. She would like to know if it is safe to stop taking it.",
-    "answer": "It is possible to stop taking amlodipine after taking it for many years [PMID:8292466]. Over 85% of patients chose to continue amlodipine therapy after the study [PMID:8292466]. The mean final dose was 6.8 mg/day [PMID:8292466]. Amlodipine has a slow onset of action and long half-life, which may help avoid withdrawal effects [PMID:11850645]. One hundred seventy-two",
+    "answer": "It is possible to stop taking amlodipine after taking it for many years [PMID:8292466]. Over 85% of patients chose to continue amlodipine therapy after the study [PMID:8292466]. The mean final dose was 6.8 mg/day [PMID:8292466]. Amlodipine has a slow onset of action and long half-life, which may help avoid withdrawal effects [PMID:11850645]. One hundred seventy-two responders entered a 4-week double-blind withdrawal phase [PMID:11850645]. The objectives of the study were to assess the antianginal and antiischemic efficacy, safety, and the potential for tolerance or withdrawal effects of amlodipine [PMID:11850645]. It is important to evaluate on a regular basis the possibility to stop medication [PMID:34854616]. Moreover, it is important to realize that stopping medication can also introduce interactions [PMID:34854616]. Not all drugs can be stopped abruptly, since this can result in a rebound-effect or withdrawal symptoms [PMID:34854616].",
     "sentence_judgments": [
       {
         "pmid": "8292466",
@@ -1060,7 +1060,7 @@
   "154": {
     "qid": "154",
     "question": "breathing techniques for managing shortness of breath How to breathe when you are short of breath? The patient is constantly out of breath and wants to improve breathing using breathing techniques and exercise.",
-    "answer": "Breathing techniques can help manage shortness of breath [PMID:18686398]. These techniques aim to improve breathing control and quality of life [PMID:18686398]. Breathing exercises can be used to control asthma symptoms [PMID:32212422]. Breathing exercises include tidal and minute volume training, relaxation, and modification of breathing patterns [PMID:32212422]. Breathing exercises can be performed as the Papworth Method, the Buteyko breathing technique, yogic breathing, or",
+    "answer": "Breathing techniques can help manage shortness of breath [PMID:18686398]. These techniques aim to improve breathing control and quality of life [PMID:18686398]. Breathing exercises can be used to control asthma symptoms [PMID:32212422]. Breathing exercises include tidal and minute volume training, relaxation, and modification of breathing patterns [PMID:32212422]. Breathing exercises can be performed as the Papworth Method, the Buteyko breathing technique, yogic breathing, or deep diaphragmatic breathing [PMID:32212422]. Breathing techniques are included in the rehabilitation program of patients with COPD [PMID:16281658]. Breathing techniques can be practiced during activities of daily living [PMID:16281658].",
     "sentence_judgments": [
       {
         "pmid": "18686398",
@@ -1184,7 +1184,7 @@
   "158": {
     "qid": "158",
     "question": "klippel trenaunay What genetic mutation is most commonly associated with the development of Klippel-Trenaunay syndrome (KTS)? A healthcare provider looks for specific genetic testing for a patient with a capillary stain.",
-    "answer": "Klippel-Trenaunay syndrome (KTS) is a rare congenital disorder [PMID:15279746, PMID:18564129]. It's characterized by capillary malformations, venous malformations, and tissue/bone hypertrophy [PMID:15279746, PMID:18564129]. KTS is now considered part of the PIK3CA-related overgrowth spectrum (PROS) disorders [PMID:37628420]. Genetic testing",
+    "answer": "Klippel-Trenaunay syndrome (KTS) is a rare congenital disorder [PMID:15279746, PMID:18564129]. It's characterized by capillary malformations, venous malformations, and tissue/bone hypertrophy [PMID:15279746, PMID:18564129]. KTS is now considered part of the PIK3CA-related overgrowth spectrum (PROS) disorders [PMID:37628420]. Genetic testing is being explored for KTS [PMID:37628420]. The angiogenic factor gene AGGF1 was previously identified as a candidate susceptibility gene for KTS [PMID:18564129]. Two SNPs were genotyped in 173 Caucasian KTS patients and 477 Caucasian non-KTS controls, and both significantly associated with susceptibility for KTS (P= 0.004 and 0.013, respectively) [PMID:18564129].",
     "sentence_judgments": [
       {
         "pmid": "37628420",
@@ -1240,7 +1240,7 @@
   "160": {
     "qid": "160",
     "question": "toxic hepatitis What is the recommended first-line treatment for liver damage caused by an overdose of acetaminophen? The emergency physician is looking for treatments for a patient admitted with acetaminophen overdose.",
-    "answer": "The most common cause of acute liver failure in the United States is acetaminophen overdose [PMID:31753245]. In the setting of acetaminophen toxicity, N-acetylcysteine remains the standard of care [PMID:31753245]. During acetaminophen overdose, with or without hepatitis or ALF, intravenous N-acetylcysteine must be administered as soon as possible [PMID:23683460]. N-acetylcysteine is the most effective drug to prevent progression to liver failure with acetaminophen hepatotoxicity [PMID:1",
+    "answer": "The most common cause of acute liver failure in the United States is acetaminophen overdose [PMID:31753245]. In the setting of acetaminophen toxicity, N-acetylcysteine remains the standard of care [PMID:31753245]. During acetaminophen overdose, with or without hepatitis or ALF, intravenous N-acetylcysteine must be administered as soon as possible [PMID:23683460]. N-acetylcysteine is the most effective drug to prevent progression to liver failure with acetaminophen hepatotoxicity [PMID:19169150]. Acetaminophen-induced hepatotoxicity is a common consequence of acetaminophen overdose and may lead to acute liver failure (ALF) [PMID:19169150]. This communication reviews current information regarding causes and management of acetaminophen-induced hepatotoxicity and ALF [PMID:19169150].",
     "sentence_judgments": [
       {
         "pmid": "31753245",
@@ -1302,7 +1302,7 @@
   "162": {
     "qid": "162",
     "question": "wilsons disease What is the typical age range for the diagnosis of Wilson's disease? A 62-year-old patient has signs of liver and brain damage. Her PCP wonders if Wilson's disease can be diagnosed at this age.",
-    "answer": "Wilson's disease (WD) is typically diagnosed in children and young adults [PMID:36573661]. However, the age of onset can vary significantly [PMID:17433323]. The clinical symptoms and age at onset of WD are highly variable [PMID:17433323]. Late-onset forms of WD are rare [PMID:36573661].\n\nThe PCP should consider Wilson's disease in the patient, especially given the signs of liver and brain damage [PM",
+    "answer": "Wilson's disease (WD) is typically diagnosed in children and young adults [PMID:36573661]. However, the age of onset can vary significantly [PMID:17433323]. The clinical symptoms and age at onset of WD are highly variable [PMID:17433323]. Late-onset forms of WD are rare [PMID:36573661].\n\nThe PCP should consider Wilson's disease in the patient, especially given the signs of liver and brain damage [PMID:877627]. Chronic active hepatitis or cirrhosis can be a manifestation of WD, even in older age groups [PMID:877627]. The patient's symptoms could be due to WD, even without neurological symptoms [PMID:877627].",
     "sentence_judgments": [
       {
         "pmid": "36573661",
@@ -1346,7 +1346,7 @@
   "164": {
     "qid": "164",
     "question": "vocal cord paralysis What is a potential complication associated with bilateral vocal cord paralysis? A laryngologist conducts a comprehensive assessment of a singer considering the patient's quantity-of-life and perspective.",
-    "answer": "Bilateral vocal cord paralysis can cause severe airway obstruction, potentially leading to acute respiratory failure [PMID:23988139]. This can be a life-threatening condition, depending on the position of the paralyzed vocal cords [PMID:37404428]. The immobile vocal cords can cause respiratory distress, inspiratory stridor, aspiration, and minimal phonation deficits [PMID:37404428]. A laryngologist will assess the patient's quantity-of-life and perspective [PMID:37404",
+    "answer": "Bilateral vocal cord paralysis can cause severe airway obstruction, potentially leading to acute respiratory failure [PMID:23988139]. This can be a life-threatening condition, depending on the position of the paralyzed vocal cords [PMID:37404428]. The immobile vocal cords can cause respiratory distress, inspiratory stridor, aspiration, and minimal phonation deficits [PMID:37404428]. A laryngologist will assess the patient's quantity-of-life and perspective [PMID:37404428].",
     "sentence_judgments": [
       {
         "pmid": "23988139",
@@ -1396,7 +1396,7 @@
   "166": {
     "qid": "166",
     "question": "multiple myeloma What are the different tests and procedures used to diagnose multiple myeloma? The provider is looking for the best workup for the patient with suspected multiple myeloma.",
-    "answer": "To diagnose multiple myeloma, doctors use several tests and procedures [PMID:15921017]. These include recognizing the signs and symptoms [PMID:15921017]. Imaging techniques like computed tomography, magnetic resonance, and positron emission tomography are also used [PMID:15921017]. The International Myeloma Working Group (IMWG) criteria are used to diagnose multiple myeloma [PMID:25626297]. The IMWG criteria are detailed in this review [PMID:256",
+    "answer": "To diagnose multiple myeloma, doctors use several tests and procedures [PMID:15921017]. These include recognizing the signs and symptoms [PMID:15921017]. Imaging techniques like computed tomography, magnetic resonance, and positron emission tomography are also used [PMID:15921017]. The International Myeloma Working Group (IMWG) criteria are used to diagnose multiple myeloma [PMID:25626297]. The IMWG criteria are detailed in this review [PMID:25626297]. Multiple myeloma can show heterogeneous symptoms and laboratory findings [PMID:25626297]. The diagnosis can be aided by laboratory, radiologic, and advanced imaging techniques [PMID:17870425].",
     "sentence_judgments": [
       {
         "pmid": "15921017",
@@ -1446,7 +1446,7 @@
   "168": {
     "qid": "168",
     "question": "intermittent explosive disorder What treatment options are suggested for managing intermittent explosive disorder? The provider is looking for the best treatment for intermittent explosive disorder.",
-    "answer": "Intermittent explosive disorder (IED) is characterized by discrete episodes of aggressive impulses that result in serious assaultive acts towards people or destruction of property [PMID:12096933]. A structured or semi-structured diagnostic interview is helpful to ensure that comorbid and pre-existing conditions are considered [PMID:12096933]. Behavioural interventions may be valuable as part of the overall treatment of IED [PMID:12096933]. The present study examined potential treatment outcome predictors of a multicomponent cognitive behavioral intervention for intermittent",
+    "answer": "Intermittent explosive disorder (IED) is characterized by discrete episodes of aggressive impulses that result in serious assaultive acts towards people or destruction of property [PMID:12096933]. A structured or semi-structured diagnostic interview is helpful to ensure that comorbid and pre-existing conditions are considered [PMID:12096933]. Behavioural interventions may be valuable as part of the overall treatment of IED [PMID:12096933]. The present study examined potential treatment outcome predictors of a multicomponent cognitive behavioral intervention for intermittent explosive disorder (IED) [PMID:37856378]. No randomized clinical trials have evaluated the efficacy of psychotherapy for intermittent explosive disorder (IED) [PMID:18837604]. Posttreatment effect sizes were large [PMID:18837604]. In the present study, the authors tested the efficacy of 12-week group and individual cognitive-behavioral therapies (adapted from J. [PMID:18837604].",
     "sentence_judgments": [
       {
         "pmid": "12096933",
@@ -1496,7 +1496,7 @@
   "170": {
     "qid": "170",
     "question": "isoniazid hepatotoxicity What is the prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis, and what is the associated mortality rate for these cases? The provider is concerned with hepatotoxicity due to isoniazid monotherapy for tuberculosis and wants to know the mortality rate associated with liver damage due to INH.",
-    "answer": "The prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis is not well-defined [PMID:26377643]. However, concerns exist about INH hepatotoxicity [PMID:25786447]. The mortality rate associated with INH hepatitis is not clearly established [PMID:25786447]. Studies have shown that hepatobiliary abnormalities, alcohol consumption, and abnormal liver enzyme levels before INH treatment are associated with an increased risk of severe liver dysfunction [PMID:3064",
+    "answer": "The prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis is not well-defined [PMID:26377643]. However, concerns exist about INH hepatotoxicity [PMID:25786447]. The mortality rate associated with INH hepatitis is not clearly established [PMID:25786447]. Studies have shown that hepatobiliary abnormalities, alcohol consumption, and abnormal liver enzyme levels before INH treatment are associated with an increased risk of severe liver dysfunction [PMID:30646464]. Therefore, it is important to consider the potential toxicities of isoniazid and establish strategies to prevent acute liver failure [PMID:25786447].",
     "sentence_judgments": [
       {
         "pmid": "26377643",
@@ -1546,7 +1546,7 @@
   "172": {
     "qid": "172",
     "question": "ankle fractures in adults What are the major indications for operative fixation of an ankle fracture? The provider is considering referring a patient with an ankle fracture to an orthopedic surgeon, and needs information on the major indications for surgery.",
-    "answer": "Ankle fractures in adults are common, with an incidence of up to 174 cases per 100,000 adults per year [PMID:24939377]. The major indications for operative fixation of an ankle fracture include a high complication rate, despite a high complication rate, open reduction and internal fixation is the gold standard for operative care [PMID:36705613]. Individual patient-based treatment decision considering the soft-tissue status, the fracture pattern, as well as the patient's mobility and comorbidities is mandatory",
+    "answer": "Ankle fractures in adults are common, with an incidence of up to 174 cases per 100,000 adults per year [PMID:24939377]. The major indications for operative fixation of an ankle fracture include a high complication rate, despite a high complication rate, open reduction and internal fixation is the gold standard for operative care [PMID:36705613]. Individual patient-based treatment decision considering the soft-tissue status, the fracture pattern, as well as the patient's mobility and comorbidities is mandatory to achieve sufficient patient outcomes [PMID:36705613]. An ankle fracture is a fracture of the distal tibia or fibula that forms the ankle joint, usually associated with ligament and soft tissue injury, and is a common type of lower limb fracture and one of the most common types of fracture in the elderly [PMID:36316934]. Although ankle fractures are one of the most common injuries seen by orthopedic trauma surgeons, there is no uniform protocol for the diagnosis and treatment of ankle fractures in the elderly, and there are many controversial indications for surgery [PMID:36316934].",
     "sentence_judgments": [
       {
         "pmid": "36705613",
@@ -1602,7 +1602,7 @@
   "174": {
     "qid": "174",
     "question": "metabolic bone disease in inflammatory bowel disease What are the risk factors for osteoporosis and fracture in patients with inflammatory bowel disease (IBD)? The provider is looking for management of IBD that includes prevention of osteopenia, osteoporosis, and bone fractures.",
-    "answer": "Patients with inflammatory bowel disease (IBD) are at increased risk of decreased bone mineral density, leading to osteoporosis and an increased risk of disabling fractures [PMID:26503868, PMID:24139749, PMID:25618799]. Metabolic bone diseases such as osteopenia and osteoporosis increase the risk of bone fracture that negatively affects quality of life of individuals [PMID:26503868]. Inflammatory bowel disease (IBD) is commonly believed to increase the risk of bone mineral loss,",
+    "answer": "Patients with inflammatory bowel disease (IBD) are at increased risk of decreased bone mineral density, leading to osteoporosis and an increased risk of disabling fractures [PMID:26503868, PMID:24139749, PMID:25618799]. Metabolic bone diseases such as osteopenia and osteoporosis increase the risk of bone fracture that negatively affects quality of life of individuals [PMID:26503868]. Inflammatory bowel disease (IBD) is commonly believed to increase the risk of bone mineral loss, leading to osteoporosis and an increased risk of disabling fractures [PMID:24139749, PMID:25618799]. Studies analyzing this correlation have identified various risk factors, including disease phenotype, age, sex and steroid therapy [PMID:25618799]. Furthermore, few studies have assessed risk factors for bone loss in Japanese IBD patients [PMID:25618799].",
     "sentence_judgments": [
       {
         "pmid": "26503868",
@@ -1658,7 +1658,7 @@
   "176": {
     "qid": "176",
     "question": "rectal microbiota for prophylaxis of C. diff. What is the appropriate dosing volume for fecal microbiota rectal suspension used as Clostridioides difficile infection prophylaxis in adults? Hospital staff are looking for information on dosing of fecal microbiota rectal suspension to prevent Clostridioides difficile infection.",
-    "answer": "Fecal microbiota transplantation (FMT) is a treatment for recurrent *Clostridioides difficile* infection (CDI) [PMID:26565008]. The appropriate dosing volume for fecal microbiota rectal suspension used as *Clostridioides difficile* infection prophylaxis in adults is 100 mL [PMID:36342653]. The study showed that the microbiota-based live biotherapeutic product RBX2660 was safe and effective for long-term treatment [PMID:36342653]. The",
+    "answer": "Fecal microbiota transplantation (FMT) is a treatment for recurrent *Clostridioides difficile* infection (CDI) [PMID:26565008]. The appropriate dosing volume for fecal microbiota rectal suspension used as *Clostridioides difficile* infection prophylaxis in adults is 100 mL [PMID:36342653]. The study showed that the microbiota-based live biotherapeutic product RBX2660 was safe and effective for long-term treatment [PMID:36342653]. The role of microbiome-based therapeutics in *Clostridioides difficile* infection is to provide durable, long-term results [PMID:36342653]. FMT provides an effective and safe treatment for *Clostridioides difficile* [PMID:33864273].",
     "sentence_judgments": [
       {
         "pmid": "26565008",
@@ -1720,7 +1720,7 @@
   "178": {
     "qid": "178",
     "question": "preparticipation physical evaluation What is the most sensitive and specific component of the Preparticipation Physical Evaluation (PPE) for detecting conditions that might preclude participation in sports? The athlete’s primary care provider is looking for information on PPE in children and adolescents to keep the athlete safe and healthy while participating in sports.",
-    "answer": "The preparticipation physical evaluation (PPE) is a common reason for young athletes to see a primary care physician [PMID:33929170]. An annual PPE is required by most state high school athletic associations for participation in school-based sports, although there is limited evidence to support its effectiveness for detecting conditions that predispose athletes to injury or illness [PMID:33929170]. To present athletic trainers with recommendations for the content and administration of the preparticipation physical examination (PPE) as well as considerations for determining safe participation in sports and identifying disqual",
+    "answer": "The preparticipation physical evaluation (PPE) is a common reason for young athletes to see a primary care physician [PMID:33929170]. An annual PPE is required by most state high school athletic associations for participation in school-based sports, although there is limited evidence to support its effectiveness for detecting conditions that predispose athletes to injury or illness [PMID:33929170]. To present athletic trainers with recommendations for the content and administration of the preparticipation physical examination (PPE) as well as considerations for determining safe participation in sports and identifying disqualifying conditions [PMID:24499039]. Participation in youth sports is on the rise in America, and discourse exists regarding frequency and content of the preparticipation examination (PPE) to best identify risk factors and prevent injury [PMID:25076682]. The preparticipation physical evaluation (PPE) is a common reason for young athletes to see a primary care physician [PMID:33929170].",
     "sentence_judgments": [
       {
         "pmid": "24499039",
@@ -1764,7 +1764,7 @@
   "180": {
     "qid": "180",
     "question": "adverse muscle events due to statins What factors contribute to a higher risk of statin-associated adverse muscle events and what specific statins are recommended for patients at increased risk due to concurrent therapy with a strong inhibitor of CYP3A4? A PCP is looking for the most appropriate statin for a patient that is on diltiazem, specifically to avoid adverse muscle events.",
-    "answer": "Statin-associated muscle events can be influenced by several factors [PMID:21545622]. Diltiazem, a medication you are taking, can interact with statins, potentially increasing the risk of muscle problems [PMID:21545622]. This risk is higher if you have other genetic or clinical factors [PMID:21545622]. The risk of muscle toxicity, renal dysfunction, and hepatic dysfunction associated with statins and CYP3A4 inhibitors is compared in the literature [PMID:22",
+    "answer": "Statin-associated muscle events can be influenced by several factors [PMID:21545622]. Diltiazem, a medication you are taking, can interact with statins, potentially increasing the risk of muscle problems [PMID:21545622]. This risk is higher if you have other genetic or clinical factors [PMID:21545622]. The risk of muscle toxicity, renal dysfunction, and hepatic dysfunction associated with statins and CYP3A4 inhibitors is compared in the literature [PMID:22422642]. Drug interactions are a known risk factor for muscle-related side effects in statin users [PMID:24528687].\n\nFor patients taking diltiazem, statins that are CYP3A4 substrates should be avoided [PMID:21545622]. The PCP should consider using a statin that is not a CYP3A4 substrate [PMID:21545622]. The onset of these adverse effects can be delayed [PMID:21545622].",
     "sentence_judgments": [
       {
         "pmid": "21545622",
