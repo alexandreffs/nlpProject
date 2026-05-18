@@ -108,3 +108,4 @@ def generate_answer(question, reference_docs, max_new_tokens=400):
     response = response.strip()
 
     return response
+

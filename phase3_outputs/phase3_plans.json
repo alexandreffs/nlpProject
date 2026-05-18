@@ -1,0 +1,992 @@
+{
+  "116": {
+    "qid": "116",
+    "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Lifestyle Interventions and Weight Management",
+        "search_query": "(\"obstructive sleep apnea\" OR \"OSA\") AND (\"weight loss\" OR \"diet\" OR \"exercise\" OR \"lifestyle modification\")",
+        "rationale": "Weight reduction is a primary non-pharmacological treatment for OSA as it reduces upper airway collapse."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Positional Therapy and Sleep Hygiene",
+        "search_query": "(\"obstructive sleep apnea\" OR \"OSA\") AND (\"positional therapy\" OR \"side sleeping\" OR \"sleep hygiene\")",
+        "rationale": "Many patients experience apnea primarily when supine; identifying positional treatments provides a natural way to reduce events."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Myofunctional Therapy and Oral Exercises",
+        "search_query": "(\"obstructive sleep apnea\" OR \"OSA\") AND (\"myofunctional therapy\" OR \"tongue exercises\" OR \"oropharyngeal exercises\")",
+        "rationale": "Strengthening the muscles of the upper airway can prevent collapse and reduce the severity of sleep apnea naturally."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Dietary Supplements and Natural Compounds",
+        "search_query": "(\"obstructive sleep apnea\" OR \"OSA\") AND (\"nutraceuticals\" OR \"supplements\" OR \"natural remedies\" OR \"herbal medicine\")",
+        "rationale": "Evaluating the evidence for specific supplements or natural compounds that may improve airway inflammation or sleep quality."
+      }
+    ]
+  },
+  "118": {
+    "qid": "118",
+    "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Natural Healing Timeline of Minor Corneal Abrasions",
+        "search_query": "corneal abrasion healing time natural recovery minor injury",
+        "rationale": "To establish the typical physiological timeframe for the corneal epithelium to regenerate without clinical intervention."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Risk Factors for Delayed Healing and Complications",
+        "search_query": "corneal injury complications delayed healing risk factors",
+        "rationale": "To identify signs that a 'minor' injury is not healing normally and may require medical attention to prevent permanent damage."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Risk of Secondary Infection in Untreated Corneal Injuries",
+        "search_query": "untreated corneal abrasion bacterial keratitis risk",
+        "rationale": "To evaluate the danger of avoiding medical attention, specifically the risk of opportunistic infections like bacterial keratitis."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Clinical Indicators for Urgent Ophthalmologic Referral",
+        "search_query": "corneal injury red flags urgent medical attention symptoms",
+        "rationale": "To provide a set of 'red flag' symptoms that indicate the patient's belief that the injury is minor is incorrect and requires immediate care."
+      }
+    ]
+  },
+  "120": {
+    "qid": "120",
+    "question": "causes of facial numbness What causes left sided facial numbness? This patient is feeling the left side of his face is numb. He did not have any injuries or procedures, and feels well otherwise. He is concerned this might be a sign of a problem and wants to know if the causes need medical attention.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Neurological Causes of Unilateral Facial Numbness",
+        "search_query": "(\"facial numbness\" OR \"facial paresthesia\") AND (\"unilateral\" OR \"left-sided\") AND (\"differential diagnosis\" OR \"etiology\")",
+        "rationale": "To identify the broad range of neurological conditions that cause one-sided facial numbness, distinguishing between central (brain/brainstem) and peripheral (nerve) origins."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Cranial Nerve VII and V Pathologies",
+        "search_query": "(\"trigeminal nerve\" OR \"facial nerve\") AND (\"neuropathy\" OR \"compression\" OR \"inflammation\") AND \"facial numbness\"",
+        "rationale": "The trigeminal nerve (CN V) is primarily responsible for facial sensation; investigating its dysfunction is critical for understanding the mechanism of numbness."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Vascular and Ischemic Events",
+        "search_query": "(\"transient ischemic attack\" OR \"stroke\" OR \"TIA\") AND \"unilateral facial numbness\" AND \"risk factors\"",
+        "rationale": "To evaluate the urgency of the symptoms by identifying if the numbness could be a sign of a cerebrovascular accident, even in an otherwise asymptomatic patient."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Non-Traumatic Peripheral Nerve Disorders",
+        "search_query": "(\"Bell's palsy\" OR \"multiple sclerosis\" OR \"diabetes mellitus\") AND \"facial numbness\" AND \"non-traumatic\"",
+        "rationale": "To explore systemic or idiopathic causes such as demyelinating diseases or metabolic neuropathies that present without a history of injury or surgery."
+      }
+    ]
+  },
+  "122": {
+    "qid": "122",
+    "question": "t wave abnormality What is a t wave abnormality? This patient had an ECG test. She was told some t wave abnormalities were seen in the test. She is looking for a definition of t wave abnormalities and an explanation of their meaning.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Definition and Physiology of T-wave Abnormalities",
+        "search_query": "T wave abnormality definition AND ventricular repolarization AND ECG physiology",
+        "rationale": "To provide a clear medical definition of what a T-wave is and what constitutes an 'abnormality' in the context of the cardiac cycle."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Types of T-wave Morphological Changes",
+        "search_query": "T wave inversion OR flattened T wave OR peaked T wave OR hyperacute T wave",
+        "rationale": "To categorize the different types of abnormalities (e.g., inversion, flattening) as the meaning of the result depends entirely on the specific shape of the wave."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Clinical Significance and Differential Diagnosis",
+        "search_query": "T wave abnormalities differential diagnosis AND myocardial ischemia OR electrolyte imbalance OR hypertrophy",
+        "rationale": "To explain the potential causes of these abnormalities, ranging from benign variants to serious conditions like ischemia or potassium imbalances."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Diagnostic Interpretation and Follow-up Protocols",
+        "search_query": "ECG T wave abnormality clinical management AND follow-up testing AND diagnostic accuracy",
+        "rationale": "To explain how clinicians interpret these findings in conjunction with patient symptoms and what subsequent tests (e.g., stress test, echocardiogram) are typically ordered."
+      }
+    ]
+  },
+  "124": {
+    "qid": "124",
+    "question": "cad without angina What does cad without angina mean? This patient was diagnosed with coronary heart disease without angina pectoris. He would like to know more about this condition.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Definition and Pathophysiology of Asymptomatic CAD",
+        "search_query": "(\"coronary artery disease\" OR \"coronary heart disease\") AND (\"asymptomatic\" OR \"without angina\")",
+        "rationale": "To establish a clear medical definition of CAD without angina and explain how coronary artery narrowing can exist without causing chest pain."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Diagnostic Methods for Silent Ischemia",
+        "search_query": "(\"coronary artery disease\" OR \"silent myocardial ischemia\") AND (\"diagnosis\" OR \"screening\" OR \"stress test\" OR \"CT angiography\")",
+        "rationale": "To identify how this condition is detected in the absence of symptoms, focusing on imaging and functional testing."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Risk Factors and Prognosis of Asymptomatic CAD",
+        "search_query": "(\"asymptomatic coronary artery disease\") AND (\"prognosis\" OR \"cardiovascular events\" OR \"risk stratification\")",
+        "rationale": "To determine the long-term outlook and the likelihood of future cardiac events for patients who do not experience angina."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Management and Treatment Guidelines",
+        "search_query": "(\"asymptomatic coronary artery disease\") AND (\"treatment guidelines\" OR \"medical therapy\" OR \"statin\" OR \"antiplatelet\")",
+        "rationale": "To provide evidence-based management strategies, comparing medical therapy versus invasive interventions for asymptomatic patients."
+      }
+    ]
+  },
+  "126": {
+    "qid": "126",
+    "question": "nondisjunction What is nondisjunction and what causes it? A family that is considering IVF has heard about nondisjunction. They would like to know more about non-disjunction and its causes.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Mechanisms of Nondisjunction",
+        "search_query": "nondisjunction mechanism meiosis mitosis aneuploidy",
+        "rationale": "To provide a fundamental biological explanation of how chromosomes fail to separate during cell division, leading to abnormal chromosome numbers."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Etiology and Risk Factors",
+        "search_query": "nondisjunction causes maternal age environmental factors genetic predisposition",
+        "rationale": "To identify the primary causes and risk factors, such as advanced maternal age, that increase the likelihood of nondisjunction events."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Clinical Consequences and Syndromes",
+        "search_query": "nondisjunction clinical outcomes trisomy monosomy genetic syndromes",
+        "rationale": "To explain the medical implications of nondisjunction, including common conditions like Down syndrome, Edwards syndrome, and Patau syndrome."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Nondisjunction in the Context of IVF and PGT",
+        "search_query": "IVF nondisjunction preimplantation genetic testing PGT-A aneuploidy screening",
+        "rationale": "To provide specific information relevant to the family's situation, focusing on how IVF and genetic screening can detect or mitigate risks associated with nondisjunction."
+      }
+    ]
+  },
+  "128": {
+    "qid": "128",
+    "question": "cbd effect on liver enzymes How does CBD effect liver enzymes? This patient would like to know if cannabidiol (CBD) may damage his liver and if the liver enzyme tests will show the effect of CBD on the liver.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "CBD-Induced Hepatotoxicity and Liver Injury",
+        "search_query": "cannabidiol AND (hepatotoxicity OR liver injury OR drug-induced liver injury)",
+        "rationale": "To determine if CBD is clinically associated with liver damage and the prevalence of CBD-induced liver injury (DILI)."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Impact of CBD on Serum Liver Enzyme Levels",
+        "search_query": "cannabidiol AND (ALT OR AST OR ALP OR bilirubin OR liver enzymes)",
+        "rationale": "To identify specific changes in liver enzyme markers (e.g., ALT, AST) caused by CBD use and whether these tests are reliable indicators of CBD's effect."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Dose-Response Relationship and Toxicity Thresholds",
+        "search_query": "cannabidiol AND (dosage OR dose-dependent OR toxicity) AND liver",
+        "rationale": "To establish if liver enzyme elevations are dose-dependent and identify the threshold at which CBD may become hepatotoxic."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Drug-Drug Interactions and CYP450 Metabolism",
+        "search_query": "cannabidiol AND (cytochrome P450 OR CYP3A4 OR CYP2C19) AND liver enzymes",
+        "rationale": "To investigate if CBD affects liver enzymes indirectly through metabolic interference with other medications, which could lead to secondary liver stress."
+      }
+    ]
+  },
+  "130": {
+    "qid": "130",
+    "question": "pcos and oxidative stress Is pcos linked to oxidative stress? The patient with polycystic ovary syndrome has heard the condition is linked to oxidative stress. She would like to know how oxidative stress effects pcos.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Pathophysiological Link Between PCOS and Oxidative Stress",
+        "search_query": "(\"polycystic ovary syndrome\"[MeSH Terms]) AND (\"oxidative stress\"[MeSH Terms] OR \"reactive oxygen species\")",
+        "rationale": "To establish the fundamental biological connection and determine if oxidative stress is a cause or a consequence of PCOS."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Impact of Oxidative Stress on Insulin Resistance and Hyperandrogenism",
+        "search_query": "(\"polycystic ovary syndrome\") AND (\"oxidative stress\") AND (\"insulin resistance\" OR \"hyperandrogenism\")",
+        "rationale": "To understand how oxidative stress exacerbates the core clinical features of PCOS, specifically metabolic dysfunction and hormone imbalance."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Role of Oxidative Stress in Oocyte Quality and Infertility",
+        "search_query": "(\"polycystic ovary syndrome\") AND (\"oxidative stress\") AND (\"oocyte quality\" OR \"ovulation\" OR \"infertility\")",
+        "rationale": "To explain how oxidative damage affects the ovaries and eggs, contributing to the reproductive challenges faced by PCOS patients."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Antioxidant Interventions for Managing PCOS Symptoms",
+        "search_query": "(\"polycystic ovary syndrome\") AND (\"antioxidants\" OR \"vitamin E\" OR \"vitamin C\" OR \"coenzyme Q10\" OR \"myo-inositol\")",
+        "rationale": "To identify evidence-based therapeutic strategies using antioxidants to mitigate oxidative stress and improve clinical outcomes in PCOS."
+      }
+    ]
+  },
+  "132": {
+    "qid": "132",
+    "question": "low vitamin D What is the effect of low vitamin D? The patient diagnosed with vitamin D deficiency would like to know how the problem affects his health.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Musculoskeletal Effects",
+        "search_query": "vitamin D deficiency AND (osteoporosis OR osteomalacia OR rickets OR bone density OR muscle weakness)",
+        "rationale": "Vitamin D is critical for calcium absorption; deficiency directly impacts bone mineralization and muscle function."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Immune System and Inflammation",
+        "search_query": "vitamin D deficiency AND (immune function OR autoimmune disease OR respiratory infections OR inflammation)",
+        "rationale": "Vitamin D modulates the innate and adaptive immune responses, and deficiency is linked to increased susceptibility to infections."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Cardiovascular and Metabolic Health",
+        "search_query": "vitamin D deficiency AND (hypertension OR cardiovascular disease OR insulin resistance OR type 2 diabetes)",
+        "rationale": "Emerging evidence suggests a link between low vitamin D levels and metabolic syndrome and heart health."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Neurological and Psychological Impact",
+        "search_query": "vitamin D deficiency AND (depression OR cognitive decline OR fatigue OR mood disorders)",
+        "rationale": "Vitamin D receptors are present in the brain, and deficiency is often associated with mood changes and cognitive impairment."
+      }
+    ]
+  },
+  "134": {
+    "qid": "134",
+    "question": "ibs symptoms and treatments What are the symptoms and treatments for IBS? The patient believes his symptoms may be related to irritable bowel syndrome (IBS). He would like to know more about the symptoms and treatment options.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Clinical Presentation and Diagnostic Criteria",
+        "search_query": "irritable bowel syndrome [MeSH Terms] AND (symptoms OR diagnostic criteria OR Rome IV)",
+        "rationale": "To identify the hallmark symptoms of IBS and the standardized clinical criteria used to differentiate it from other gastrointestinal disorders."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "First-Line Dietary and Lifestyle Interventions",
+        "search_query": "irritable bowel syndrome AND (low FODMAP diet OR dietary fiber OR lifestyle modifications)",
+        "rationale": "To gather evidence on non-pharmacological management strategies, specifically dietary changes which are often the first line of treatment."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Pharmacological Treatment Options",
+        "search_query": "irritable bowel syndrome AND (pharmacotherapy OR antispasmodics OR laxatives OR antidepressants)",
+        "rationale": "To evaluate the efficacy and safety of various medications used to manage specific IBS subtypes (IBS-C, IBS-D, IBS-M)."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Psychological and Integrative Therapies",
+        "search_query": "irritable bowel syndrome AND (cognitive behavioral therapy OR gut-brain axis OR probiotics OR mindfulness)",
+        "rationale": "To explore the role of the gut-brain axis and the effectiveness of psychological interventions and probiotics in symptom reduction."
+      }
+    ]
+  },
+  "136": {
+    "qid": "136",
+    "question": "treatment for elbow pain What can be done for severe elbow pain? The patient's elbow started hurting after playing tennis. The pain was not relieved by Aleve. The patient would like to know what else could be done.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Diagnosis of Tennis Elbow (Lateral Epicondylitis)",
+        "search_query": "lateral epicondylitis diagnosis clinical guidelines tennis elbow",
+        "rationale": "To establish the most likely diagnosis based on the activity (tennis) and location of pain, ensuring the treatment plan is targeted toward the correct pathology."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Non-Pharmacological and Physical Therapy Interventions",
+        "search_query": "lateral epicondylitis physical therapy eccentric exercise bracing orthotics",
+        "rationale": "Since NSAIDs (Aleve) failed, it is critical to explore first-line non-drug treatments such as physical therapy, stretching, and bracing."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Advanced Pharmacological and Injectable Therapies",
+        "search_query": "lateral epicondylitis corticosteroid injections PRP platelet-rich plasma shockwave therapy",
+        "rationale": "For severe pain unresponsive to oral medication, evidence on injections (steroids or PRP) and extracorporeal shockwave therapy is necessary."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Surgical Options for Refractory Elbow Pain",
+        "search_query": "lateral epicondylitis surgical treatment failure conservative therapy",
+        "rationale": "To provide a comprehensive report, the criteria and outcomes for surgical intervention must be identified for cases where conservative management fails."
+      }
+    ]
+  },
+  "138": {
+    "qid": "138",
+    "question": "Sudafed Afrin interaction Can I use Sudafed after using Afrin for nasal congestion? Afrin did not relieve nasal congestion in the patient who is now wondering if taking Sudafed will help. The patient would like to know if it is safe to take the two medications together.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Pharmacological Interaction between Pseudoephedrine and Oxymetazoline",
+        "search_query": "pseudoephedrine AND oxymetazoline interaction safety",
+        "rationale": "To determine if there are known adverse drug-drug interactions when combining a systemic decongestant (Sudafed) with a topical decongestant (Afrin)."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Synergistic Effects on Cardiovascular System",
+        "search_query": "sympathomimetics combined use hypertension tachycardia risk",
+        "rationale": "Both medications are alpha-adrenergic agonists; it is critical to assess the risk of additive effects on blood pressure and heart rate."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Rhinitis Medicamentosa and Treatment Failure",
+        "search_query": "oxymetazoline rebound congestion rhinitis medicamentosa pseudoephedrine",
+        "rationale": "To investigate if the failure of Afrin to relieve congestion is due to rebound congestion (rhinitis medicamentosa), which would influence the efficacy of adding Sudafed."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Comparative Efficacy for Nasal Congestion",
+        "search_query": "topical vs systemic decongestants efficacy nasal congestion",
+        "rationale": "To evaluate whether switching to or adding a systemic decongestant provides therapeutic benefit when topical treatments have failed."
+      }
+    ]
+  },
+  "140": {
+    "qid": "140",
+    "question": "spontaneous hand fractures What can cause acute fractures in both of your hands when there hasn’t been injury or trauma? A patient felt pain in his hands after vigorous exercise. In the ER, he was told he has fractures. He is wondering what could have caused the fractures: he did not have any injuries during exercise.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Metabolic Bone Diseases and Osteoporosis",
+        "search_query": "(\"spontaneous fracture\" OR \"fragility fracture\") AND (\"hand\" OR \"metacarpal\" OR \"phalanges\") AND (\"osteoporosis\" OR \"osteomalacia\" OR \"hyperparathyroidism\")",
+        "rationale": "To investigate systemic bone density loss or metabolic imbalances that lower the threshold for fractures during normal physiological stress."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Stress Fractures and Overuse Syndromes",
+        "search_query": "(\"stress fracture\" OR \"insufficiency fracture\") AND (\"hand\" OR \"metacarpal\") AND (\"exercise\" OR \"physical activity\")",
+        "rationale": "To determine if vigorous exercise can cause fatigue fractures in the hands even in the absence of a single acute traumatic event."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Endocrine and Genetic Bone Disorders",
+        "search_query": "(\"spontaneous fracture\" OR \"pathologic fracture\") AND (\"hand\") AND (\"osteogenesis imperfecta\" OR \"Paget's disease\" OR \"hypophosphatasia\")",
+        "rationale": "To screen for rare genetic or endocrine conditions that compromise bone structural integrity, leading to fractures under minimal load."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Secondary Causes of Bone Fragility",
+        "search_query": "(\"spontaneous fracture\" OR \"fragility fracture\") AND (\"hand\") AND (\"glucocorticoids\" OR \"malnutrition\" OR \"vitamin D deficiency\")",
+        "rationale": "To explore external factors such as medication side effects or nutritional deficiencies that can lead to acute bone failure during exertion."
+      }
+    ]
+  },
+  "142": {
+    "qid": "142",
+    "question": "Medications that raise blood pressure What medication has a drug interaction with high blood pressure? The hypertensive patient is concerned that some of the medications he is taking may elevate his blood pressure and interact with his antihypertensive medications.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Common Drug Classes that Increase Blood Pressure",
+        "search_query": "medications that increase blood pressure OR drug-induced hypertension",
+        "rationale": "To identify the broad categories of medications (e.g., NSAIDs, corticosteroids, decongestants) known to elevate systemic blood pressure."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Drug-Drug Interactions with Antihypertensive Agents",
+        "search_query": "drug interactions antihypertensive medications OR pharmacodynamic antagonism blood pressure",
+        "rationale": "To find specific interactions where a secondary medication reduces the efficacy of the patient's current blood pressure treatment."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Impact of Over-the-Counter (OTC) Medications on Hypertension",
+        "search_query": "OTC medications hypertension OR nonprescription drugs blood pressure elevation",
+        "rationale": "Patients often overlook OTC drugs like nasal decongestants or oral NSAIDs which are frequent culprits in blood pressure spikes."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Management of Drug-Induced Hypertension",
+        "search_query": "management of drug-induced hypertension OR clinical guidelines medication-induced BP increase",
+        "rationale": "To provide evidence-based strategies for managing blood pressure when a necessary medication is causing hypertension."
+      }
+    ]
+  },
+  "144": {
+    "qid": "144",
+    "question": "starting hypertension treatment When should I treat high blood pressure? The patient has high blood pressure, but otherwise is healthy and fit. She is wondering if she should talk to her doctor about treatment options.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Hypertension Treatment Thresholds",
+        "search_query": "hypertension treatment guidelines thresholds healthy adults",
+        "rationale": "To determine the current clinical blood pressure readings (e.g., ACC/AHA or ESC guidelines) that trigger the initiation of pharmacological therapy in asymptomatic patients."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Lifestyle Interventions vs. Pharmacotherapy",
+        "search_query": "lifestyle modifications vs antihypertensive medication low risk patients",
+        "rationale": "To evaluate the efficacy of diet, exercise, and weight management as a first-line approach for fit, otherwise healthy individuals before starting medication."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Cardiovascular Risk Stratification",
+        "search_query": "ASCVD risk score hypertension treatment initiation",
+        "rationale": "To understand how overall cardiovascular risk (rather than just BP numbers) influences the decision to start treatment in patients without comorbidities."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Long-term Outcomes of Early Intervention",
+        "search_query": "early treatment of stage 1 hypertension outcomes healthy adults",
+        "rationale": "To assess whether early pharmacological intervention in low-risk patients provides a significant reduction in long-term morbidity compared to watchful waiting."
+      }
+    ]
+  },
+  "146": {
+    "qid": "146",
+    "question": "Management of PTSD How can PTSD be treated/managed? A war veteran is seeking help for PTSD.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Evidence-Based Psychotherapeutic Interventions",
+        "search_query": "PTSD treatment AND (Cognitive Processing Therapy OR Prolonged Exposure OR EMDR) AND veteran",
+        "rationale": "To identify the gold-standard psychological therapies specifically validated for war veterans to provide a foundation for non-pharmacological management."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Pharmacological Management Strategies",
+        "search_query": "PTSD pharmacotherapy AND (SSRIs OR SNRIs OR Prazosin) AND military veterans",
+        "rationale": "To evaluate the efficacy and safety of first-line and adjunctive medications for managing core PTSD symptoms and comorbidities like insomnia or hyperarousal."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Complementary and Integrative Approaches",
+        "search_query": "PTSD AND (mindfulness OR yoga OR equine therapy OR canine-assisted therapy) AND veterans",
+        "rationale": "To explore evidence-based complementary therapies that can support traditional treatment and improve overall quality of life for veterans."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Treatment-Resistant PTSD and Novel Therapies",
+        "search_query": "treatment-resistant PTSD AND (ketamine OR psilocybin OR MDMA OR TMS) AND veterans",
+        "rationale": "To provide options for patients who do not respond to standard care, focusing on emerging neuromodulation and psychedelic-assisted therapies."
+      }
+    ]
+  },
+  "148": {
+    "qid": "148",
+    "question": "easy bruising Why do I bruise so easily? A 59-year-old woman noticed multiple spontaneous bruises in the past several weeks. She would like to know what causes this bruising.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Age-Related Skin and Vascular Changes",
+        "search_query": "senile purpura OR dermal atrophy OR vascular fragility AND elderly women",
+        "rationale": "To investigate how aging affects skin thickness and blood vessel support, which often leads to spontaneous bruising in patients over 50."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Hematologic and Coagulation Disorders",
+        "search_query": "thrombocytopenia OR coagulopathy OR platelet dysfunction AND spontaneous ecchymosis",
+        "rationale": "To identify potential underlying blood disorders, such as low platelet counts or clotting factor deficiencies, that cause easy bruising."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Medication-Induced Bruising",
+        "search_query": "anticoagulants OR antiplatelets OR corticosteroids AND easy bruising AND adverse effects",
+        "rationale": "To evaluate the impact of common medications (e.g., aspirin, warfarin, prednisone) that interfere with clotting or weaken blood vessel walls."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Systemic and Nutritional Deficiencies",
+        "search_query": "vitamin C deficiency OR scurvy OR liver disease OR renal failure AND bruising",
+        "rationale": "To explore systemic causes, including nutritional gaps (Vitamin C/K) or organ dysfunction that impairs the synthesis of clotting factors."
+      }
+    ]
+  },
+  "150": {
+    "qid": "150",
+    "question": "effectiveness of physical therapy for lumbar disc herniation What are the effectiveness of physical therapy interventions in reducing pain in patients with lumbar disc herniation? A 52-year-old with lumbar disc herniation was referred to physical therapy. He would like to know if this treatment will effectively reduce his pain.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Efficacy of Physical Therapy for Pain Reduction",
+        "search_query": "(\"lumbar disc herniation\") AND (\"physical therapy\" OR \"physiotherapy\") AND (\"pain reduction\" OR \"pain management\")",
+        "rationale": "To establish the overall clinical effectiveness of physical therapy specifically for reducing pain in patients with lumbar disc herniation."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Comparison of PT Modalities",
+        "search_query": "(\"lumbar disc herniation\") AND (\"exercise therapy\" OR \"manual therapy\" OR \"traction\" OR \"core stabilization\") AND \"comparative effectiveness\"",
+        "rationale": "To identify which specific types of physical therapy interventions (e.g., McKenzie method, core strengthening) are most effective for pain relief."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "PT vs. Conservative and Surgical Management",
+        "search_query": "(\"lumbar disc herniation\") AND (\"physical therapy\") AND (\"surgery\" OR \"discectomy\" OR \"pharmacological treatment\") AND \"outcomes\"",
+        "rationale": "To provide a benchmark of how physical therapy performs compared to other standard care options like surgery or medication."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Long-term Outcomes and Recurrence Rates",
+        "search_query": "(\"lumbar disc herniation\") AND (\"physical therapy\") AND (\"long-term outcomes\" OR \"recurrence\" OR \"functional recovery\")",
+        "rationale": "To determine if the pain reduction achieved through physical therapy is sustainable over time and its impact on long-term functional recovery."
+      }
+    ]
+  },
+  "152": {
+    "qid": "152",
+    "question": "quitting amlodipine Is it possible to quit taking amlodipine after taking for many years? The patient has been taking amlodipine for many years. She would like to know if it is safe to stop taking it.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Amlodipine Discontinuation and Rebound Hypertension",
+        "search_query": "amlodipine discontinuation OR withdrawal AND (rebound hypertension OR blood pressure spike)",
+        "rationale": "To determine if abrupt cessation of long-term amlodipine use leads to a dangerous surge in blood pressure (rebound hypertension)."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Safe Tapering Protocols for Calcium Channel Blockers",
+        "search_query": "amlodipine tapering schedule OR gradual dose reduction AND hypertension management",
+        "rationale": "To identify clinically recommended methods for reducing the dosage of amlodipine safely over time rather than stopping abruptly."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Long-term Effects of Amlodipine and Remission of Hypertension",
+        "search_query": "long-term amlodipine use AND hypertension remission OR blood pressure normalization without medication",
+        "rationale": "To investigate if hypertension can be resolved through lifestyle changes after long-term medication, making the drug no longer necessary."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Risks of Unsupervised Amlodipine Cessation",
+        "search_query": "amlodipine abrupt withdrawal AND cardiovascular events OR stroke OR myocardial infarction",
+        "rationale": "To assess the potential acute cardiovascular risks associated with stopping amlodipine without medical supervision."
+      }
+    ]
+  },
+  "154": {
+    "qid": "154",
+    "question": "breathing techniques for managing shortness of breath How to breathe when you are short of breath? The patient is constantly out of breath and wants to improve breathing using breathing techniques and exercise.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Evidence-Based Breathing Techniques",
+        "search_query": "(\"pursed lip breathing\" OR \"diaphragmatic breathing\" OR \"abdominal breathing\") AND \"dyspnea management\"",
+        "rationale": "To identify specific, clinically validated breathing exercises that reduce the sensation of shortness of breath and improve gas exchange."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Pulmonary Rehabilitation and Exercise",
+        "search_query": "\"pulmonary rehabilitation\" AND (\"exercise training\" OR \"aerobic exercise\") AND \"dyspnea\"",
+        "rationale": "To determine the most effective types of physical activity and structured exercise programs that improve overall breathing capacity and exercise tolerance."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Physiological Mechanisms of Dyspnea Relief",
+        "search_query": "\"dyspnea\" AND (\"respiratory rate\" OR \"tidal volume\") AND \"breathing techniques\" AND physiology",
+        "rationale": "To understand how specific techniques (like pursed-lip breathing) physically alter airway pressure and lung emptying to alleviate breathlessness."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Safety Contraindications and Monitoring",
+        "search_query": "\"breathing exercises\" AND \"dyspnea\" AND (\"contraindications\" OR \"safety\" OR \"precautions\")",
+        "rationale": "To identify potential risks or conditions where certain breathing techniques or exercises might be harmful, ensuring patient safety."
+      }
+    ]
+  },
+  "156": {
+    "qid": "156",
+    "question": "golfer's elbow What are some non-surgical treatments recommended for Golfer's elbow? A family doctor is looking for the best conservative treatments for his patient.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "First-line Physical Therapy and Exercise",
+        "search_query": "medial epicondylitis physical therapy eccentric exercise stretching rehabilitation",
+        "rationale": "To identify the most effective exercise protocols, including eccentric loading and stretching, which are considered the gold standard for conservative management."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Pharmacological and Injectable Interventions",
+        "search_query": "medial epicondylitis NSAIDs corticosteroids platelet-rich plasma PRP prolotherapy",
+        "rationale": "To compare the efficacy and safety of systemic medications versus local injections (steroids vs. biologics) for pain management and tissue healing."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Orthotic and Supportive Devices",
+        "search_query": "medial epicondylitis counterforce brace forearm strap splinting",
+        "rationale": "To evaluate the evidence regarding the use of bracing and splinting to reduce tension on the medial epicondyle during daily activities."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Comparative Efficacy of Conservative Modalities",
+        "search_query": "medial epicondylitis shockwave therapy iontophoresis ultrasound vs physical therapy",
+        "rationale": "To provide the physician with a comparative analysis of adjunctive therapies like Extracorporeal Shockwave Therapy (ESWT) against standard care."
+      }
+    ]
+  },
+  "158": {
+    "qid": "158",
+    "question": "klippel trenaunay What genetic mutation is most commonly associated with the development of Klippel-Trenaunay syndrome (KTS)? A healthcare provider looks for specific genetic testing for a patient with a capillary stain.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Genetic Etiology of Klippel-Trenaunay Syndrome",
+        "search_query": "Klippel-Trenaunay syndrome genetic mutations PIK3CA",
+        "rationale": "To identify the primary genetic mutations, specifically somatic mutations in the PIK3CA gene, which are most commonly associated with KTS."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "PIK3CA-Related Overgrowth Spectrum (PROS)",
+        "search_query": "PIK3CA-related overgrowth spectrum Klippel-Trenaunay syndrome",
+        "rationale": "To understand how KTS fits into the broader category of PROS and how this classification informs genetic testing and diagnosis."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Genetic Testing Modalities for Somatic Mosaicism",
+        "search_query": "Klippel-Trenaunay syndrome genetic testing somatic mosaicism biopsy",
+        "rationale": "Since KTS mutations are often somatic and mosaic, it is critical to determine the correct tissue source (e.g., affected skin/lesion vs. blood) for accurate genetic testing."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Clinical Correlation of Capillary Malformations and Genetics",
+        "search_query": "capillary malformation Klippel-Trenaunay syndrome genetic markers",
+        "rationale": "To evaluate the specific link between the patient's presenting symptom (capillary stain/malformation) and the likelihood of identifying a specific genetic mutation."
+      }
+    ]
+  },
+  "160": {
+    "qid": "160",
+    "question": "toxic hepatitis What is the recommended first-line treatment for liver damage caused by an overdose of acetaminophen? The emergency physician is looking for treatments for a patient admitted with acetaminophen overdose.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "First-line Antidote and Administration",
+        "search_query": "acetaminophen overdose AND N-acetylcysteine AND first-line treatment AND dosage",
+        "rationale": "To identify the gold-standard antidote (NAC), the optimal dosing regimens, and the critical time window for administration to prevent hepatotoxicity."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Risk Stratification and Treatment Initiation",
+        "search_query": "acetaminophen toxicity AND Rumack-Matthew nomogram AND treatment thresholds",
+        "rationale": "To determine the clinical criteria and serum concentration levels used by emergency physicians to decide when NAC therapy is mandatory."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Management of Severe Liver Failure",
+        "search_query": "acetaminophen-induced liver failure AND acute liver failure AND management AND liver transplant criteria",
+        "rationale": "To provide guidance on managing patients who progress to fulminant hepatic failure, including indications for liver transplantation (King's College Criteria)."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Adjunctive and Alternative Therapies",
+        "search_query": "acetaminophen overdose AND adjunctive therapy AND glutathione precursors AND hemodialysis",
+        "rationale": "To explore secondary treatments or interventions for patients who are unresponsive to NAC or present with extreme toxicity."
+      }
+    ]
+  },
+  "162": {
+    "qid": "162",
+    "question": "wilsons disease What is the typical age range for the diagnosis of Wilson's disease? A 62-year-old patient has signs of liver and brain damage. Her PCP wonders if Wilson's disease can be diagnosed at this age.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Typical Age of Diagnosis",
+        "search_query": "Wilson's disease[MeSH Terms] AND \"age of onset\" OR \"age at diagnosis\"",
+        "rationale": "To establish the standard epidemiological age range for diagnosis and determine how common it is to be diagnosed in late adulthood."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Late-Onset Wilson's Disease",
+        "search_query": "Wilson's disease AND (\"late-onset\" OR \"elderly\" OR \"adult-onset\")",
+        "rationale": "To find specific case reports or studies regarding patients diagnosed over the age of 60 to validate the possibility of diagnosis in this specific patient."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Clinical Presentation in Older Adults",
+        "search_query": "Wilson's disease AND (\"hepatic\" AND \"neurological\") AND \"older adults\"",
+        "rationale": "To analyze if the combination of liver and brain damage in a 62-year-old aligns with the atypical presentation of late-onset Wilson's disease."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Differential Diagnosis for Late-Onset Hepatic and Neurological Damage",
+        "search_query": "(\"liver failure\" AND \"neurodegeneration\") AND \"differential diagnosis\" AND \"elderly\"",
+        "rationale": "To identify other conditions that mimic Wilson's disease in older patients, ensuring a comprehensive diagnostic approach for the PCP."
+      }
+    ]
+  },
+  "164": {
+    "qid": "164",
+    "question": "vocal cord paralysis What is a potential complication associated with bilateral vocal cord paralysis? A laryngologist conducts a comprehensive assessment of a singer considering the patient's quantity-of-life and perspective.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Airway Compromise and Respiratory Failure",
+        "search_query": "bilateral vocal cord paralysis AND (airway obstruction OR respiratory failure OR stridor)",
+        "rationale": "The most critical immediate complication of bilateral paralysis is the inability to maintain an open airway, which is a primary medical concern."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Aspiration and Pulmonary Complications",
+        "search_query": "bilateral vocal cord paralysis AND (aspiration pneumonia OR dysphagia OR pulmonary edema)",
+        "rationale": "Impaired glottic closure increases the risk of food or liquid entering the lungs, leading to chronic pulmonary infections."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Impact on Professional Voice and Singing",
+        "search_query": "bilateral vocal cord paralysis AND (professional voice OR singing OR voice quality OR phonation)",
+        "rationale": "Given the patient is a singer, it is essential to evaluate the specific complications regarding vocal range, projection, and professional viability."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Psychosocial Impact and Quality of Life",
+        "search_query": "bilateral vocal cord paralysis AND (quality of life OR psychosocial impact OR mental health OR patient perspective)",
+        "rationale": "The request specifically mentions the patient's perspective and quality of life, requiring evidence on the emotional and social burden of the condition."
+      }
+    ]
+  },
+  "166": {
+    "qid": "166",
+    "question": "multiple myeloma What are the different tests and procedures used to diagnose multiple myeloma? The provider is looking for the best workup for the patient with suspected multiple myeloma.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Initial Screening and Laboratory Biomarkers",
+        "search_query": "multiple myeloma diagnosis screening \"protein electrophoresis\" OR \"serum free light chain\" OR \"complete blood count\"",
+        "rationale": "To identify the primary blood and urine tests used to detect monoclonal proteins (M-proteins) and organ dysfunction (CRAB criteria)."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Bone Marrow Evaluation and Cytogenetics",
+        "search_query": "multiple myeloma \"bone marrow aspiration\" OR \"bone marrow biopsy\" OR \"FISH\" OR \"cytogenetics\"",
+        "rationale": "To determine the percentage of plasma cells in the marrow and identify genetic mutations that influence prognosis and treatment."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Advanced Imaging for Bone Lesions",
+        "search_query": "multiple myeloma imaging \"whole body MRI\" OR \"PET-CT\" OR \"low dose CT\" OR \"skeletal survey\"",
+        "rationale": "To compare the sensitivity and specificity of different imaging modalities in detecting lytic lesions and extramedullary disease."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Diagnostic Guidelines and Workup Algorithms",
+        "search_query": "multiple myeloma \"diagnostic criteria\" OR \"IMWG guidelines\" OR \"diagnostic algorithm\"",
+        "rationale": "To provide the provider with the gold-standard clinical pathway and the minimum requirements for a definitive diagnosis according to the International Myeloma Working Group."
+      }
+    ]
+  },
+  "168": {
+    "qid": "168",
+    "question": "intermittent explosive disorder What treatment options are suggested for managing intermittent explosive disorder? The provider is looking for the best treatment for intermittent explosive disorder.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Pharmacological Interventions",
+        "search_query": "intermittent explosive disorder AND (pharmacotherapy OR medication OR antidepressants OR mood stabilizers OR antipsychotics)",
+        "rationale": "To identify FDA-approved or evidence-based medications, such as SSRIs or mood stabilizers, used to reduce aggressive outbursts."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Psychotherapeutic Approaches",
+        "search_query": "intermittent explosive disorder AND (cognitive behavioral therapy OR CBT OR anger management OR psychotherapy)",
+        "rationale": "To evaluate the efficacy of non-pharmacological treatments, specifically CBT and specialized anger management protocols."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Comparative Treatment Efficacy",
+        "search_query": "intermittent explosive disorder AND (combination therapy OR \"head-to-head\" OR comparative effectiveness)",
+        "rationale": "To determine if a combination of medication and therapy is superior to monotherapy for long-term symptom management."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Clinical Guidelines and Treatment Algorithms",
+        "search_query": "intermittent explosive disorder AND (clinical practice guidelines OR treatment algorithm OR consensus statement)",
+        "rationale": "To find standardized provider recommendations and step-wise treatment protocols for managing the disorder."
+      }
+    ]
+  },
+  "170": {
+    "qid": "170",
+    "question": "isoniazid hepatotoxicity What is the prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis, and what is the associated mortality rate for these cases? The provider is concerned with hepatotoxicity due to isoniazid monotherapy for tuberculosis and wants to know the mortality rate associated with liver damage due to INH.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Prevalence of INH-Induced Hepatotoxicity in LTBI",
+        "search_query": "isoniazid hepatotoxicity prevalence latent tuberculosis infection monotherapy",
+        "rationale": "To determine the frequency of liver injury specifically in patients receiving isoniazid monotherapy for latent TB, as opposed to active TB multi-drug regimens."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Mortality Rates of Isoniazid-Induced Hepatitis",
+        "search_query": "isoniazid-induced liver injury mortality rate case fatality",
+        "rationale": "To identify the specific mortality rate associated with drug-induced liver injury (DILI) caused by isoniazid to address the provider's primary concern."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Risk Factors for Severe INH Hepatotoxicity",
+        "search_query": "isoniazid hepatotoxicity risk factors genetic predisposition alcohol age",
+        "rationale": "To identify patient-specific variables (e.g., NAT2 acetylation status, alcohol use, age) that increase the likelihood of progression from mild liver enzyme elevation to fatal liver failure."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Clinical Outcomes and Management of INH-DILI",
+        "search_query": "isoniazid-induced hepatitis clinical outcomes prognosis management",
+        "rationale": "To understand the typical clinical course of INH hepatotoxicity and how management strategies influence the survival rate."
+      }
+    ]
+  },
+  "172": {
+    "qid": "172",
+    "question": "ankle fractures in adults What are the major indications for operative fixation of an ankle fracture? The provider is considering referring a patient with an ankle fracture to an orthopedic surgeon, and needs information on the major indications for surgery.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Indications for Operative Fixation in Unstable Ankle Fractures",
+        "search_query": "ankle fracture operative fixation indications unstable",
+        "rationale": "To identify the primary clinical and radiographic criteria that define instability and necessitate surgical intervention."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Management of Displaced vs. Non-displaced Ankle Fractures",
+        "search_query": "ankle fracture displaced vs non-displaced surgical management",
+        "rationale": "To establish the threshold of displacement (mm) that typically triggers a referral for operative fixation."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Role of Syndesmotic Injury in Surgical Decision Making",
+        "search_query": "syndesmosis injury ankle fracture surgical indications",
+        "rationale": "To determine if isolated or concomitant syndesmotic instability serves as a major independent indication for surgery."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Comparison of Conservative vs. Surgical Outcomes for Ankle Fractures",
+        "search_query": "ankle fracture conservative vs surgical treatment outcomes",
+        "rationale": "To provide evidence-based comparisons of long-term functional outcomes and complication rates to justify surgical referral."
+      }
+    ]
+  },
+  "174": {
+    "qid": "174",
+    "question": "metabolic bone disease in inflammatory bowel disease What are the risk factors for osteoporosis and fracture in patients with inflammatory bowel disease (IBD)? The provider is looking for management of IBD that includes prevention of osteopenia, osteoporosis, and bone fractures.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Pathophysiology and Risk Factors",
+        "search_query": "(\"inflammatory bowel disease\"[Mesh] OR \"Crohn's disease\" OR \"ulcerative colitis\") AND (\"osteoporosis\"[Mesh] OR \"osteopenia\" OR \"bone fracture\") AND (\"risk factors\" OR \"pathogenesis\")",
+        "rationale": "To identify the specific biological mechanisms (e.g., systemic inflammation, malabsorption) and clinical risk factors that predispose IBD patients to bone loss."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Impact of Corticosteroid Therapy",
+        "search_query": "(\"inflammatory bowel disease\"[Mesh]) AND (\"glucocorticoids\"[Mesh] OR \"prednisone\" OR \"steroids\") AND (\"bone density\" OR \"fracture risk\")",
+        "rationale": "Corticosteroids are a primary driver of secondary osteoporosis in IBD; understanding the dose-response relationship is critical for prevention strategies."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Nutritional Deficiencies and Bone Health",
+        "search_query": "(\"inflammatory bowel disease\"[Mesh]) AND (\"Vitamin D\"[Mesh] OR \"Calcium\" OR \"malabsorption\") AND (\"bone mineral density\" OR \"osteoporosis\")",
+        "rationale": "IBD often involves malabsorption of calcium and vitamin D, which are essential for bone maintenance and fracture prevention."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Preventative Management and Pharmacotherapy",
+        "search_query": "(\"inflammatory bowel disease\"[Mesh]) AND (\"osteoporosis\"[Mesh] OR \"osteopenia\") AND (\"preventive care\" OR \"bisphosphonates\" OR \"denosumab\" OR \"teriparatide\")",
+        "rationale": "To find evidence-based guidelines and pharmacological interventions specifically for preventing bone loss in the IBD population."
+      }
+    ]
+  },
+  "176": {
+    "qid": "176",
+    "question": "rectal microbiota for prophylaxis of C. diff. What is the appropriate dosing volume for fecal microbiota rectal suspension used as Clostridioides difficile infection prophylaxis in adults? Hospital staff are looking for information on dosing of fecal microbiota rectal suspension to prevent Clostridioides difficile infection.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "FMT Dosing for CDI Prophylaxis",
+        "search_query": "(\"fecal microbiota transplantation\" OR \"fecal microbiota rectal suspension\") AND (\"Clostridioides difficile\" OR \"C. diff\") AND (prophylaxis OR prevention) AND (dose OR volume OR concentration)",
+        "rationale": "Directly addresses the primary question regarding the specific volume and dosing parameters used for preventing CDI in adult populations."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Administration Routes and Delivery Methods",
+        "search_query": "(\"fecal microbiota transplantation\" OR \"fecal microbiota\") AND (\"rectal suspension\" OR \"enema\" OR \"rectal administration\") AND (volume OR frequency OR protocol)",
+        "rationale": "Determines the standard delivery protocols for rectal suspensions, which influences the required volume and frequency of administration."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Clinical Trial Protocols for Prophylactic FMT",
+        "search_query": "(\"fecal microbiota transplantation\" OR \"FMT\") AND \"Clostridioides difficile\" AND (prophylaxis OR \"preventative therapy\") AND (clinical trial OR randomized controlled trial)",
+        "rationale": "Retrieves evidence from controlled studies to identify standardized dosing regimens and safety profiles used in a clinical research setting."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Comparative Efficacy of FMT Volumes",
+        "search_query": "(\"fecal microbiota transplantation\") AND (\"Clostridioides difficile\") AND (dose-response OR \"volume comparison\" OR \"concentration effect\")",
+        "rationale": "Explores whether different volumes or concentrations of the rectal suspension lead to varying outcomes in prophylaxis efficacy."
+      }
+    ]
+  },
+  "178": {
+    "qid": "178",
+    "question": "preparticipation physical evaluation What is the most sensitive and specific component of the Preparticipation Physical Evaluation (PPE) for detecting conditions that might preclude participation in sports? The athlete’s primary care provider is looking for information on PPE in children and adolescents to keep the athlete safe and healthy while participating in sports.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Sensitivity and Specificity of PPE Components",
+        "search_query": "(\"preparticipation physical evaluation\" OR \"sports physical\") AND (sensitivity OR specificity OR diagnostic accuracy) AND (screening)",
+        "rationale": "Directly addresses the core question of which specific component of the PPE is most effective at identifying disqualifying conditions."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "Cardiac Screening Efficacy in Youth Athletes",
+        "search_query": "(\"preparticipation physical evaluation\" OR \"PPE\") AND (\"cardiac screening\" OR \"electrocardiogram\" OR \"ECG\") AND (\"pediatric\" OR \"adolescent\")",
+        "rationale": "Cardiac issues are the most critical conditions to detect to prevent sudden cardiac death, making this a primary focus for safety and specificity."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Medical History vs. Physical Examination",
+        "search_query": "(\"preparticipation physical evaluation\") AND (\"medical history\" OR \"questionnaire\") AND (\"physical examination\") AND \"comparative effectiveness\"",
+        "rationale": "Evaluates whether the patient history/questionnaire is more sensitive than the physical exam in detecting precluding conditions."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Pediatric PPE Guidelines and Safety Outcomes",
+        "search_query": "(\"AAP\" OR \"American Academy of Pediatrics\") AND \"preparticipation physical evaluation\" AND (\"children\" OR \"adolescents\") AND \"safety outcomes\"",
+        "rationale": "Provides the clinical framework and evidence-based guidelines used by primary care providers to ensure athlete health and safety."
+      }
+    ]
+  },
+  "180": {
+    "qid": "180",
+    "question": "adverse muscle events due to statins What factors contribute to a higher risk of statin-associated adverse muscle events and what specific statins are recommended for patients at increased risk due to concurrent therapy with a strong inhibitor of CYP3A4? A PCP is looking for the most appropriate statin for a patient that is on diltiazem, specifically to avoid adverse muscle events.",
+    "subtopics": [
+      {
+        "subtopic_id": 1,
+        "title": "Risk Factors for Statin-Associated Muscle Symptoms (SAMS)",
+        "search_query": "statin-associated muscle symptoms risk factors OR myopathy risk factors",
+        "rationale": "To identify the general patient-specific and clinical factors that increase the likelihood of muscle adverse events, providing a baseline for risk assessment."
+      },
+      {
+        "subtopic_id": 2,
+        "title": "CYP3A4 Inhibition and Statin Pharmacokinetics",
+        "search_query": "CYP3A4 inhibitors statin interaction muscle toxicity OR diltiazem statin myopathy",
+        "rationale": "To understand the mechanism by which strong CYP3A4 inhibitors like diltiazem increase statin plasma concentrations and the subsequent risk of myotoxicity."
+      },
+      {
+        "subtopic_id": 3,
+        "title": "Comparative Risk of Statin Types under CYP3A4 Inhibition",
+        "search_query": "CYP3A4 independent statins vs CYP3A4 dependent statins muscle risk",
+        "rationale": "To differentiate between statins metabolized by CYP3A4 (e.g., simvastatin, lovastatin, atorvastatin) and those that are not (e.g., pravastatin, rosuvastatin, pitavastatin)."
+      },
+      {
+        "subtopic_id": 4,
+        "title": "Clinical Guidelines for Statin Selection with Diltiazem",
+        "search_query": "statin recommendation diltiazem concurrent therapy OR best statin for CYP3A4 inhibitor patient",
+        "rationale": "To find evidence-based recommendations or guidelines for the most appropriate statin choice and dosage for a patient specifically taking diltiazem to minimize muscle event risk."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1185 @@
+{
+  "116": {
+    "qid": "116",
+    "question": "natural treatments for sleep apnea Are there ways to prevent sleep apnea or treat it naturally? The patient is looking for natural remedies to prevent and treat sleep apnea.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately reflects the evidence, uses correct citations, addresses all main aspects of the question, and provides safe and balanced recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "19037617",
+        "21603432",
+        "24118690",
+        "28901030",
+        "29517065",
+        "30709524",
+        "33659106",
+        "36088151",
+        "37532368"
+      ],
+      "valid_pmids": [
+        "19037617",
+        "20875158",
+        "21603432",
+        "21642831",
+        "22014867",
+        "24118690",
+        "28901030",
+        "29517065",
+        "30709524",
+        "33659106",
+        "36088151",
+        "37532368"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "118": {
+    "qid": "118",
+    "question": "cornea injury healing How long does a minor cornea injury take to heal without medical attention? A patient believes his cornea injury does not need medical attention. The patient expects the injury to heal on its own, but asking for the time at which the eye should heal.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately reflects the evidence, uses correct citations, addresses the main aspects of the question, and provides safe guidance for when medical attention is necessary."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "15259527",
+        "23317075",
+        "25140844",
+        "27119941",
+        "29355667",
+        "31598519"
+      ],
+      "valid_pmids": [
+        "15259527",
+        "23317075",
+        "23652196",
+        "25140844",
+        "27119941",
+        "29217021",
+        "29355667",
+        "31598519"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "120": {
+    "qid": "120",
+    "question": "causes of facial numbness What causes left sided facial numbness? This patient is feeling the left side of his face is numb. He did not have any injuries or procedures, and feels well otherwise. He is concerned this might be a sign of a problem and wants to know if the causes need medical attention.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately reflects the evidence, uses correct citations, addresses the main aspects of the question, and provides safe guidance for when medical attention is necessary."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "17305614",
+        "24053080",
+        "31097197",
+        "31471563",
+        "31783736",
+        "32445717",
+        "33133816"
+      ],
+      "valid_pmids": [
+        "17305614",
+        "24053080",
+        "31097197",
+        "31471563",
+        "31783736",
+        "32445717",
+        "33133816"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "122": {
+    "qid": "122",
+    "question": "t wave abnormality What is a t wave abnormality? This patient had an ECG test. She was told some t wave abnormalities were seen in the test. She is looking for a definition of t wave abnormalities and an explanation of their meaning.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately defines T-wave abnormalities, explains their clinical significance, and emphasizes the need for clinical context, all while using correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "11728347",
+        "15842434",
+        "16308114",
+        "18616439",
+        "21140289",
+        "2148032",
+        "24276094",
+        "32975832"
+      ],
+      "valid_pmids": [
+        "11728347",
+        "15842434",
+        "16308114",
+        "18616439",
+        "21140289",
+        "2148032",
+        "24276094",
+        "32975832"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "124": {
+    "qid": "124",
+    "question": "cad without angina What does cad without angina mean? This patient was diagnosed with coronary heart disease without angina pectoris. He would like to know more about this condition.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately explains CAD without angina, uses correct citations, addresses the main aspects of the question, and provides safe and evidence-based recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "14963655",
+        "19110087",
+        "19641278",
+        "19774513",
+        "21524048",
+        "27318576",
+        "30919783",
+        "31168187"
+      ],
+      "valid_pmids": [
+        "14963655",
+        "19110087",
+        "19641278",
+        "19774513",
+        "21524048",
+        "27318576",
+        "30919783",
+        "31168187"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "126": {
+    "qid": "126",
+    "question": "nondisjunction What is nondisjunction and what causes it? A family that is considering IVF has heard about nondisjunction. They would like to know more about non-disjunction and its causes.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately explains nondisjunction, its causes, risk factors, and clinical implications, while using correct citations and addressing all key aspects of the question."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "155033",
+        "15551222",
+        "16437524",
+        "16915240",
+        "18270181",
+        "19050929",
+        "30260330",
+        "31830031",
+        "32215107",
+        "9801867"
+      ],
+      "valid_pmids": [
+        "155033",
+        "15551222",
+        "16437524",
+        "16915240",
+        "18270181",
+        "19050929",
+        "25432917",
+        "29037558",
+        "30260330",
+        "31830031",
+        "32215107",
+        "9801867"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "128": {
+    "qid": "128",
+    "question": "cbd effect on liver enzymes How does CBD effect liver enzymes? This patient would like to know if cannabidiol (CBD) may damage his liver and if the liver enzyme tests will show the effect of CBD on the liver.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately reflects the evidence, uses correct citations, addresses the main aspects of the question, and provides balanced and cautious guidance regarding CBD's effects on liver enzymes."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "21704641",
+        "21930120",
+        "30921490",
+        "31052254",
+        "34918948",
+        "36704740",
+        "36912195"
+      ],
+      "valid_pmids": [
+        "21704641",
+        "21930120",
+        "30921490",
+        "31052254",
+        "34918948",
+        "36704740",
+        "36912195"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "130": {
+    "qid": "130",
+    "question": "pcos and oxidative stress Is pcos linked to oxidative stress? The patient with polycystic ovary syndrome has heard the condition is linked to oxidative stress. She would like to know how oxidative stress effects pcos.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately links PCOS to oxidative stress, explains its effects on fertility and metabolism, and discusses antioxidant interventions, all while using correct citations and addressing the main aspects of the question."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "26330853",
+        "26881435",
+        "34578816",
+        "35392500",
+        "36386912",
+        "37337194",
+        "37585035",
+        "37762427"
+      ],
+      "valid_pmids": [
+        "26330853",
+        "26881435",
+        "27958630",
+        "34578816",
+        "35392500",
+        "36386912",
+        "37337194",
+        "37585035",
+        "37762427"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "132": {
+    "qid": "132",
+    "question": "low vitamin D What is the effect of low vitamin D? The patient diagnosed with vitamin D deficiency would like to know how the problem affects his health.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the effects of vitamin D deficiency, uses correct citations, addresses all main aspects of the question, and provides cautious interpretations for debated associations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "16251641",
+        "17138809",
+        "18020534",
+        "18400738",
+        "19491061",
+        "21939984",
+        "23377209",
+        "23609564",
+        "28786260",
+        "31909749",
+        "37233176"
+      ],
+      "valid_pmids": [
+        "16251641",
+        "17138809",
+        "18020534",
+        "18400738",
+        "19491061",
+        "21939984",
+        "23377209",
+        "23609564",
+        "28786260",
+        "31909749",
+        "37233176"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "134": {
+    "qid": "134",
+    "question": "ibs symptoms and treatments What are the symptoms and treatments for IBS? The patient believes his symptoms may be related to irritable bowel syndrome (IBS). He would like to know more about the symptoms and treatment options.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes IBS symptoms and treatment options, uses correct citations, addresses all main aspects of the question, and provides safe and evidence-based recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "15605117",
+        "16498278",
+        "16898604",
+        "24379577",
+        "24935275",
+        "28617710",
+        "30466670",
+        "30817479",
+        "33049223",
+        "34238582",
+        "718552"
+      ],
+      "valid_pmids": [
+        "15605117",
+        "16498278",
+        "16898604",
+        "24379577",
+        "24935275",
+        "28617710",
+        "30466670",
+        "30817479",
+        "33049223",
+        "34238582",
+        "718552"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "136": {
+    "qid": "136",
+    "question": "treatment for elbow pain What can be done for severe elbow pain? The patient's elbow started hurting after playing tennis. The pain was not relieved by Aleve. The patient would like to know what else could be done.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the symptoms, conservative treatments, and advanced options for tennis elbow, uses correct citations, and provides safe and evidence-based recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "17910298",
+        "20086969",
+        "21253755",
+        "22759604",
+        "23185733",
+        "23997125",
+        "25414603",
+        "33123709",
+        "34740411",
+        "37018622"
+      ],
+      "valid_pmids": [
+        "17910298",
+        "19243730",
+        "20086969",
+        "21253755",
+        "22759604",
+        "23185733",
+        "23997125",
+        "25414603",
+        "33123709",
+        "34740411",
+        "37018622"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "138": {
+    "qid": "138",
+    "question": "Sudafed Afrin interaction Can I use Sudafed after using Afrin for nasal congestion? Afrin did not relieve nasal congestion in the patient who is now wondering if taking Sudafed will help. The patient would like to know if it is safe to take the two medications together.",
+    "judgment": {
+      "factual_support": "Partially Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the efficacy and risks of pseudoephedrine and oxymetazoline but lacks direct evidence on their combined use. It provides cautious guidance but does not fully address the patient's specific question."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "16784007",
+        "17120715",
+        "20463825",
+        "2182265",
+        "25532441",
+        "32242436"
+      ],
+      "valid_pmids": [
+        "16784007",
+        "17120715",
+        "20463825",
+        "20477610",
+        "2182265",
+        "23375990",
+        "25532441",
+        "32242436",
+        "33666764"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "140": {
+    "qid": "140",
+    "question": "spontaneous hand fractures What can cause acute fractures in both of your hands when there hasn’t been injury or trauma? A patient felt pain in his hands after vigorous exercise. In the ER, he was told he has fractures. He is wondering what could have caused the fractures: he did not have any injuries during exercise.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies potential causes of spontaneous hand fractures, uses correct citations, addresses the main aspects of the question, and provides safe and evidence-based explanations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "15262513",
+        "15856364",
+        "19275452",
+        "20212101",
+        "24939377",
+        "26531771",
+        "33686840",
+        "36109301",
+        "37278060"
+      ],
+      "valid_pmids": [
+        "14977672",
+        "15262513",
+        "15856364",
+        "19275452",
+        "20212101",
+        "24939377",
+        "26531771",
+        "33686840",
+        "36109301",
+        "37278060"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "142": {
+    "qid": "142",
+    "question": "Medications that raise blood pressure What medication has a drug interaction with high blood pressure? The hypertensive patient is concerned that some of the medications he is taking may elevate his blood pressure and interact with his antihypertensive medications.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies medications that can raise blood pressure, discusses drug interactions, and provides safe recommendations for managing drug-induced hypertension, with correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "12862505",
+        "17028488",
+        "18607141",
+        "2182265",
+        "22195528",
+        "26096556",
+        "33666764"
+      ],
+      "valid_pmids": [
+        "12862505",
+        "17028488",
+        "18607141",
+        "20203454",
+        "2182265",
+        "22195528",
+        "26096556",
+        "33666764"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "144": {
+    "qid": "144",
+    "question": "starting hypertension treatment When should I treat high blood pressure? The patient has high blood pressure, but otherwise is healthy and fit. She is wondering if she should talk to her doctor about treatment options.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately explains hypertension treatment thresholds, the role of cardiovascular risk, and the importance of lifestyle interventions, using correct citations and providing safe recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "18785439",
+        "19381107",
+        "22111320",
+        "25019019",
+        "27872051",
+        "29536372",
+        "30612417",
+        "31521481",
+        "37843942"
+      ],
+      "valid_pmids": [
+        "18785439",
+        "19381107",
+        "22111320",
+        "24352797",
+        "25019019",
+        "27872051",
+        "29536372",
+        "30612417",
+        "31521481",
+        "37843942"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "146": {
+    "qid": "146",
+    "question": "Management of PTSD How can PTSD be treated/managed? A war veteran is seeking help for PTSD.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes evidence-based psychotherapies, pharmacological options, and complementary approaches for managing PTSD in veterans, using correct citations and providing safe recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "10757257",
+        "21798109",
+        "23015579",
+        "23015581",
+        "29415222",
+        "29635563",
+        "30450043",
+        "33513582",
+        "34924624"
+      ],
+      "valid_pmids": [
+        "10757257",
+        "16437445",
+        "21798109",
+        "23015579",
+        "23015581",
+        "29415222",
+        "29635563",
+        "30450043",
+        "33513582",
+        "34000134",
+        "34924624"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "148": {
+    "qid": "148",
+    "question": "easy bruising Why do I bruise so easily? A 59-year-old woman noticed multiple spontaneous bruises in the past several weeks. She would like to know what causes this bruising.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies potential causes of easy bruising, including age-related changes, hematologic disorders, medications, and nutritional deficiencies, using correct citations and providing safe recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "12739321",
+        "16634245",
+        "19226909",
+        "21686649",
+        "23915409",
+        "24237980",
+        "36153722",
+        "37255614",
+        "7950480"
+      ],
+      "valid_pmids": [
+        "12739321",
+        "16634245",
+        "19226909",
+        "21686649",
+        "2184809",
+        "23915409",
+        "24237980",
+        "30402738",
+        "31175794",
+        "36153722",
+        "37255614",
+        "7950480"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "150": {
+    "qid": "150",
+    "question": "effectiveness of physical therapy for lumbar disc herniation What are the effectiveness of physical therapy interventions in reducing pain in patients with lumbar disc herniation? A 52-year-old with lumbar disc herniation was referred to physical therapy. He would like to know if this treatment will effectively reduce his pain.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the effectiveness of physical therapy for lumbar disc herniation and uses correct citations, but it does not fully address long-term outcomes or compare PT to other treatments like surgery."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "11552355",
+        "16249899",
+        "16462442",
+        "23389665",
+        "25729196",
+        "27942133",
+        "28045705"
+      ],
+      "valid_pmids": [
+        "11552355",
+        "16249899",
+        "16462442",
+        "23389665",
+        "25729196",
+        "27942133",
+        "28045705"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "152": {
+    "qid": "152",
+    "question": "quitting amlodipine Is it possible to quit taking amlodipine after taking for many years? The patient has been taking amlodipine for many years. She would like to know if it is safe to stop taking it.",
+    "judgment": {
+      "factual_support": "Partially Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the evidence on amlodipine's effects during short-term missed doses and withdrawal studies but lacks data on long-term cessation safety and tapering protocols."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "11850645",
+        "18034989",
+        "28100922",
+        "8292466"
+      ],
+      "valid_pmids": [
+        "11850645",
+        "18034989",
+        "28100922",
+        "8292466"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "154": {
+    "qid": "154",
+    "question": "breathing techniques for managing shortness of breath How to breathe when you are short of breath? The patient is constantly out of breath and wants to improve breathing using breathing techniques and exercise.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the benefits of breathing techniques and exercise for managing shortness of breath, uses correct citations, and provides safe and evidence-based recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "11194785",
+        "12645825",
+        "15563259",
+        "16281658",
+        "18044092",
+        "18047456",
+        "18686398",
+        "22094449",
+        "29706718",
+        "3304812",
+        "508981"
+      ],
+      "valid_pmids": [
+        "11194785",
+        "12645825",
+        "15563259",
+        "16281658",
+        "18044092",
+        "18047456",
+        "18686398",
+        "22094449",
+        "29706718",
+        "3304812",
+        "37047855",
+        "508981"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "156": {
+    "qid": "156",
+    "question": "golfer's elbow What are some non-surgical treatments recommended for Golfer's elbow? A family doctor is looking for the best conservative treatments for his patient.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes conservative treatments for golfer's elbow, including physical therapy, bracing, and pharmacological options, while addressing the limitations and controversies in the evidence."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "16175767",
+        "20086969",
+        "21157658",
+        "22759604",
+        "23185733",
+        "24944855",
+        "24994055",
+        "25946870",
+        "28577784",
+        "34740411",
+        "9802175"
+      ],
+      "valid_pmids": [
+        "16175767",
+        "20086969",
+        "21157658",
+        "22759604",
+        "23185733",
+        "24944855",
+        "24994055",
+        "25946870",
+        "28577784",
+        "34740411",
+        "9802175"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "158": {
+    "qid": "158",
+    "question": "klippel trenaunay What genetic mutation is most commonly associated with the development of Klippel-Trenaunay syndrome (KTS)? A healthcare provider looks for specific genetic testing for a patient with a capillary stain.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies PIK3CA mutations as the genetic basis for KTS and its classification under PROS, but it does not address specific genetic testing modalities for detecting these mutations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "15279746",
+        "26268729",
+        "32695703",
+        "35154272",
+        "35829859",
+        "37628420"
+      ],
+      "valid_pmids": [
+        "15279746",
+        "16258967",
+        "26268729",
+        "32695703",
+        "35154272",
+        "35829859",
+        "37628420"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "160": {
+    "qid": "160",
+    "question": "toxic hepatitis What is the recommended first-line treatment for liver damage caused by an overdose of acetaminophen? The emergency physician is looking for treatments for a patient admitted with acetaminophen overdose.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies NAC as the first-line treatment for acetaminophen overdose, explains its mechanism of action, and discusses its use in acute liver failure, using correct citations and providing safe recommendations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "18630824",
+        "22998987",
+        "23249634",
+        "25537186",
+        "25767408",
+        "29605069",
+        "30777470",
+        "31307590",
+        "34053705",
+        "7030465"
+      ],
+      "valid_pmids": [
+        "17709050",
+        "18630824",
+        "19169150",
+        "22998987",
+        "23249634",
+        "25537186",
+        "25767408",
+        "29605069",
+        "30777470",
+        "31307590",
+        "34053705",
+        "7030465"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "162": {
+    "qid": "162",
+    "question": "wilsons disease What is the typical age range for the diagnosis of Wilson's disease? A 62-year-old patient has signs of liver and brain damage. Her PCP wonders if Wilson's disease can be diagnosed at this age.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the typical age range for Wilson's disease diagnosis, highlights its variability, and emphasizes the need to consider it in older patients with relevant symptoms, using correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "17433323",
+        "18311837",
+        "29159549",
+        "32322813",
+        "36573661",
+        "877627"
+      ],
+      "valid_pmids": [
+        "17352944",
+        "17433323",
+        "18311837",
+        "29159549",
+        "29851199",
+        "31653233",
+        "32322813",
+        "36573661",
+        "877627"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "164": {
+    "qid": "164",
+    "question": "vocal cord paralysis What is a potential complication associated with bilateral vocal cord paralysis? A laryngologist conducts a comprehensive assessment of a singer considering the patient's quantity-of-life and perspective.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies airway obstruction as a life-threatening complication of bilateral vocal cord paralysis and discusses its impact on quality of life, but it does not fully address the specific concerns of professional singers or detailed management strategies for this subgroup."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "23988139",
+        "24758854",
+        "29102939",
+        "33468368",
+        "34586999"
+      ],
+      "valid_pmids": [
+        "16087022",
+        "23988139",
+        "24758854",
+        "29102939",
+        "33468368",
+        "34586999"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "166": {
+    "qid": "166",
+    "question": "multiple myeloma What are the different tests and procedures used to diagnose multiple myeloma? The provider is looking for the best workup for the patient with suspected multiple myeloma.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the diagnostic workup for multiple myeloma, including laboratory, histopathological, and imaging tests, using correct citations and addressing all main aspects of the question."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "17620051",
+        "19421229",
+        "24505909",
+        "26509779",
+        "26969773",
+        "27795519",
+        "28318212",
+        "30171031",
+        "33573573",
+        "34947851"
+      ],
+      "valid_pmids": [
+        "17620051",
+        "18801937",
+        "19421229",
+        "24505909",
+        "25626297",
+        "26509779",
+        "26969773",
+        "27795519",
+        "28318212",
+        "30171031",
+        "33573573",
+        "34947851"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "168": {
+    "qid": "168",
+    "question": "intermittent explosive disorder What treatment options are suggested for managing intermittent explosive disorder? The provider is looking for the best treatment for intermittent explosive disorder.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes treatment options for IED, including pharmacological and psychotherapeutic approaches, while acknowledging the limitations in evidence, and uses correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "12096933",
+        "18837604",
+        "3546964",
+        "36229112"
+      ],
+      "valid_pmids": [
+        "12096933",
+        "16754840",
+        "17675932",
+        "18837604",
+        "22752056",
+        "3546964",
+        "36229112"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "170": {
+    "qid": "170",
+    "question": "isoniazid hepatotoxicity What is the prevalence of INH hepatitis during anti-tubercular therapy for latent tuberculosis, and what is the associated mortality rate for these cases? The provider is concerned with hepatotoxicity due to isoniazid monotherapy for tuberculosis and wants to know the mortality rate associated with liver damage due to INH.",
+    "judgment": {
+      "factual_support": "Partially Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies the prevalence of severe INH-induced hepatitis and mentions fatal cases, but it lacks comprehensive data on the overall mortality rate and risk factors for severe outcomes."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "16002924",
+        "25786447",
+        "26377643",
+        "35345710"
+      ],
+      "valid_pmids": [
+        "16002924",
+        "25786447",
+        "26377643",
+        "35345710",
+        "37070117"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "172": {
+    "qid": "172",
+    "question": "ankle fractures in adults What are the major indications for operative fixation of an ankle fracture? The provider is considering referring a patient with an ankle fracture to an orthopedic surgeon, and needs information on the major indications for surgery.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies the major indications for operative fixation of ankle fractures, including displaced fractures and unstable syndesmosis injuries, while addressing non-operative options and individual patient factors, using correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "16824524",
+        "16891946",
+        "18523745",
+        "21779900",
+        "23426611",
+        "27923219",
+        "30475639",
+        "34076522",
+        "35097351",
+        "36705613",
+        "6470428"
+      ],
+      "valid_pmids": [
+        "16824524",
+        "16891946",
+        "18523745",
+        "21779900",
+        "23426611",
+        "27923219",
+        "30475639",
+        "33509713",
+        "34076522",
+        "35097351",
+        "36705613",
+        "6470428"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "174": {
+    "qid": "174",
+    "question": "metabolic bone disease in inflammatory bowel disease What are the risk factors for osteoporosis and fracture in patients with inflammatory bowel disease (IBD)? The provider is looking for management of IBD that includes prevention of osteopenia, osteoporosis, and bone fractures.",
+    "judgment": {
+      "factual_support": "Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies risk factors for osteoporosis in IBD patients, including corticosteroid use, malnutrition, and inflammation, and provides evidence-based prevention and management strategies using correct citations."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "15128066",
+        "15352893",
+        "15785432",
+        "16699475",
+        "18069754",
+        "23944617",
+        "26503868",
+        "33380122",
+        "33380127"
+      ],
+      "valid_pmids": [
+        "15128066",
+        "15352893",
+        "15785432",
+        "16699475",
+        "18069754",
+        "23944617",
+        "26503868",
+        "33380122",
+        "33380127"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "176": {
+    "qid": "176",
+    "question": "rectal microbiota for prophylaxis of C. diff. What is the appropriate dosing volume for fecal microbiota rectal suspension used as Clostridioides difficile infection prophylaxis in adults? Hospital staff are looking for information on dosing of fecal microbiota rectal suspension to prevent Clostridioides difficile infection.",
+    "judgment": {
+      "factual_support": "Partially Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately identifies the use of rectal fecal microbiota suspensions for *C. difficile* prophylaxis but does not provide specific dosing volumes, as this information is not included in the evidence."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "25825054",
+        "32656604",
+        "32981509",
+        "33795620",
+        "36931236",
+        "37345775"
+      ],
+      "valid_pmids": [
+        "25825054",
+        "32656604",
+        "32981509",
+        "33795620",
+        "36931236",
+        "37345775"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  },
+  "178": {
+    "qid": "178",
+    "question": "preparticipation physical evaluation What is the most sensitive and specific component of the Preparticipation Physical Evaluation (PPE) for detecting conditions that might preclude participation in sports? The athlete’s primary care provider is looking for information on PPE in children and adolescents to keep the athlete safe and healthy while participating in sports.",
+    "judgment": {
+      "factual_support": "Partially Supported",
+      "citation_correctness": "Correct",
+      "completeness": "Partially Complete",
+      "safety": "Safe",
+      "short_explanation": "The report accurately describes the purpose and components of the PPE but does not provide specific sensitivity or specificity data for any component, as this information is not included in the evidence."
+    },
+    "citation_validation": {
+      "cited_pmids": [
+        "19276904",
+        "24499039",
+        "25076682",
+        "26371570",
+        "33929170",
+        "8008076"
+      ],
+      "valid_pmids": [
+        "19276904",
+        "24499039",
+        "25076682",
+        "26371570",
+        "33929170",
+        "8008076"
+      ],
+      "invalid_pmids": [],
+      "has_no_citations": false,
+      "all_citations_valid": true
+    }
+  }
+}
